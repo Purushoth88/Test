@@ -53,11 +53,12 @@
       }
     },
     {
-      "type": "clickElement",
-      "locator": {
-        "type": "link text",
-        "value": "Sauce Labs: Cross Browser Testing, Selenium Testing, and Mobile ..."
-      }
+      "type": "switchToWindow",
+      "name": ""
+    },
+    {
+      "type": "switchToWindow",
+      "name": ""
     }
   ],
   "data": {
