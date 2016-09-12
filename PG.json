@@ -1,0 +1,63 @@
+{
+  "type": "script",
+  "seleniumVersion": "2",
+  "formatVersion": 2,
+  "steps": [
+    {
+      "type": "get",
+      "url": "https://leqlb100.portal.hewitt.com/web/pg/login"
+    },
+    {
+      "type": "setElementText",
+      "locator": {
+        "type": "id",
+        "value": "_ParticipantLogon20_WAR_ahcommonauthportlet_userId"
+      },
+      "text": "51241054AA"
+    },
+    {
+      "type": "setElementText",
+      "locator": {
+        "type": "id",
+        "value": "_ParticipantLogon20_WAR_ahcommonauthportlet_password"
+      },
+      "text": "12345678"
+    },
+    {
+      "type": "setElementText",
+      "locator": {
+        "type": "id",
+        "value": "_ParticipantLogon20_WAR_ahcommonauthportlet_testCfgList[0].cfgValue"
+      },
+      "text": "lv3b"
+    },
+    {
+      "type": "setElementSelected",
+      "locator": {
+        "type": "id",
+        "value": "_ParticipantLogon20_WAR_ahcommonauthportlet_skipAACheckbox"
+      }
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "id",
+        "value": "_ParticipantLogon20_WAR_ahcommonauthportlet_logOn"
+      }
+    },
+    {
+      "type": "verifyTextPresent",
+      "text": "Messages"
+    }
+  ],
+  "data": {
+    "configs": {},
+    "source": "none"
+  },
+  "inputs": [
+    {
+      "ResultPath": "C:\\JsonFiles\\Result\\RS992016_14134.json"
+    }
+  ],
+  "timeoutSeconds": 60
+}
