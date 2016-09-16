@@ -1,0 +1,169 @@
+{
+  "type": "script",
+  "seleniumVersion": "2",
+  "formatVersion": 2,
+  "steps": [
+    {
+      "type": "get",
+      "url": "https://leqlb030.portal.hewitt.com/web/premierUAT/login"
+    },
+    {
+      "type": "setElementText",
+      "locator": {
+        "type": "id",
+        "value": "_ParticipantLogon20_WAR_ahcommonauthportlet_userId"
+      },
+      "text": "000hew00435012"
+    },
+    {
+      "type": "setElementText",
+      "locator": {
+        "type": "id",
+        "value": "_ParticipantLogon20_WAR_ahcommonauthportlet_password"
+      },
+      "text": "99999999"
+    },
+    {
+      "type": "setElementText",
+      "locator": {
+        "type": "id",
+        "value": "_ParticipantLogon20_WAR_ahcommonauthportlet_testCfgList[0].cfgValue"
+      },
+      "text": "L75B"
+    },
+    {
+      "type": "setElementText",
+      "locator": {
+        "type": "id",
+        "value": "_ParticipantLogon20_WAR_ahcommonauthportlet_testCfgList[1].cfgValue"
+      },
+      "text": "L75B"
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "id",
+        "value": "_ParticipantLogon20_WAR_ahcommonauthportlet_logOn"
+      }
+    },
+    {
+      "type": "pause",
+      "waitTime": "80000"
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "id",
+        "value": "ahDialogCloseBtn"
+      }
+    },
+    {
+      "type": "pause",
+      "waitTime": "80000"
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "id",
+        "value": "ah-aux-nav"
+      }
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "xpath",
+        "value": "//span[@class='aui-toolbar-content']/button"
+      }
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "link text",
+        "value": "Health & Insurance"
+      }
+    },
+    {
+      "type": "pause",
+      "waitTime": "40000"
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "link text",
+        "value": "Learn About"
+      }
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "link text",
+        "value": "Reference Information"
+      }
+    },
+    {
+      "type": "pause",
+      "waitTime": "40000"
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "xpath",
+        "value": "//div[@id='badgeCnt']/a/b"
+      }
+    },
+    {
+      "type": "pause",
+      "waitTime": "30000"
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "xpath",
+        "value": "//div[@id='ah-msg-center']//div[@id='ah-tab']//li//a[contains(.,'Secure Mailbox')]"
+      }
+    },
+    {
+      "type": "pause",
+      "waitTime": "30000"
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "link text",
+        "value": "About Secure Mailbox"
+      }
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "xpath",
+        "value": "//button[@title='Close dialog']"
+      }
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "xpath",
+        "value": "//p[@id='allTipsNewsLink']//a[.='View All Tips & News']"
+      }
+    },
+    {
+      "type": "pause",
+      "waitTime": "30000"
+    },
+    {
+      "type": "verifyTextPresent",
+      "text": "Topic View (All)"
+    }
+  ],
+  "data": {
+    "configs": {},
+    "source": "none"
+  },
+  "inputs": [
+    {
+      "ResultPath": "C:\\JsonFiles\\Result\\RS1532016_124540.json"
+    }
+  ],
+  "timeoutSeconds": 60
+}
