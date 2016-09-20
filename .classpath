@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="jars/common-lang3.jar"/>
+	<classpathentry kind="lib" path="jars/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="jars/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="jars/java-client-4.1.0.jar"/>
+	<classpathentry kind="lib" path="jars/json-path-0.9.0.jar"/>
+	<classpathentry kind="lib" path="jars/json-path-1.8.0.jar"/>
+	<classpathentry kind="lib" path="jars/json-path-2.0.1.jar"/>
+	<classpathentry kind="lib" path="jars/json-smart-1.2.jar"/>
+	<classpathentry kind="lib" path="jars/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="jars/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="jars/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="jars/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="jars/poi-ooxml-schemas-3.11.jar"/>
+	<classpathentry kind="lib" path="jars/regex.jar"/>
+	<classpathentry kind="lib" path="jars/regexp.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="jars/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="jars/slf4j-api-2.0.99.jar"/>
+	<classpathentry kind="lib" path="jars/slf4j-log4j12-1.7.21.jar"/>
+	<classpathentry kind="lib" path="jars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="selenium-server-standalone-3.0.0-beta3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

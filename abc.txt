@@ -1,0 +1,8721 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class="ah-responsive-on ltr  yui3-js-enabled webkit ltr js chrome chrome49 chrome49-0 win secure js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths aui-view-gt320 aui-view-gt480 aui-view-gt720 aui-view-gt960 aui-view-960" dir="ltr" lang="en-US" id="aui_3_4_0_1_1041"><head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="viewport" id="ah-viewport" content="user-scalable=yes, width=device-width, minimum-scale=1, maximum-scale=5.0, initial-scale=1.0" />
+
+	        	<!-- Android -->
+    			<link rel="apple-touch-icon" href="/documents/1718355/8506885/ah-icon-144.png" />
+    	<link rel="apple-touch-icon-precomposed" href="/documents/1718355/8506885/ah-icon-144.png" />
+    	<!-- non-retina iPad pre iOS 7 -->
+    	<link rel="apple-touch-icon" href="/documents/1718355/8506885/ah-icon-72.png" sizes="72x72" />
+    	<!-- non-retina iPad iOS 7 -->
+    	<link rel="apple-touch-icon" href="/documents/1718355/8506885/ah-icon-76.png" sizes="76x76" />
+    	<!-- retina iPhone pre iOS 7 -->
+    	<link rel="apple-touch-icon" href="/documents/1718355/8506885/ah-icon-114.png" sizes="114x114" />
+    	<!-- retina iPhone iOS 7 -->
+    	<link rel="apple-touch-icon" href="/documents/1718355/8506885/ah-icon-120.png" sizes="120x120" />
+    	<!-- retina iPad pre iOS 7 -->
+    	<link rel="apple-touch-icon" href="/documents/1718355/8506885/ah-icon-144.png" sizes="144x144" />
+    	<!-- retina iPad iOS 7 -->
+    	<link rel="apple-touch-icon" href="/documents/1718355/8506885/ah-icon-152.png" sizes="152x152" />
+    	<!-- non-retina iPhone pre iOS 7 -->
+    	<link rel="apple-touch-icon" href="/documents/1718355/8506885/ah-icon-57.png" sizes="57x57" />
+    	
+	<title>Login </title> 	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+<!-- 
+This code executes only if javascript is disabled and redirect 
+to status.jsp page with status code 1025
+-->
+
+
+
+
+
+<noscript>
+&lt;meta http-equiv="refresh" content="0;URL=https://l4dridap1273:8446/web/earth/login?p_p_id=StatusPortlet_WAR_ahcorehook&amp;p_p_lifecycle=0&amp;p_p_state=maximized&amp;p_p_mode=view&amp;p_p_col_count=1&amp;status=1025" /&gt;
+</noscript>
+
+<!--  code for javascript disabled end -->
+
+ 
+<link href="https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/images" rel="Shortcut Icon" />
+
+
+
+
+
+
+	<link href="https://aonhewitt.com:8446/web/earth" rel="canonical" />
+
+	
+
+	
+
+		
+
+						<link href="https://aonhewitt.com:8446/es/web/earth" hreflang="es-US" rel="alternate" />
+
+		
+
+						<link href="https://aonhewitt.com:8446/fr/web/earth" hreflang="fr-CA" rel="alternate" />
+
+		
+
+						<link href="https://aonhewitt.com:8446/nl/web/earth" hreflang="nl-NL" rel="alternate" />
+
+		
+
+						<link href="https://aonhewitt.com:8446/de/web/earth" hreflang="de-DE" rel="alternate" />
+
+		
+
+						<link href="https://aonhewitt.com:8446/zh/web/earth" hreflang="zh-CN" rel="alternate" />
+
+		
+
+						<link href="https://aonhewitt.com:8446/ar/web/earth" hreflang="ar-SA" rel="alternate" />
+
+		
+
+						<link href="https://aonhewitt.com:8446/nl_BE/web/earth" hreflang="nl-BE" rel="alternate" />
+
+		
+
+						<link href="https://aonhewitt.com:8446/tr/web/earth" hreflang="tr-TR" rel="alternate" />
+
+		
+
+						<link href="https://aonhewitt.com:8446/el/web/earth" hreflang="el-GR" rel="alternate" />
+
+		
+
+						<link href="https://aonhewitt.com:8446/pt/web/earth" hreflang="pt-BR" rel="alternate" />
+
+		
+
+						<link href="https://aonhewitt.com:8446/ru/web/earth" hreflang="ru-RU" rel="alternate" />
+
+		
+
+						<link href="https://aonhewitt.com:8446/ro/web/earth" hreflang="ro-RO" rel="alternate" />
+
+		
+
+						<link href="https://aonhewitt.com:8446/pl/web/earth" hreflang="pl-PL" rel="alternate" />
+
+		
+
+						<link href="https://aonhewitt.com:8446/fr_FR/web/earth" hreflang="fr-FR" rel="alternate" />
+
+		
+
+						<link href="https://aonhewitt.com:8446/it/web/earth" hreflang="it-IT" rel="alternate" />
+
+		
+
+						<link href="https://aonhewitt.com:8446/ja/web/earth" hreflang="ja-JP" rel="alternate" />
+
+		
+
+	
+
+
+
+
+
+<link href="/html/css/main.css?browserId=other&amp;themeId=baseportal32_WAR_baseportal32theme&amp;minifierType=css&amp;languageId=en_US&amp;b=6110&amp;t=1415296408000" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+
+	
+
+				<link href="/ah-commonauth-portlet/css/main.css?browserId=other&amp;themeId=baseportal32_WAR_baseportal32theme&amp;minifierType=css&amp;languageId=en_US&amp;b=6110&amp;t=1473818416000" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="/ah-commonauth-portlet/css/portlet.css?browserId=other&amp;themeId=baseportal32_WAR_baseportal32theme&amp;minifierType=css&amp;languageId=en_US&amp;b=6110&amp;t=1473818416000" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="/ah-tiles-portlet/css/main.css?browserId=other&amp;themeId=baseportal32_WAR_baseportal32theme&amp;minifierType=css&amp;languageId=en_US&amp;b=6110&amp;t=1473817273000" rel="stylesheet" type="text/css" />
+
+	
+
+
+
+
+
+
+
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+	// &lt;![CDATA[
+		var Liferay = {
+			Browser: {
+				acceptsGzip: function() {
+					return true;
+				},
+				getMajorVersion: function() {
+					return 49.0;
+				},
+				getRevision: function() {
+					return "537.36";
+				},
+				getVersion: function() {
+					return "49.0.2623.110";
+				},
+				isAir: function() {
+					return false;
+				},
+				isChrome: function() {
+					return true;
+				},
+				isFirefox: function() {
+					return false;
+				},
+				isGecko: function() {
+					return true;
+				},
+				isIe: function() {
+					return false;
+				},
+				isIphone: function() {
+					return false;
+				},
+				isLinux: function() {
+					return false;
+				},
+				isMac: function() {
+					return false;
+				},
+				isMobile: function() {
+					return false;
+				},
+				isMozilla: function() {
+					return false;
+				},
+				isOpera: function() {
+					return false;
+				},
+				isRtf: function() {
+					return true;
+				},
+				isSafari: function() {
+					return true;
+				},
+				isSun: function() {
+					return false;
+				},
+				isWap: function() {
+					return false;
+				},
+				isWapXhtml: function() {
+					return false;
+				},
+				isWebKit: function() {
+					return true;
+				},
+				isWindows: function() {
+					return true;
+				},
+				isWml: function() {
+					return false;
+				}
+			},
+
+			Data: {
+				isCustomizationView: function() {
+					return false;
+				},
+
+				notices: [
+					null
+
+					
+
+					
+				]
+			},
+
+			ThemeDisplay: {
+				getCDNDynamicResourcesHost: function() {
+					return "";
+				},
+				getCDNBaseURL: function() {
+					return "https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106";
+				},
+				getCDNHost: function() {
+					return "https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106";
+				},
+				getCompanyId: function() {
+					return "10154";
+				},
+				getCompanyGroupId: function() {
+					return "10192";
+				},
+				getUserId: function() {
+					return "10158";
+				},
+
+				
+
+				getDoAsUserIdEncoded: function() {
+					return "";
+				},
+				getPlid: function() {
+					return "37570";
+				},
+
+				
+					getLayoutId: function() {
+						return "1";
+					},
+					getLayoutURL: function() {
+						return "/web/earth/login";
+					},
+					isPrivateLayout: function() {
+						return "false";
+					},
+					getParentLayoutId: function() {
+						return "0";
+					},
+				
+
+				getScopeGroupId: function() {
+					return "37365";
+				},
+				getScopeGroupIdOrLiveGroupId: function() {
+					return "37365";
+				},
+				getParentGroupId: function() {
+					return "37365";
+				},
+				isImpersonated: function() {
+					return false;
+				},
+				isSignedIn: function() {
+					return false;
+				},
+				getDefaultLanguageId: function() {
+					return "en_US";
+				},
+				getLanguageId: function() {
+					return "en_US";
+				},
+				isAddSessionIdToURL: function() {
+					return false;
+				},
+				isFreeformLayout: function() {
+					return false;
+				},
+				isStateExclusive: function() {
+					return false;
+				},
+				isStateMaximized: function() {
+					return false;
+				},
+				isStatePopUp: function() {
+					return false;
+				},
+				getPathContext: function() {
+					return "";
+				},
+				getPathImage: function() {
+					return "/image";
+				},
+				getPathJavaScript: function() {
+					return "/html/js";
+				},
+				getPathMain: function() {
+					return "/c";
+				},
+				getPathThemeImages: function() {
+					return "https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/images";
+				},
+				getPathThemeRoot: function() {
+					return "/base-portal-32-theme/";
+				},
+				getURLControlPanel: function() {
+					return "/group/control_panel?doAsGroupId=37365&amp;refererPlid=37570";
+				},
+				getURLHome: function() {
+					return "https://l4dridap1273:8446/web/guest";
+				},
+				getSessionId: function() {
+					return "50730CC9F1AE4CE32C0E72B3498FB01D.41273_LR_TU_CL106_M1";
+				},
+				getPortletSetupShowBordersDefault: function() {
+					return false;
+				}
+			},
+
+			PropsValues: {
+				NTLM_AUTH_ENABLED: false
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		
+
+		Liferay.AUI = {
+			getBaseURL: function() {
+				return 'https://l4dridap1273:8446/html/js/aui/';
+			},
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/combo/?browserId=other&amp;minifierType=&amp;languageId=en_US&amp;b=6110&amp;t=1473818302000&amp;p=/html/js&amp;';
+			},
+			getFilter: function() {
+				
+					
+						return {
+							replaceStr: function(match, fragment, string) {
+								return fragment + 'm=' + (match.split('/html/js')[1] || '');
+							},
+							searchExp: '(\\?|&amp;)/([^&amp;]+)'
+						};
+					
+					
+					
+				
+			},
+			getJavaScriptRootPath: function() {
+				return '/html/js';
+			},
+			getLangPath: function () {
+				return 'aui_lang.jsp?browserId=other&amp;themeId=baseportal32_WAR_baseportal32theme&amp;colorSchemeId=default&amp;minifierType=js&amp;languageId=en_US&amp;b=6110&amp;t=1473818302000';
+			},
+			getRootPath: function() {
+				return '/html/js/aui/';
+			}
+		};
+
+		window.YUI_config = {
+			base: Liferay.AUI.getBaseURL(),
+			comboBase: Liferay.AUI.getComboPath(),
+			fetchCSS: true,
+			filter: Liferay.AUI.getFilter(),
+			root: Liferay.AUI.getRootPath(),
+			useBrowserConsole: false
+		};
+
+		
+
+		Liferay.currentURL = '\x2fweb\x2fearth\x2flogin';
+		Liferay.currentURLEncoded = '%2Fweb%2Fearth%2Flogin';
+	// ]]&gt;
+</script>
+
+
+	
+		
+			
+				<script src="/html/js/barebone.jsp?browserId=other&amp;themeId=baseportal32_WAR_baseportal32theme&amp;colorSchemeId=default&amp;minifierType=js&amp;minifierBundleId=javascript.barebone.files&amp;languageId=en_US&amp;b=6110&amp;t=1473818302000" type="text/javascript"></script>
+			
+			
+		
+	
+	
+
+
+
+
+<script type="text/javascript">
+	// &lt;![CDATA[
+		
+
+			
+
+			
+				Liferay.Portlet.list = ['ParticipantLogon20_WAR_ahcommonauthportlet','Tile_WAR_ahtilesportlet_INSTANCE_iGyLtuIF6yQc'];
+			
+		
+
+		
+
+		
+	// ]]&gt;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	      
+	  
+
+
+
+
+
+<!-- NOTE- Do not change the javascript methods name created below and Strings "trackerUa1" and "trackerUa2".  -->
+<script type="text/javascript">
+
+//PFO-3102 : Carousel Tile Hover Message
+function getCarouselTileHoverTxt() {
+	return 'Select this link to go item';
+}
+
+
+//PFO-3104 : Update Title Attributes for Lightbox
+function getFeedbackMessageTitle(){
+	
+	return 'Choose this link to give feedback on this page.';
+	
+}
+
+function getShareMessageTitle(){
+	
+	return 'Select this button to share this page';
+	
+}
+
+function isAdminAccess()
+{
+	return false;
+}
+
+
+function isUACrossEnabled()
+{
+ return true;
+};
+
+function isUAClientEnabled()
+{
+ return true;
+};
+
+function trackUA(trackerObj,propId){
+	
+	if(5==-1)
+	{
+		ga('create', propId, { 'name': trackerObj, cookieDomain: 'none' }); 
+	}
+	
+	else{
+		
+		ga('create', propId, { 'name': trackerObj, cookieDomain: 'none','siteSpeedSampleRate': 5 });
+	}
+	ga(trackerObj+'.set', 'anonymizeIp',true);
+	ga(trackerObj+'.set', 'page', 'Login');
+
+	if('19920' !='')
+	{
+	  ga(trackerObj+'.set', 'dimension1', '19920');
+	 
+	}
+	if('' !='')
+	{
+	  ga(trackerObj+'.set', 'userId', '');
+	 
+	}
+	
+	ga(trackerObj+'.set', 'dimension2', 'PPTPRTL');
+	ga(trackerObj+'.set', 'dimension3', '7.1_1.0');
+	if('' !='')
+	{
+		ga(trackerObj+'.set', 'dimension4', '');
+	}
+	if('' !='')
+	{
+		ga(trackerObj+'.set', 'dimension5', '');
+	}
+	ga(trackerObj+'.set', 'dimension6', '0');
+	
+	if(''!=''){
+		
+		var jcustomDimensionJSON =  '';
+		
+		var	 jCustomDimensionJSONObject = JSON.parse(jcustomDimensionJSON);
+
+			var dimensionArray = jCustomDimensionJSONObject;
+			for(var i=0;i&lt;dimensionArray.length;i++){
+				var dimensionValueArray = dimensionArray[i];
+				for(var dimesionKey in dimensionValueArray) {
+					 ga(trackerObj+'.set', dimesionKey , dimensionValueArray[dimesionKey]);
+				}
+			}
+			
+		}
+		
+
+	
+	ga(trackerObj+'.send', 'pageview', 'Login');
+	
+};
+function isGTMEnabled()
+{
+	
+	return false;
+}
+function trackUAForGTM(trackerObj,propId)
+{
+	if(5==-1)
+	{
+		ga('create', propId, { 'name': trackerObj, cookieDomain: 'none' }); 
+	}
+	
+	else{
+		
+		ga('create', propId, { 'name': trackerObj, cookieDomain: 'none','siteSpeedSampleRate': 5 });
+	}
+}
+
+
+
+var dataLayer = [];
+var containerID = 'GTM-5Z284H';
+
+
+var gtm_ClientTrackingId = 'UA-46913325-8'
+
+var isUAEnabled = isUACrossEnabled() || isUAClientEnabled();
+
+if(isUAEnabled &amp;&amp; isAdminAccess() !=true &amp;&amp; 'Login' !='')
+{
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ 
+     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), 
+     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) 
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); 
+
+   if(isUACrossEnabled()){
+	   
+		var trackerObj = 'trackerUa1';
+		trackUA(trackerObj,'UA-42536228-7');
+		
+	}
+	if(isUAClientEnabled()){
+		
+		
+		if(isGTMEnabled())
+		{
+			
+			var trackerObj = 'trackerUa2';
+			trackUAForGTM(trackerObj,'UA-46913325-8');
+			var gtm_PageName = 'Login';
+			
+			if('' !='')
+			{
+				var gtm_Uuid = '';
+			}
+			
+			if('19920' !='')
+			{
+				var gtm_ClientId = '19920';
+			}
+			var gtm_AplicationId = 'PPTPRTL';
+			var gtm_ApplicationVersion = '7.1_1.0';
+			var gtm_EmClientId = '0';
+			var gtm_DomainName = 'none';
+			if('' !='')
+			{
+				var gtm_AuthType = '';
+			}
+			
+			if('' !='')
+			{
+				var gtm_UserType = ''; 
+			}
+			if(5==-1)
+			{
+				var gtm_SiteSpeedSampleRate = 5;
+			}
+			if(''!=''){
+				
+				var jcustomDimensionJSON =  '';
+				
+				var	 jCustomDimensionJSONObject = JSON.parse(jcustomDimensionJSON);
+				dataLayer.push(jCustomDimensionJSONObject);
+				
+			}
+			(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+				new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+				'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+				})(window,document,'script','dataLayer',containerID);
+
+		}
+		else
+		{
+			var trackerObj = 'trackerUa2';
+			trackUA(trackerObj,'UA-46913325-8');
+		}
+		
+	}
+}
+
+
+function getOverrideablePathComponentId()
+{
+	var id = '';
+	
+	
+	
+	
+	
+	return 	id;
+}
+
+
+//PFO-5253, PFO-7575 &amp; PFO-7576
+function getSpinnerMessage(){
+	var spinnerLoaderMsgArr = new Array(); 
+		
+			spinnerLoaderMsgArr.push("Hold on ...");
+		
+			spinnerLoaderMsgArr.push("Loading ...");
+		
+			spinnerLoaderMsgArr.push("Getting there ...");
+		
+			spinnerLoaderMsgArr.push("Almost done!");
+		
+	
+	return spinnerLoaderMsgArr;
+}
+</script>
+
+
+
+
+
+
+
+
+
+	
+
+				<script src="/ah-commonauth-portlet/js/AC_OETags.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6110&amp;t=1473818416000" type="text/javascript"></script>
+
+	
+
+				<script src="/ah-commonauth-portlet/js/pm_fp.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6110&amp;t=1473818416000" type="text/javascript"></script>
+
+	
+
+				<script src="/ah-commonauth-portlet/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6110&amp;t=1473818416000" type="text/javascript"></script>
+
+	
+
+				<script src="/ah-commonauth-portlet/js/resetTextField.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6110&amp;t=1473818416000" type="text/javascript"></script>
+
+	
+
+				<script src="/ah-commonauth-portlet/js/javascript.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6110&amp;t=1473818416000" type="text/javascript"></script>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<link class="lfr-css-file" href="https://l4dridap1273:8446/base-portal-32-theme/css/main.css?browserId=other&amp;themeId=baseportal32_WAR_baseportal32theme&amp;minifierType=css&amp;languageId=en_US&amp;b=6110&amp;t=1473679706000" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+	/* &lt;![CDATA[ */
+		
+	/* ]]&gt; */
+</style>
+
+
+
+
+
+
+
+
+	<style type="text/css">
+
+		
+
+			
+
+		
+
+			
+
+		
+
+	</style>
+
+
+
+	    
+    	   	
+			<!-- Direction : ltr -->
+   	<link rel="stylesheet" type="text/css" href="/documents/37365/2088166/BRANDING_339533fa-55d3-45b4-a543-b827cc559e8b.css/f87c0201-6151-4359-a2c5-02b3b6415b0b" />
+   	<link rel="stylesheet" type="text/css" href="https://l4dridap1273:8446/base-portal-32-theme/css/print.css" />
+   	<!-- font size project 6.2 -->
+   	<link rel="stylesheet" type="text/css" href="https://l4dridap1273:8446/base-portal-32-theme/css/css-font/typo-main.css" />  				
+		
+			<script type="text/javascript" src="https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/modernizr-2.6.2-min.js" charset="utf-8"></script>
+		<script type="text/javascript" src="https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/respond.src.js" charset="utf-8"></script>
+		
+		<script src="https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-lightbox.js"></script>
+		<script src="https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-ifram-msg-ctl.js"></script>
+
+		<script>
+		AUI().applyConfig({
+                    groups:{
+							   
+							   alloy: { 
+											combine: false,
+											modules: {
+													'aui-toggler': {
+														fullpath: 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/aui-toggler/aui-toggler.js',
+														submodules: {
+															'aui-toggler-core-css': {
+																fullpath: 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/aui-toggler/assets/aui-toggler-base-core.css',
+																type: 'css'
+															},
+															'aui-toggler-base': {
+																fullpath: 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/aui-toggler/aui-toggler-base.js',
+																requires:['aui-base','transition'], 
+																skinnable:true
+															},
+															'aui-toggler-delegate': {
+																fullpath: 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/aui-toggler/aui-toggler-delegate.js',
+																requires:['aui-toggler-base'], 
+																skinnable:false
+															}, 
+														}, 
+														skinnable:true, 
+														use:['aui-toggler-base','aui-toggler-delegate','aui-toggler-core-css']
+													}
+											},
+								},
+							   
+							   gallery:{
+                                       modules:{
+                                          'gallery-slideshow-base':{ fullpath: 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/yui-gallery/gallery-slideshow-base/gallery-slideshow-base.js',
+                                                                     requires: ["node","event","widget"]
+                                                                   },
+                                          'gallery-slideshow-animated':{ fullpath: 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/yui-gallery/gallery-slideshow-animated/gallery-slideshow-animated.js',
+                                                                         requires: ['node', 'event', 'widget', 'anim', 'gallery-slideshow-base']
+                                                                       },
+                                        },
+	                             },
+	                 },
+	                 modules:{
+                        				        
+				        'ah-show-hide': {
+				            fullpath: 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-show-hide.js',
+				            requires: ['aui-base','node']
+				        },
+				        'ah-carousel': {
+				            fullpath: 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-carousel.js',
+				            requires: ['aui-base', 'node', 'event', 'event-resize', 'node-event-delegate', 'transition', 'event-move', 'event-touch', 'widget', 'anim', 'gallery-slideshow-base', 'gallery-slideshow-animated']
+				        },
+				        'AHDialog': {
+				            fullpath: 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-dialog.js',
+				            requires: ['widget', 'widget-autohide', 'widget-buttons', 'widget-modality', 'widget-position', 'widget-position-align', 'widget-position-constrain', 'widget-stack', 'widget-stdmod']
+				        },
+				        'AHResponsiveTable': {
+				            fullpath: 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-responsive-table.js',
+				            requires: ['widget', 'widget-autohide', 'widget-buttons', 'widget-modality', 'widget-position', 'widget-position-align', 'widget-position-constrain', 'widget-stack', 'widget-stdmod']
+				        },
+				        'ah-responsiveSelectTabs': {
+				            fullpath: 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-ResponsiveSelectTabs.js',
+				            requires: ['widget', 'tabview','node', 'event']
+				        },
+				        'ah-res-scrollview': {
+				            fullpath: 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-res-scrollview.js',
+				            requires:['aui-base','node','scrollview','scrollview-paginator','event']
+				        },
+				        'ah-scrollTab': {
+				            fullpath: 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-scrollTab.js',
+				            requires:['aui-base', 'aui-tabs','anim']
+				        },
+				        'ah-tiles-dd': {
+				            fullpath: 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-tiles-dd.js',
+				            requires:['aui-base','aui-portal-layout','aui-node']
+				        },
+				        'ah-checkbox-button': {
+				            fullpath: 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-checkbox-button-enable.js',
+				            requires:['aui-base','node']
+				        },
+				       'ah-res-progressbar': {
+				            fullpath: 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-progressbar.js',
+				            requires:['aui-base', 'node', 'anim', "aui-viewport"]
+				        },
+				         'ah-navitabs': {
+				            fullpath: 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-navitabs.js',
+				            requires:['history', 'node', 'widget', 'event']
+				        },
+				         'ah-spinning-loader': {
+				            fullpath: 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-spinning-loader.js',
+				            requires:['aui-base', 'node']
+				        },
+						'aui-panel': {
+						   fullpath: 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/aui-panel.js',
+						   requires:['node','aui-component','widget-stdmod','aui-toolbar','aui-aria','aui-toggler-base']
+						}
+
+
+                    }
+		});
+
+		AUI.add('aui-toggler', function(A) {
+			var Lang = A.Lang;
+			A.mix(
+				Lang,
+				{
+					//msloggett added for aui-toggler
+					toInt: function(value, radix, defaultValue) {
+						return parseInt(value, radix || 10) || defaultValue || 0;
+					}
+				}
+			);
+		});
+
+	</script>
+		
+	<!-- UID-64 responsive on only for mobile and chrome  
+		nix UID-162 -->
+			<script type="text/javascript" charset="utf-8">
+			AUI().use('aui-viewport');
+		</script><link id="aui_3_4_0_1_62" type="text/css" rel="stylesheet" href="/combo/?browserId=other&amp;minifierType=&amp;languageId=en_US&amp;b=6110&amp;t=1473818302000&amp;p=/html/js&amp;m=/aui/widget-base/assets/skins/sam/widget-base.css" charset="utf-8" /><script id="aui_3_4_0_1_63" type="text/javascript" src="/combo/?browserId=other&amp;minifierType=&amp;languageId=en_US&amp;b=6110&amp;t=1473818302000&amp;p=/html/js&amp;m=/aui/base-build/base-build-min.js" charset="utf-8"></script>
+		
+			
+ 
+	
+		
+    			<script type="text/javascript">
+	/* To update value of Javascript variable through velocity variables which is pulling text from text resolver*/
+	var closeDialog = 'Close dialog';
+	var excludedLinks = 'Chat,Feedback,Choose a Language,Your Profile,Contact Us,Privacy Statement,Cookie Notice';
+	var excludLinkWarningMessage = '&lt;h3&gt;Are you sure you want to leave this page?&lt;/h3&gt;&lt;p class="ah-field-space-v"&gt;You\'ll lose any changes you\'ve made.&lt;/p&gt;';
+	var yesBtnLbl = 'Yes';
+	var noBtnLbl = 'No';
+	
+	/* PFO-3101 update Javascript title/text through velocity variables */
+	var expandAllTxt = 'Expand All';
+	var collapseAllTxt = 'Collapse All';
+	var tableOptionsTxt = 'Table Options';
+	var columnsAdjustTxt = 'Select this tab to adjust which columns are listed';
+	var columnsShowHideTxt = 'Select a checkbox to show or hide a column';
+	var closeWindowTitleTxt = 'Click this button to close the window';
+	var closeWindowTxt = 'Close';
+	var chatUnavailableSmallTxt = 'Chat Unavailable';
+	var closeWindowAriaTxt = 'Close Messages Window';
+	var showPostBlockDatePage = false;
+	function relocate(){
+	var divTag = document.getElementById("certifiedBrowserPageLinkHolder");	
+	var anchorTag = divTag.getElementsByTagName("a");	
+	if(showPostBlockDatePage &amp;&amp; anchorTag){
+		     var allanchors = anchorTag;
+			 var link = allanchors[0];  
+			 var hrefVal = link.getAttribute("href");	
+			 var linkContactUs = allanchors[1];  
+			 var hrefValContactUs = linkContactUs.getAttribute("href");	
+			 divTag.removeChild(divTag.firstChild);
+			 hrefVal= hrefVal.substring(0,hrefVal.indexOf('?'));
+			 hrefValContactUs = hrefValContactUs.substring(0,hrefValContactUs.indexOf('?'));		
+			 var url=window.location.href;
+			 if(url.indexOf(hrefVal) &lt; 0 &amp;&amp; url.indexOf(hrefValContactUs) &lt; 0)			 
+			   window.location.href=hrefVal; 	 
+		}
+	}
+	
+	</script>
+	
+	<!-- load selectivizr for CSS3 pseudo-classes and attribute selectors in Internet Explorer 6-8 -->
+	<script type="text/javascript">
+		Modernizr.load({
+			test : Modernizr.rgba,
+            nope : 'https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-polyfill-table-lines.js'
+		});
+	</script>
+	
+<script id="aui_3_4_0_1_74" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-viewport/aui-viewport-min.js" charset="utf-8"></script><link id="aui_3_4_0_1_81" type="text/css" rel="stylesheet" href="/combo/?browserId=other&amp;minifierType=&amp;languageId=en_US&amp;b=6110&amp;t=1473818302000&amp;p=/html/js&amp;m=/aui/widget-stack/assets/skins/sam/widget-stack.css&amp;m=/aui/overlay/assets/skins/sam/overlay.css" charset="utf-8" /><link id="aui_3_4_0_1_82" type="text/css" rel="stylesheet" href="https://l4dridap1273:8446/html/js/aui/aui-toggler/assets/skins/sam/aui-toggler-base.css" charset="utf-8" /><script id="aui_3_4_0_1_83" type="text/javascript" src="/combo/?browserId=other&amp;minifierType=&amp;languageId=en_US&amp;b=6110&amp;t=1473818302000&amp;p=/html/js&amp;m=/aui/anim-base/anim-base-min.js&amp;m=/aui/anim-color/anim-color-min.js&amp;m=/aui/anim-xy/anim-xy-min.js&amp;m=/aui/anim-curve/anim-curve-min.js&amp;m=/aui/anim-easing/anim-easing-min.js&amp;m=/aui/anim-node-plugin/anim-node-plugin-min.js&amp;m=/aui/anim-scroll/anim-scroll-min.js&amp;m=/aui/widget-stdmod/widget-stdmod-min.js&amp;m=/aui/widget-child/widget-child-min.js&amp;m=/aui/widget-parent/widget-parent-min.js&amp;m=/aui/transition/transition-min.js&amp;m=/aui/dd-ddm-base/dd-ddm-base-min.js&amp;m=/aui/dd-drag/dd-drag-min.js&amp;m=/aui/dd-constrain/dd-constrain-min.js&amp;m=/aui/widget-position/widget-position-min.js&amp;m=/aui/widget-stack/widget-stack-min.js&amp;m=/aui/widget-position-align/widget-position-align-min.js&amp;m=/aui/widget-position-constrain/widget-position-constrain-min.js&amp;m=/aui/overlay/overlay-min.js&amp;m=/aui/async-queue/async-queue-min.js&amp;m=/aui/querystring-stringify/querystring-stringify-min.js&amp;m=/aui/dd-ddm/dd-ddm-min.js&amp;m=/aui/dd-ddm-drop/dd-ddm-drop-min.js&amp;m=/aui/dd-drop/dd-drop-min.js&amp;m=/aui/dd-drop-plugin/dd-drop-plugin-min.js&amp;m=/aui/dd-delegate/dd-delegate-min.js&amp;m=/aui/history-base/history-base-min.js&amp;m=/aui/history-hash/history-hash-min.js&amp;m=/aui/cookie/cookie-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_84" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-state-interaction/aui-state-interaction-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_85" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-button-item/aui-button-item-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_86" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-data-set/aui-data-set-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_87" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-toolbar/aui-toolbar-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_88" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-aria/aui-aria-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_89" type="text/javascript" src="https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/aui-toggler/aui-toggler-base.js" charset="utf-8"></script><script id="aui_3_4_0_1_90" type="text/javascript" src="https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/aui-panel.js" charset="utf-8"></script><script id="aui_3_4_0_1_91" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-overlay/aui-overlay-base-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_92" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-overlay/aui-overlay-manager-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_93" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-overlay/aui-overlay-mask-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_94" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-parse-content/aui-parse-content-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_95" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-io/aui-io-request-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_96" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-loading-mask/aui-loading-mask-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_97" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-io/aui-io-plugin-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_98" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-resize/aui-resize-base-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_99" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-resize/aui-resize-constrain-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_100" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-dialog/aui-dialog-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_101" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-resize-iframe/aui-resize-iframe-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_102" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-dialog-iframe/aui-dialog-iframe-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_129" type="text/javascript" src="/combo/?browserId=other&amp;minifierType=&amp;languageId=en_US&amp;b=6110&amp;t=1473818302000&amp;p=/html/js&amp;m=/liferay/portlet_url.js" charset="utf-8"></script><link id="aui_3_4_0_1_130" type="text/css" rel="stylesheet" href="/combo/?browserId=other&amp;minifierType=&amp;languageId=en_US&amp;b=6110&amp;t=1473818302000&amp;p=/html/js&amp;m=/aui/resize-base/assets/skins/sam/resize-base.css" charset="utf-8" /><script id="aui_3_4_0_1_131" type="text/javascript" src="/combo/?browserId=other&amp;minifierType=&amp;languageId=en_US&amp;b=6110&amp;t=1473818302000&amp;p=/html/js&amp;m=/aui/substitute/substitute-min.js&amp;m=/aui/resize-base/resize-base-min.js&amp;m=/aui/resize-proxy/resize-proxy-min.js&amp;m=/aui/resize-constrain/resize-constrain-min.js" charset="utf-8"></script><link id="aui_3_4_0_1_133" type="text/css" rel="stylesheet" href="/combo/?browserId=other&amp;minifierType=&amp;languageId=en_US&amp;b=6110&amp;t=1473818302000&amp;p=/html/js&amp;m=/aui/widget-buttons/assets/skins/sam/widget-buttons.css&amp;m=/aui/tabview/assets/skins/sam/tabview.css" charset="utf-8" /><script id="aui_3_4_0_1_134" type="text/javascript" src="/combo/?browserId=other&amp;minifierType=&amp;languageId=en_US&amp;b=6110&amp;t=1473818302000&amp;p=/html/js&amp;m=/aui/widget-autohide/widget-autohide-min.js&amp;m=/aui/widget-buttons/widget-buttons-min.js&amp;m=/aui/widget-modality/widget-modality-min.js&amp;m=/aui/tabview-base/tabview-base-min.js&amp;m=/aui/tabview/tabview-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_135" type="text/javascript" src="https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-show-hide.js" charset="utf-8"></script><script id="aui_3_4_0_1_136" type="text/javascript" src="https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-dialog.js" charset="utf-8"></script><script id="aui_3_4_0_1_137" type="text/javascript" src="https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-ResponsiveSelectTabs.js" charset="utf-8"></script><script id="aui_3_4_0_1_138" type="text/javascript" src="https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-checkbox-button-enable.js" charset="utf-8"></script><script id="aui_3_4_0_1_139" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-overlay/aui-overlay-context-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_140" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-overlay/aui-overlay-context-panel-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_161" type="text/javascript" src="/combo/?browserId=other&amp;minifierType=&amp;languageId=en_US&amp;b=6110&amp;t=1473818302000&amp;p=/html/js&amp;m=/aui/event-touch/event-touch-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_184" type="text/javascript" src="/combo/?browserId=other&amp;minifierType=&amp;languageId=en_US&amp;b=6110&amp;t=1473818302000&amp;p=/html/js&amp;m=/aui/datatype-date-parse/datatype-date-parse-min.js&amp;m=/aui/datatype-date-format/lang/datatype-date-format_en-US.js&amp;m=/aui/datatype-date-format/datatype-date-format-min.js&amp;m=/aui/widget-locale/widget-locale-min.js&amp;m=/aui/datasource-local/datasource-local-min.js&amp;m=/aui/datasource-io/datasource-io-min.js&amp;m=/aui/datasource-get/datasource-get-min.js&amp;m=/aui/datasource-function/datasource-function-min.js&amp;m=/aui/cache-base/cache-base-min.js&amp;m=/aui/datasource-cache/datasource-cache-min.js&amp;m=/aui/dataschema-base/dataschema-base-min.js&amp;m=/aui/dataschema-json/dataschema-json-min.js&amp;m=/aui/datasource-jsonschema/datasource-jsonschema-min.js&amp;m=/aui/dataschema-xml/dataschema-xml-min.js&amp;m=/aui/datasource-xmlschema/datasource-xmlschema-min.js&amp;m=/aui/dataschema-array/dataschema-array-min.js&amp;m=/aui/datasource-arrayschema/datasource-arrayschema-min.js&amp;m=/aui/dataschema-text/dataschema-text-min.js&amp;m=/aui/datasource-textschema/datasource-textschema-min.js&amp;m=/aui/datasource-polling/datasource-polling-min.js&amp;m=/liferay/service_datasource.js" charset="utf-8"></script><script id="aui_3_4_0_1_190" type="text/javascript" src="https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-spinning-loader.js" charset="utf-8"></script><script id="aui_3_4_0_1_191" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-datatype/aui-datatype-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_192" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-calendar/aui-calendar-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_193" type="text/javascript" src="/html/js/liferay/aui_lang.jsp?browserId=other&amp;themeId=baseportal32_WAR_baseportal32theme&amp;colorSchemeId=default&amp;minifierType=js&amp;languageId=en_US&amp;b=6110&amp;t=1473818302000" charset="utf-8"></script><script id="aui_3_4_0_1_194" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-datepicker/aui-datepicker-base-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_195" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-datepicker/aui-datepicker-select-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_196" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-form/aui-form-field-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_197" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-form/aui-form-textfield-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_198" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-form/aui-form-textarea-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_199" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-form/aui-form-combobox-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_200" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-autocomplete/aui-autocomplete-min.js" charset="utf-8"></script><script id="aui_3_4_0_1_743" type="text/javascript" src="https://l4dridap1273:8446/html/js/aui/aui-tooltip/aui-tooltip-min.js" charset="utf-8"></script></head>
+
+<body class=" yui3-skin-sam controls-visible signed-out public-page organization-site " style="display: block; overflow: hidden;" id="aui_3_4_0_1_1040"><div id="aui_3_4_0_1_1797" class="yui3-widget aui-component aui-overlay aui-overlaycontext aui-overlaycontextpanel aui-tooltip yui3-widget-positioned yui3-widget-stacked aui-tooltip-hidden" role="dialog" aria-hidden="true" style="left: -192px; top: 430px; z-index: 2005;"><div id="aui_3_4_0_1_1799" class="aui-overlay-content aui-overlaycontext-content aui-overlaycontextpanel-content aui-tooltip-content yui3-widget-stdmod aui-state-default aui-overlaycontextpanel-arrow-tc"><div class="yui3-widget-bd"><p>This is an optional input that will override the UPoint effective date for the participant's session. If the field is left blank, the UPoint effective date will default to the current date.</p></div><div class="aui-state-default aui-overlaycontextpanel-pointer"><div class="aui-overlaycontextpanel-pointer-inner" style="border-bottom-color: rgb(255, 255, 255);"></div></div></div></div><div id="aui_3_4_0_1_1669" class="aui-helper-hidden yui3-widget aui-component aui-overlay aui-overlaycontext aui-overlaycontextpanel aui-tooltip yui3-widget-positioned yui3-widget-stacked aui-tooltip-hidden" role="dialog" aria-hidden="true" style="left: 1040px; top: 1764px; z-index: 2003;"><div id="aui_3_4_0_1_1671" class="aui-helper-hidden-content aui-overlay-content aui-overlaycontext-content aui-overlaycontextpanel-content aui-tooltip-content yui3-widget-stdmod aui-state-default aui-overlaycontextpanel-arrow-bc"><div class="yui3-widget-bd"><div class="chooseLanguageContainer xs">
+					<ul>
+						
+						
+							<li tabindex="-1" role="presentation" style="border-bottom: 1px dotted #d2d3d3; list-style: none; display: block;"><a role="menuitem" href="/web/earth/login?languageId=en_US"> 
+							
+							<strong>English</strong> (Current Selection)
+							
+							</a></li>
+						
+						
+							<li tabindex="-1" role="presentation" style="border-bottom: 1px dotted #d2d3d3; list-style: none; display: block;"><a role="menuitem" href="/web/earth/login?languageId=fr_CA"> 
+							
+						   French (Canada)? - français
+							
+							</a></li>
+						
+						
+							<li tabindex="-1" role="presentation" style="border-bottom: 1px dotted #d2d3d3; list-style: none; display: block;"><a role="menuitem" href="/web/earth/login?languageId=fr_FR"> 
+							
+						   French (France)? - français
+							
+							</a></li>
+						
+					</ul>
+				</div></div><div class="aui-state-default aui-overlaycontextpanel-pointer"><div class="aui-overlaycontextpanel-pointer-inner" style="border-top-color: rgb(255, 255, 255);"></div></div></div></div><div id="cookieNoticeDialog" class="yui3-widget aui-component aui-panel aui-dialog aui-ah-lightbox yui3-widget-positioned yui3-widget-stacked" aria-hidden="false" role="alert" tabindex="0" style="width: 50%; left: 260px; top: 295px; z-index: 2005; height: auto;"><div id="aui_3_4_0_1_1057" class="aui-panel-content aui-dialog-content aui-ah-lightbox-content yui3-widget-stdmod" role="tablist"><span class="visuallyhidden">Beginning of lightbox content.</span><div class="yui3-widget-hd aui-helper-clearfix aui-panel-hd aui-ah-lightbox-hd aui-helper-hidden" id="aui_3_4_0_1_1467" style="display: none;"><p class="ah-lightbox-hd-links-container"><span class="ah-lightbox-links"><small></small></span><span id="aui_3_4_0_1_1252" class="yui3-widget aui-component aui-toolbar aui-toolbar-horizontal aui-panel-icons"><span id="aui_3_4_0_1_1254" class="aui-toolbar-content"><button type="button" id="aui_3_4_0_1_1138" class="aui-buttonitem-content yui3-widget aui-component aui-buttonitem aui-state-default aui-buttonitem-icon-only aui-toolbar-first aui-toolbar-last aui-toolbar-item" title="Close dialog" aria-controls="cookieNoticeDialog"><span class="aui-buttonitem-icon aui-icon aui-icon-closethick"></span><span class="aui-buttonitem-label aui-helper-hidden" id="aui_3_4_0_1_1370"></span></button></span></span></p><span id="aui_3_4_0_1_1400" class="yui3-widget aui-component aui-toolbar aui-toolbar-horizontal aui-panel-titleicons"><span id="aui_3_4_0_1_1402" class="aui-toolbar-content"></span></span><span "class="aui-panel-hd-text" class="aui-panel-hd-text ah-lightbox-title"></span></div><div class="yui3-widget-bd aui-panel-bd aui-ah-lightbox-bd" style="height: auto;"><h3>Notice</h3>
+
+	
+	<p class="xs mt11">
+		This website stores cookies on your computer or mobile device. Cookies help to enrich your experience. They remember your preferences and help to understand what is most useful on the website. Read this
+		<a class="ah-secondaryWindow" onclick="if(isUACrossEnabled()){try{ga('trackerUa1.send','event', 'External Link' ,'click','LinkId:CookieNotice LinkDest:https://cache.hewitt.com/privacy/AHCookies.htm'); } catch(err){}} if(isUAClientEnabled()){ try{if(isGTMEnabled()){dataLayer.push({'event':'UPointLinkEvent', 'linkCategory':'External Link', 'linkAction':'click', 'linkLabel':'LinkId:CookieNotice LinkDest:https://cache.hewitt.com/privacy/AHCookies.htm'});}else{ga('trackerUa2.send','event', 'External Link' ,'click','LinkId:CookieNotice LinkDest:https://cache.hewitt.com/privacy/AHCookies.htm'); }} catch(err){}}try{setTimeout(function() {}, 100);}catch(err){} doExternalLinkLogging('https://l4dridap1273:8446/delegate/logging?linkTypeNm=New Window With a Scroll, No Information Passed&amp;lnkNm=CookieNotice&amp;linkId=CookieNotice&amp;lng=19920_1.0&amp;pgNm=Login&amp;technicalNameForLink=CookieNotice&amp;userFriendlyNameForLink=Cookie Notice&amp;domain=Ben-CM&amp;baseClientIndicator=Base'); window.winHandle = window.open('https://cache.hewitt.com/privacy/AHCookies.htm','CookieNotice','scrollbars=yes,height=560,titlebar=yes,width=980,resizable=yes');if(typeof XD != 'undefined'){XD.registerWindow('CookieNotice',window.winHandle);}try{setSessionTimeOut()}catch(err){};return false;" href="https://l4dridap1273:8446/delegate/logging?linkTypeNm=New Window With a Scroll, No Information Passed&amp;lnkNm=CookieNotice&amp;linkId=CookieNotice&amp;lng=19920_1.0&amp;pgNm=Login&amp;technicalNameForLink=CookieNotice&amp;userFriendlyNameForLink=Cookie Notice&amp;domain=Ben-CM&amp;baseClientIndicator=Base">Cookie Notice</a>
+		to learn more.
+	</p>
+	<p class="xs mt11">
+		If you keep browsing here, you agree to the use of cookies. If you don't want cookies on  your device, you can change your settings to decline them, but you won't be able to use this website.  If you decline the use of cookies and need help with our services,
+		.
+	</p></div><div class="yui3-widget-ft aui-panel-ft aui-ah-lightbox-ft"><div class="ah-lightbox-ft-links"><span class="aui-button aui-button ah-button-small ah-button-positive"><span class="aui-button-content"><input type="submit" value="Continue" id="cookieDialogContinueBtn" class="aui-button-input" /> </span></span><span class="aui-button aui-button ah-button-small ah-button-neutral"><span class="aui-button-content"><input type="submit" value="Find Out More" id="cookieDialogFintOutMoreBtn" class="aui-button-input" /> </span></span></div></div><a href="#" class="ah-lightbox-hidden-footerLink" aria-hidden="true" role="presentation"> </a><span class="visuallyhidden">End of lightbox content.</span></div></div><div id="aui_3_4_0_1_1074" class="yui3-widget aui-component aui-overlay aui-overlaymask yui3-widget-positioned yui3-widget-stacked ah-lightbox-overlaymask" style="position: fixed; left: 0px; top: 0px; height: 100%; width: 100%; z-index: 2000;"><div id="aui_3_4_0_1_1076" class="aui-overlay-content aui-overlaymask-content yui3-widget-stdmod yui3-widget-content-expanded" style="opacity: 0.5;"></div></div><div id="aui_3_4_0_1_752" class="ah-datepicker yui3-widget aui-component aui-overlay aui-overlaycontext aui-date-picker yui3-widget-positioned yui3-widget-stacked aui-date-picker-hidden" role="dialog" aria-hidden="true" style="left: 22px; top: 547px; z-index: 2002;"><div id="aui_3_4_0_1_754" class="ah-datepicker-content aui-overlay-content aui-overlaycontext-content aui-date-picker-content yui3-widget-stdmod"></div></div><div id="aui_3_4_0_1_557" class="aui-autocomplete-results yui3-widget aui-component aui-overlay yui3-widget-positioned yui3-widget-stacked aui-overlay-hidden" aria-hidden="true" style="width: 0px; left: 0px; top: -1px; z-index: 1;"><div id="aui_3_4_0_1_559" class="aui-overlay-content aui-autocomplete-results-content yui3-widget-stdmod"><div class="yui3-widget-bd"><ul class="aui-helper-reset" role="listbox"><li class="aui-helper-hidden aui-autocomplete-list-item" data-listitemindex="0" role="option"></li><li class="aui-helper-hidden aui-autocomplete-list-item" data-listitemindex="1" role="option"></li><li class="aui-helper-hidden aui-autocomplete-list-item" data-listitemindex="2" role="option"></li><li class="aui-helper-hidden aui-autocomplete-list-item" data-listitemindex="3" role="option"></li><li class="aui-helper-hidden aui-autocomplete-list-item" data-listitemindex="4" role="option"></li><li class="aui-helper-hidden aui-autocomplete-list-item" data-listitemindex="5" role="option"></li><li class="aui-helper-hidden aui-autocomplete-list-item" data-listitemindex="6" role="option"></li><li class="aui-helper-hidden aui-autocomplete-list-item" data-listitemindex="7" role="option"></li></ul></div></div></div>
+<div id="certifiedBrowserPageLinkHolder" style="display:none"><a title="Choose this link to review browsers that work with this site." onclick="if(isUACrossEnabled()){try{ga('trackerUa1.send','event', 'Internal Link' ,'click','LinkId:browserCompatibilityPageLink LinkDest:/web/earth/certified-browser-alert-help'); } catch(err){}} if(isUAClientEnabled()){ try{if(isGTMEnabled()){dataLayer.push({'event':'UPointLinkEvent', 'linkCategory':'Internal Link', 'linkAction':'click', 'linkLabel':'LinkId:browserCompatibilityPageLink LinkDest:/web/earth/certified-browser-alert-help'});}else{ga('trackerUa2.send','event', 'Internal Link' ,'click','LinkId:browserCompatibilityPageLink LinkDest:/web/earth/certified-browser-alert-help'); }} catch(err){}}setTimeout(function() {document.location.href = href;}, 100);return false;" href="https://l4dridap1273:8446/web/earth/certified-browser-alert-help?linkId=browserCompatibilityPageLink&amp;technicalNameForLink=browserCompatibilityPageLink&amp;userFriendlyNameForLink=This will place anchor link to open \'What to do?\' link&amp;domain=Ben-CM&amp;baseClientIndicator=Base">What to do?</a><a class="ah-secondaryWindow" onclick="if(isUACrossEnabled()){try{ga('trackerUa1.send','event', 'Internal Link' ,'click','LinkId:PRE_CONTACT_US LinkDest:/web/earth/pre-contactus'); } catch(err){}} if(isUAClientEnabled()){ try{if(isGTMEnabled()){dataLayer.push({'event':'UPointLinkEvent', 'linkCategory':'Internal Link', 'linkAction':'click', 'linkLabel':'LinkId:PRE_CONTACT_US LinkDest:/web/earth/pre-contactus'});}else{ga('trackerUa2.send','event', 'Internal Link' ,'click','LinkId:PRE_CONTACT_US LinkDest:/web/earth/pre-contactus'); }} catch(err){}}try{setTimeout(function() {}, 100);}catch(err){}window.winHandle = window.open('https://l4dridap1273:8446/web/earth/pre-contactus?linkId=PRE_CONTACT_US&amp;technicalNameForLink=PRE_CONTACT_US&amp;userFriendlyNameForLink=Pre-auth contact us link&amp;domain=null&amp;baseClientIndicator=Base','PRE_CONTACT_US','scrollbars=yes,height=560,titlebar=yes,width=980,resizable=yes');if(typeof XD != 'undefined'){XD.registerWindow('PRE_CONTACT_US',window.winHandle);}try{setSessionTimeOut()}catch(err){};return false;" href="https://l4dridap1273:8446/web/earth/pre-contactus?linkId=PRE_CONTACT_US&amp;technicalNameForLink=PRE_CONTACT_US&amp;userFriendlyNameForLink=Pre-auth contact us link&amp;domain=null&amp;baseClientIndicator=Base">Contact Us</a></div>
+<script type="text/javascript">
+relocate();	
+</script>
+<span id="cssPath" style="display:none">https://l4dridap1273:8446/base-portal-32-theme/css : 3.2 Theme </span>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="#content" id="skip-to-content" class="ah-bypass-block">Press enter to skip to main content.</a>
+
+	<!-- layout section -->
+
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+	
+
+	<div id="p_p_id_103_" class="portlet-boundary portlet-boundary_103_  portlet-static portlet-static-end portlet-borderless  ">
+		<span id="p_103"></span>
+
+		<div class="portlet-body">
+
+
+
+	
+	
+	
+	
+
+		
+
+			
+				
+				
+					
+				
+			
+
+		
+
+	
+
+
+
+
+
+			
+		</div>
+	</div>
+
+
+
+
+
+	
+
+<div class="base-responsive_fold_left_25-75" id="main-content" role="main">
+<div class="portlet-layout" id="aui_3_4_0_1_1039">
+	<header id="banner" role="banner">
+		<div class="yui3-u-2-2 yui3-u-4-4  yui3-u-8-8 yui3-u-16-16 portlet-column portlet-column-first" id="column-1">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+	
+
+	<div id="p_p_id_ahheader_WAR_ahheaderportlet_" class="portlet-boundary portlet-boundary_ahheader_WAR_ahheaderportlet_  portlet-static portlet-static-end portlet-borderless ah-header-portlet ">
+		<span id="p_ahheader_WAR_ahheaderportlet"></span>
+
+		<div class="portlet-body" id="aui_3_4_0_1_1038">
+
+
+
+	
+	
+	
+	
+
+		
+
+			
+				
+					
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				<div class="portlet-borderless-container" style="" id="aui_3_4_0_1_1037">
+
+					
+						
+						
+							
+						
+												
+
+					
+
+
+
+<script type="text/javascript">
+function _ahheader_WAR_ahheaderportlet_ajaxError(jqXHR,error, errorThrown)
+{   
+    var status=jqXHR.status;	
+	var errorMessage = "";	
+	
+    switch (status) 
+    {
+        case 8800:
+        	errorMessage +=jqXHR.responseText;
+            break;
+        default:
+        	errorMessage += "This session was interrupted and won't continue. If you were submitting a request, it may not have completed successfully.";
+    }   
+    
+   var portletBodyDiv=document.getElementById("_ahheader_WAR_ahheaderportlet_portlet-body");
+   portletBodyDiv.innerHTML="";
+   portletBodyDiv.innerHTML +="&lt;div  id='_ahheader_WAR_ahheaderportlet_ajaxError' class='portlet-msg-error' &gt;&lt;/div&gt;";
+       
+   var div = document.getElementById("_ahheader_WAR_ahheaderportlet_ajaxError");
+   div.innerHTML = "";
+   div.innerHTML = errorMessage; 
+}
+</script>
+
+
+	<div class="portlet-body" id="aui_3_4_0_1_1036">
+
+
+<!-- 
+wrap the portlet content in div with _ahheader_WAR_ahheaderportlet_portlet-body id,
+so that we can hide the content of portlet using the javascript if an exception/error 
+occurs at server side in case of ajax request. 
+-->
+<div id="_ahheader_WAR_ahheaderportlet_portlet-body">
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Defect # 20 : Start  : Page Print Feature -->
+
+
+
+<!-- Defect # 20 : End  : Page Print Feature -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Added for the Debug story PT-4051 Start -->
+
+  
+	    
+	    
+	    
+	    
+  
+  
+<!-- Added for the Debug story PT-4051 End -->
+
+
+
+
+
+
+
+
+
+
+	<div class="ah-browser-warning-wrapper" style="display: none;">
+		<div class="ah-highlight brand-highlight1-a">
+			<div class="ah-page-wrapper clearfix">
+				<div class="ah-gutter-row aui-w100">
+					<div class="ah-gutter-col aui-w100 ah-text-align-center" id="browserAlert">
+					
+						
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+<div id="whatToDOLink" style="display: none;">
+<a title="Choose this link to review browsers that work with this site." onclick="if(isUACrossEnabled()){try{ga('trackerUa1.send','event', 'Internal Link' ,'click','LinkId:browserCompatibilityPageLink LinkDest:/web/earth/certified-browser-alert-help'); } catch(err){}} if(isUAClientEnabled()){ try{if(isGTMEnabled()){dataLayer.push({'event':'UPointLinkEvent', 'linkCategory':'Internal Link', 'linkAction':'click', 'linkLabel':'LinkId:browserCompatibilityPageLink LinkDest:/web/earth/certified-browser-alert-help'});}else{ga('trackerUa2.send','event', 'Internal Link' ,'click','LinkId:browserCompatibilityPageLink LinkDest:/web/earth/certified-browser-alert-help'); }} catch(err){}}setTimeout(function() {document.location.href = href;}, 100);return false;" href="https://l4dridap1273:8446/web/earth/certified-browser-alert-help?linkId=browserCompatibilityPageLink&amp;technicalNameForLink=browserCompatibilityPageLink&amp;userFriendlyNameForLink=This will place anchor link to open \'What to do?\' link&amp;domain=Ben-CM&amp;baseClientIndicator=Base">What to do?</a>
+</div>
+	<script type="text/javascript">	
+	function get_browser_version(){
+		var ua=navigator.userAgent,tem,M=ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || [];                                                                                                                         
+		if(/trident/i.test(M[1])){
+			tem=/\brv[ :]+(\d+)/g.exec(ua) || [];			
+			//return 'IE '+(tem[1]||'');			
+			return (tem[1]||'');
+		}
+		if(M[1]==='Chrome'){
+			tem=ua.match(/\bOPR\/(\d+)/)
+			if(tem!=null)   {/*return 'Opera '+tem[1];*/return tem[1];}
+		}   
+		M=M[2]? [M[1], M[2]]: [navigator.appName, navigator.appVersion, '-?'];
+        if((tem=ua.match(/version\/(\d+)/i))!=null) {M.splice(1,1,tem[1]);}		
+            /* return {
+              name: M[0],
+              version: M[1]
+            }; */
+            if(M[0] =='MSIE' &amp;&amp; M[1] == '7') {				
+				if(ua.indexOf('Trident/7.0') &gt; -1)
+				   M[1]='11';
+				else if(ua.indexOf('Trident/6.0') &gt; -1)
+					 M[1]='10';
+				else if(ua.indexOf('Trident/5.0') &gt; -1)
+					 M[1]='9';
+				else if(ua.indexOf('Trident/4.0') &gt; -1)
+					 M[1]='8';				
+			}	
+			return M[1];
+	}
+    /* Matt Sloggett quick test browsers
+        var browserAlert=get_browser_version();
+        alert(browserAlert.name);
+        alert(browserAlert.version);
+    */
+	(function ahBrowserDetection() {
+		var browsermsg1 ="&amp;nbsp;will no longer work with this site effective" ;
+		var browsermsg2 ="";
+		var browsermsg3= "Your browser doesn't support some site features.";
+		var browserCompatibilityModeIE="OFF";
+		var showCompatibilityMsg = "true";		
+		var certifiedBrowsers = [{"firefox":37}, {"android":4.3}, {"ios":7}, {"ie":11}, {"safari":7}, {"chrome":41}, {"opera":10}],
+			len = certifiedBrowsers.length,
+			str, browser, browserName, version, ieComp = false, clientBrowser = true,
+			uAgent = navigator.userAgent || '';
+		
+			
+		AUI().ready("node", "node-base", "ah-lightbox", "cookie", function(A){
+			
+			// CHECK BROWSERS FOR CERTIFIED VERSIONS
+			if (A.UA.ios &gt; 0) {
+                browser = "ios";				
+                version = A.UA.ios;
+				browserName = browser+" "+version;
+                /* Alloy UA testing : http://yuilibrary.com/yui/docs/yui/yui-ua.html */
+
+            } else if(uAgent.match(/Android\s[\d.]*/i)){
+				str = String(uAgent.match(/Android\s[\d.]*/i)).split(" ");
+				browser = str[0];				
+				version = str[1];
+				browserName = browser+" "+version;
+	
+			} else if(uAgent.match(/chrome/i)){
+				str = String(uAgent.match(/chrome\/[0-9.]*/i)).split("/");
+				browser = str[0];				
+				version = str[1];
+				browserName = browser+"&amp;trade;"+" "+version;
+	
+			} else if(uAgent.match(/firefox/i)){
+				str = String(uAgent.match(/firefox\/[0-9.]*/i)).split("/");
+				browser = str[0];				
+				version = str[1];
+				browserName = browser+"&amp;reg;"+" "+version;
+	
+			} else if(uAgent.match(/opera/i)){
+				str = String(uAgent.match(/Version\/[0-9.]*/i)).split("/");
+				browser = "opera";				
+				version = str[1];
+				browserName = "Opera&amp;reg;"+" "+version;
+				
+			} else if(uAgent.match(/Safari/i)){
+				str = String(uAgent.match(/Version\/[0-9.]*/i)).split("/");
+				browser = "safari";				
+				version = str[1];
+				browserName = "Safari&amp;reg;"+" "+version;
+				
+			}
+				
+			// CHECK IE FOR CERTIFIED VERSION
+			if(uAgent.indexOf("MSIE") &gt; -1 || uAgent.indexOf("Trident") &gt; -1){
+	
+				if(uAgent.indexOf("MSIE 7.0") &gt; -1){
+					ieComp = true;
+				}
+				browser = "ie";				
+				version = get_browser_version();
+				browserName = "Internet Explorer&amp;reg;"+" "+version;
+			}
+			var assetKey =browser+"BrowserBlockDate";
+			
+			var browserblockDate = false;
+
+			for(var i=0; i&lt;len; i++){
+				for(name in certifiedBrowsers[i]){
+				
+					if(browser.toLowerCase() == name){
+						if(parseFloat(version) &lt; parseFloat(certifiedBrowsers[i][name])){
+							clientBrowser = false;
+						}
+					}
+				
+				}
+			}
+			
+		if(!clientBrowser) {
+			if(browsermsg2!='' &amp;&amp; browsermsg2!='null' &amp;&amp; browsermsg2!=null){
+				A.one("#browserAlert").html("&lt;p style='color: #000;'&gt;"+browserName +browsermsg1+" &lt;b&gt;"+browsermsg2+"&lt;/b&gt;. "+A.one("#whatToDOLink").html()+"&lt;/p&gt;");					
+				
+			}
+			else{
+				A.one("#browserAlert").html("&lt;p style='color: #000;'&gt;"+browsermsg3+" "+A.one("#whatToDOLink").html()+"&lt;/p&gt;");			
+					
+			}
+			A.one("#whatToDOLink").html("");
+		    A.all(".ah-browser-warning-wrapper").removeAttribute("style");			
+			} else{
+				if(browserCompatibilityModeIE=="ON" &amp;&amp; showCompatibilityMsg=="true"){
+					A.one("#browserAlert").html("&lt;p style='color: #000;'&gt;"+browsermsg3+" "+A.one("#whatToDOLink").html()+"&lt;/p&gt;");			
+					A.one("#whatToDOLink").html("");
+					A.all(".ah-browser-warning-wrapper").removeAttribute("style");	
+				}
+			}
+		});
+	})();
+	</script>
+
+
+
+<style> body { display:none;} </style>
+
+ <script>
+if (self == top) {
+	document.getElementsByTagName("body")[0].style.display = 'block';
+	//console.log("header self == top");
+} else {
+	top.location = self.location;
+	//console.log(" header self != top");
+ }
+</script>
+<script src="https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/ah-header-portlet/js/ah-page-print-timestamp.js"></script>
+<script type="text/javascript" src="https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/html/js/aonhewitt/coreVisual.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+	 
+	
+	
+	
+	
+
+
+
+	 
+	
+	
+	
+	
+
+
+
+
+
+
+
+<script type="text/javascript">
+AUI().ready('node','aui-node','load', 'resize', function(Y){
+	function showLogo(){
+		if(Y.one('.aui-view-lt720 .ah-small-logo')){
+			Y.one('.ah-small-logo').show();
+			Y.one('.ah-normal-logo').hide();
+		}
+		if(Y.one('.aui-view-gt720 .ah-normal-logo')){
+			Y.one('.ah-normal-logo').show();
+			Y.one('.ah-small-logo').hide();
+		}
+	}
+	showLogo();
+	
+	Y.on('windowresize', function(event) {
+		showLogo();
+	});
+});
+var A = AUI();
+
+A.use("ah-show-hide", 'AHDialog', 'event', 'node-base', 'node-event-simulate',
+
+                'ah-responsiveSelectTabs', 'ah-checkbox-button', 'aui-form-validator',
+
+                'node-event-delegate', 'aui-overlay-context-panel', 'node','ah-lightbox');
+
+
+
+function isLocked(E,originator,object){
+	
+    var prsnRsnCdJson = {prsnRsnCd:E,originator:originator};
+    JSONstring = A.JSON.stringify(prsnRsnCdJson);
+	ajaxPushHeader("https://l4dridap1273:8446/web/earth/login?p_p_id=ahheader_WAR_ahheaderportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_resource_id=isLocked&amp;p_p_cacheability=cacheLevelPage",JSONstring,true,object.href);
+	return false;
+	}
+	
+	
+function ajaxPushHeader(requestURL,postData,syncMode,href) {
+    A.use('aui-io-request', function(A) {
+          A.io.request(requestURL, {
+                method : 'POST',
+                cache: false,
+                dataType : 'json',
+                data : {
+                      postKey : postData
+                },
+                sync : syncMode,
+                on : {
+                      success : function() {
+        	  
+                            ajaxPushSuccessEventManagerHeader( this
+                                        .get('responseData'),href);
+                      },
+                      failure : function() {
+                            
+                      }
+                }
+          });
+    });
+}
+
+function  ajaxPushSuccessEventManagerHeader(responseText,href){
+	
+	if(responseText.isLocked == 'true'){
+		
+	 var output_result = createReadOnlyDialogContent(responseText);
+	 
+		//"Ready Only" Access Notice
+		
+			
+		//create readonly dialog content
+		AUI().use('node', function(A){
+		
+			var dialogContent =  '&lt;h3&gt;"Read Only" Access Notice &lt;/h3&gt;'
+									+'&lt;p&gt;'+output_result+'&lt;/p&gt;';
+			var continueBtn = 'Continue';
+			var AHLightbox = new A.AHLightbox({
+	            id : 'lightboxLink12sasa',
+	            title : '',
+	            footerContent : '',
+	            iframe:true,
+	            draggable: false,
+	            resizable: false,
+	            tabIndex:0, 
+	            //height : 400,
+	            bodyContent: dialogContent,
+	            buttonsLinks: {              
+	               
+	              footer: [
+	                    {
+	                         label : continueBtn,         
+	                         classNames: 'aui-button ah-button-small ah-button-positive',
+	                         id: 'masContinueBTN',
+	                         isVisible : true,
+	                         events: {
+	                              click: function (e) {
+	                            	window.location.href = href;
+	              					return false;
+	                              }
+	                         }
+	                    }
+	              ]
+	            
+	            }
+	        }).render();
+
+			
+		}); 
+		
+	}else{
+		window.location.href = href;
+		return false;
+	}
+}
+function createReadOnlyDialogContent(result) {
+		var output = '';
+		if (result.hasUdptAcs == 'true') {
+			if (result.userId == 'PPT') {
+				output += "The customer";
+			} else {
+				output +="User Id";
+						
+				output +=" "+result.userId;	
+
+			}
+			
+			output +=" "+"is currently using this account.";
+
+		} 
+		else{
+			output +="You have restricted access.&amp;nbsp;";	
+			}
+		
+		
+		
+		output +="During this time, you have \"read only\" access to the site and can obtain information, but you can't make any changes.";
+		return output;
+	}
+	
+
+
+</script>
+
+
+
+
+
+
+
+
+
+	<div id="ah-header" role="contentinfo" class="ah-font-change">
+	
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 	<!-- PFO-13740 -->
+ 	
+		
+		
+			<div class="ah-aux-nav-wrapper clearfix ah-upoint-icon-display" id="aui_3_4_0_1_1587"> 
+		
+	
+ 	<!--  PBPI-3410 and PBPI-3419 : Start -->
+ 	
+ 	
+		<img class="ah-upoint-icon-img" src="/base-portal-32-theme/images/ah-images/upoint.png" alt="UPoint" />
+ 	
+
+ 	<!--  PBPI-3410 and PBPI-3419 : End -->	  
+ 	
+ 
+ 
+ 
+   <input type="hidden" name="upointRedesign" id="upointRedesign" value="false" />
+
+    <div class="ah-page-wrapper ah-aux-pos-fix">
+      <div class="ah-header-welcome-statement aui-w7-16 aui-720-w7-16 aui-480-w7-16 aui-320-w3-8">
+	      
+				
+				
+					
+						
+					
+											
+						
+						
+							<p> </p>
+						
+								
+							
+					
+				
+			
+      </div>
+      		
+      <div class="ah-print-only">     		
+     		
+   			<p id="ah-print-subheader-timestamp">Premier Company Benefits Site - Base Premier Company Sept 14, 2016 11:08 a.m. IST</p>
+	  </div>
+	  
+      
+        <!-- -----------------------------begin ah-aux nav-------------------------------------------- -->
+        <div id="ah-aux-nav" class="clearfix" role="navigation" aria-label="Auxiliary Navigation">
+		<ul class="ah-aux-nav-primary" role="menubar"><!-- PBPI-3546 : Removed tabindex="0" -->
+				
+                
+			       
+		
+	         
+             
+
+               
+	          
+	          
+			
+							<li role="presentation"><script type="text/javascript">AUI().use('get', function(A){A.Get.script('/html/js/aonhewitt/coreVisual.js');});</script><a class="ah-secondaryWindow" role="menuitem" onclick="if(isUACrossEnabled()){try{ga('trackerUa1.send','event', 'Internal Link' ,'click','LinkId:PRE_CONTACT_US LinkDest:/web/earth/pre-contactus'); } catch(err){}} if(isUAClientEnabled()){ try{if(isGTMEnabled()){dataLayer.push({'event':'UPointLinkEvent', 'linkCategory':'Internal Link', 'linkAction':'click', 'linkLabel':'LinkId:PRE_CONTACT_US LinkDest:/web/earth/pre-contactus'});}else{ga('trackerUa2.send','event', 'Internal Link' ,'click','LinkId:PRE_CONTACT_US LinkDest:/web/earth/pre-contactus'); }} catch(err){}}try{setTimeout(function() {}, 100);}catch(err){}window.winHandle = window.open('https://l4dridap1273:8446/web/earth/pre-contactus?linkId=PRE_CONTACT_US&amp;technicalNameForLink=PRE_CONTACT_US&amp;userFriendlyNameForLink=Pre-auth contact us link&amp;domain=null&amp;baseClientIndicator=Base','PRE_CONTACT_US','scrollbars=yes,height=560,titlebar=yes,width=980,resizable=yes');if(typeof XD != 'undefined'){XD.registerWindow('PRE_CONTACT_US',window.winHandle);}try{setSessionTimeOut()}catch(err){};return false;" href="https://l4dridap1273:8446/web/earth/pre-contactus?linkId=PRE_CONTACT_US&amp;technicalNameForLink=PRE_CONTACT_US&amp;userFriendlyNameForLink=Pre-auth contact us link&amp;domain=null&amp;baseClientIndicator=Base">Contact Us</a></li>
+			
+			
+			<li role="presentation" class="ah-secondaryWindow">		
+				
+
+
+	
+		
+		
+			<a href="javascript:void(0);" onclick="openFeedback();" title="Choose this link to give feedback on this page." role="menuitem"> Feedback</a>
+		
+	
+
+
+				</li>
+			
+			
+			
+				<li role="presentation" class="ah-aux-nav-persistent"><a role="menuitem" onclick="if(isUACrossEnabled()){try{ga('trackerUa1.send','event', 'Internal Link' ,'click','LinkId:LOG_ON_LINK LinkDest:/web/earth/login'); } catch(err){}} if(isUAClientEnabled()){ try{if(isGTMEnabled()){dataLayer.push({'event':'UPointLinkEvent', 'linkCategory':'Internal Link', 'linkAction':'click', 'linkLabel':'LinkId:LOG_ON_LINK LinkDest:/web/earth/login'});}else{ga('trackerUa2.send','event', 'Internal Link' ,'click','LinkId:LOG_ON_LINK LinkDest:/web/earth/login'); }} catch(err){}}setTimeout(function() {document.location.href = href;}, 100);return false;" href="https://l4dridap1273:8446/web/earth/login?linkId=LOG_ON_LINK&amp;technicalNameForLink=LOG_ON_LINK&amp;userFriendlyNameForLink=Log On&amp;domain=Ben-CM&amp;baseClientIndicator=Base">Log On</a></li>	
+			
+			
+			</ul>
+            
+             
+            
+            <div id="ah-aux-choose-language" class="ah-aux-menu-sub hidden ah-dropdown-acs" role="menu">
+                <div class="ah-arrow">
+                    <div class="ah-arrow-front"></div>
+                    <div class="ah-arrow-line"></div>
+                </div>
+                <ul aria-labelledby="ah-aux-choose-language-aria-label" aria-expanded="true">
+                    
+                        <li role="presentation"><a role="menuitem" href="/web/earth/login?languageId=en_US"> 
+                        
+                        <strong>English</strong> (Current Selection)
+                        
+                        </a></li>
+                    
+                        <li role="presentation"><a role="menuitem" href="/web/earth/login?languageId=fr_CA"> 
+                        
+                       French (Canada)? - français
+                        
+                        </a></li>
+                    
+                        <li role="presentation"><a role="menuitem" href="/web/earth/login?languageId=fr_FR"> 
+                        
+                       French (France)? - français
+                        
+                        </a></li>
+                    
+                </ul>
+            </div>
+             
+			
+		</div>        
+       <div class="clear"></div> <!-- fix for IE clearfix class does not work in ie here -->
+        <!-- ---------------------------------------end ah-aux nav------------------------------------- -->
+	</div>
+	
+</div>
+
+ 
+
+	<div class="ah-page-wrapper" id="aui_3_4_0_1_1035">
+	      <!-- set the src = company logo found in ImageLocalServiceUtil.getDefaultCompanyLogo()  and add company name to alt-->
+	      
+	      	<div class="ah-header-company-logo"> <img src="/documents/1718355/8506909/site_logo.png" alt="Base Premier Company Logo" /> </div>
+	       
+		      
+			      <div class="ah-header-search" id="aui_3_4_0_1_1034">
+				      
+			      <div id="ah-search-holder"> 
+				            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link href="/html/portlet/search/css/main.css" rel="stylesheet" type="text/css" />
+
+	
+
+	
+	<form class="ah-font-change ah-spacing ah-content-library-withoutsearch-form" action="https://l4dridap1273:8446/web/earth/search?p_p_id=3&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view&amp;_3_struts_action=%2Fsearch%2Fsearch&amp;_3_redirect=%2Fweb%2Fearth%2Flogin" method="get" name="ctem_3_fm" onsubmit="search(); return false;" role="form" id="aui_3_4_0_1_245">
+	<span>
+	<input name="p_p_id" type="hidden" value="3" /><input name="p_p_lifecycle" type="hidden" value="0" /><input name="p_p_state" type="hidden" value="normal" /><input name="p_p_mode" type="hidden" value="view" /><input name="_3_struts_action" type="hidden" value="/search/search" /><input name="_3_redirect" type="hidden" value="/web/earth/login" />
+	<input name="groupId" type="hidden" value="37365" />
+	<input name="keywords" type="hidden" />
+	
+	
+	
+	<!-- PFO-9394 -->
+	
+	<input name="displayDocumentTypeFacetCL" type="hidden" value="false" />
+	</span>
+	
+	
+		
+	<div class="ah-gutter-row" id="aui_3_4_0_1_244">
+			
+					
+				
+			
+			<div class="ah-gutter-col aui-w100 aui-720-w75 aui-960-w75" id="_ahheader_WAR_ahheaderportlet_searchContainerDiv">	
+
+		<div class="aui-helper-hidden libraryHidden">
+			<h1>Content Library</h1>
+			<p>You can search the documents and information that Premier Company has gathered for you.</p>
+		</div>
+		
+	  	<div class="ah-input-text-small aui-w100 aui-320-w75" id="aui_3_4_0_1_243">
+			<div id="autoComplete99" role="search" aria-label="Primary Search Section">
+				<span role="status" aria-live="polite" class="visuallyhidden"></span>
+				<!--  PFO-6139 Changes start -->
+						
+							 
+						        	
+									
+									      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<span class="aui-field aui-field-text ah-input-text-search aui-w75 aui-320-w75" id="aui_3_4_0_1_242">
+		<span class="aui-field-content" id="aui_3_4_0_1_241">
+			
+
+			
+
+			<span class="aui-field-element " id="aui_3_4_0_1_240">
+
+
+
+	
+	
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+				<div id="aui_3_4_0_1_289" class="yui3-widget aui-component aui-autocomplete"><span id="_ahheader_WAR_ahheaderportlet_autoComplete99" class="aui-autocomplete-content"><div id="aui_3_4_0_1_313" class="yui3-widget aui-component aui-combobox"><div id="aui_3_4_0_1_315" class="aui-combobox-content"><span class="aui-field yui3-widget aui-component aui-textfield aui-field-text" id="aui_3_4_0_1_330"><span class="aui-field-content aui-field-content aui-textfield-content" id="aui_3_4_0_1_332"><input class="aui-field-input aui-field-input-text ah-input-text-person-search" id="_ahheader_WAR_ahheaderportlet_keywords" name="_ahheader_WAR_ahheaderportlet_keywords" title="Search" type="text" value="" spellcheck="false" aria-autocomplete="list" aria-expanded="false" aria-label="Search" size="32" tabindex="null" autocomplete="off" /></span></span><span id="aui_3_4_0_1_386" class="yui3-widget aui-component aui-toolbar aui-toolbar-horizontal"><span id="aui_3_4_0_1_388" class="aui-toolbar-content"><button type="button" id="trigger" class="aui-buttonitem-content yui3-widget aui-component aui-buttonitem aui-state-default aui-buttonitem-icon-only aui-toolbar-first aui-toolbar-last aui-toolbar-item" title=""><span class="aui-buttonitem-icon aui-icon aui-icon-circle-triangle-b"></span><span class="aui-buttonitem-label aui-helper-hidden" id="aui_3_4_0_1_510"></span></button></span></span></div></div></span></div>
+			
+		
+	
+
+
+
+			</span>
+
+			
+
+			
+		</span>
+	</span>
+
+
+
+									
+								     <!-- PFO-6139 Changes start  -->
+										
+										   
+										   
+										      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="aui-button ah-button-small ah-button-icon-notext ah-button-neutral ah-icon-search aui-w1-8 aui-320-w25">
+	<span class="aui-button-content">
+		<input class="aui-button-input" id="_ahheader_WAR_ahheaderportlet_search" type="button" value=" " title="Select this button to retrieve your search results entered in the field." />
+	</span>
+</span>
+										   
+										
+					    			<!-- PFO-6139 Changes complete  -->
+						     
+							
+						
+			  <!--  PFO-6139 Changes complete -->
+			</div>
+		</div>
+		
+	</div>	
+
+
+</div>
+
+</form>
+<script>
+
+
+   AUI().ready('node', function (A) {	
+	  	if(A.one('#_ahheader_WAR_ahheaderportlet_keywords') &amp;&amp; A.one('#_ahheader_WAR_ahheaderportlet_search')){
+	 	 	A.one('#_ahheader_WAR_ahheaderportlet_keywords').ancestors('.ah-input-text-search').removeClass('hidden');
+	  		A.one('#_ahheader_WAR_ahheaderportlet_search').get('parentNode.parentNode').removeClass('hidden');
+	  	}
+	  	
+	  	   var browserCheck = A.one("html");
+           if (browserCheck.hasClass("ie8") || browserCheck.hasClass("ie9")) {
+        	   if(A.one(".ah-input-text-person-search")){
+        		   var searchField = A.one(".ah-input-text-person-search");
+                   var placeholderVal = searchField.attr("placeholder");
+
+                   if (placeholderVal != null) {
+                       searchField.val(placeholderVal);
+                       searchField.on("focus", function () {
+                           if (this.val() == placeholderVal) {
+                               this.val('');
+                           }
+                       });
+                       searchField.on("blur", function () {
+                           if (this.val() == "") {
+                               this.val(placeholderVal);
+                           }
+                       });
+                   } 
+        	   }
+           }
+         // PFO-6139 Changes start
+         if(false){
+	           if(false){
+	        	   search();
+	        	   A.one('#p_p_id_ahheader_WAR_ahheaderportlet_').append('&lt;div class="loading-animation" /&gt;');
+	           }else if(false){
+	        	   categoryFilter("0","null");
+        		   A.one('#p_p_id_ahheader_WAR_ahheaderportlet_').append('&lt;div class="loading-animation" /&gt;');
+	           }else if(false){
+	        	   document.ctem_3_fm.submit();
+	        	   A.one('#p_p_id_ahheader_WAR_ahheaderportlet_').append('&lt;div class="loading-animation" /&gt;');
+	           }
+         }
+         // PFO-6139 Changes complete
+       }
+   );
+</script>
+
+
+		
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="/ah-search-spell-suggest-portlet/js/service.js"></script>
+
+
+
+
+<script type="text/javascript" src="/ah-search-spell-suggest-portlet/js/main.js"></script>
+
+
+<link href="/ah-search-spell-suggest-portlet/css/main.css" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+			          </div></div>
+		      
+	      
+	</div> <!--end ah-page-wrapper -->
+
+    
+      <!-- removing css "clearfix"  from id ah-nav to display navigation -->
+		
+			
+			
+				<nav id="ah-nav"> 
+			
+		
+    <!-- ==================================================================================== -->  
+    <!--                                  Primary  Navigation                                 --> 
+    <!-- ==================================================================================== -->  
+		
+        <!-- begin ah-primary-nav  -->
+       
+			<div id="ah-primary-nav" class="clearfix ah-no-nav" role="navigation" aria-label="Primary Navigation"> 
+		         
+          <div class="ah-page-wrapper">
+          
+		  <span id="ah-current-page" class="visuallyhidden">page selected</span><!-- PFO-13079 : Tell screen reader about active page -->
+            <ul id="ah-primary-main-ul" role="menubar">
+                <!-- add scripting/programing to add selected class to current page/area -->
+                
+                
+              <!-- PFO-8618 : Added div wrapper over ah-primary-menu-link for overlay effect -->
+              <div class="ah-overlay" data-info="intro-id-menu" role="presentation">
+			  
+                <li id="ah-primary-menu-link" role="presentation" subject="ah-primary-menu-ul" class="ah-primary-icon-menu-item ah-simpleDropDown mobileIcon">
+                	
+                		<a href="javascript:void(0);" onclick="event.returnValue=true;" id="menuIcon"><b><span class="hideMobile">Menu</span></b></a>
+                    
+					
+					
+						
+						
+							<div id="ah-primary-menu-ul" class="hidden ah-simpleDropDown-subject">
+						
+					
+						
+                    	
+                    		
+									<div class="mobileHome">
+										
+											<a onclick="if(isUACrossEnabled()){try{ga('trackerUa1.send','event', 'Internal Link' ,'click','LinkId:GLBL_NAV_HOME LinkDest:/web/earth/home'); } catch(err){}} if(isUAClientEnabled()){ try{if(isGTMEnabled()){dataLayer.push({'event':'UPointLinkEvent', 'linkCategory':'Internal Link', 'linkAction':'click', 'linkLabel':'LinkId:GLBL_NAV_HOME LinkDest:/web/earth/home'});}else{ga('trackerUa2.send','event', 'Internal Link' ,'click','LinkId:GLBL_NAV_HOME LinkDest:/web/earth/home'); }} catch(err){}}setTimeout(function() {document.location.href = href;}, 100);return false;" href="https://l4dridap1273:8446/web/earth/home?linkId=GLBL_NAV_HOME&amp;technicalNameForLink=GLBL_NAV_HOME&amp;userFriendlyNameForLink=Home&amp;domain=Ben-CM&amp;baseClientIndicator=Base">Home</a>
+										
+										
+
+										<!--<a href="#" class="ah-content-space-v" style="background:none; text-align:center;"><span class="ah-font-xxxl">
+							</span></a>-->
+
+									</div>
+							
+                        <ul id="ah-primary-expand-list" role="menubar" tabindex="0"> 							
+                            <!--  Class "selected" programably placed on page load  subject can be any name as long as it corisponds to the matching ID-->
+                            
+                            
+                        </ul>
+                        
+                        
+                        <ul id="ah-aux-nav-small" role="menubar"> 
+							
+                             
+                            
+                            
+							
+								<li tabindex="-1"><script type="text/javascript">AUI().use('get', function(A){A.Get.script('/html/js/aonhewitt/coreVisual.js');});</script><a class="ah-secondaryWindow" role="menuitem" onclick="if(isUACrossEnabled()){try{ga('trackerUa1.send','event', 'Internal Link' ,'click','LinkId:PRE_CONTACT_US LinkDest:/web/earth/pre-contactus'); } catch(err){}} if(isUAClientEnabled()){ try{if(isGTMEnabled()){dataLayer.push({'event':'UPointLinkEvent', 'linkCategory':'Internal Link', 'linkAction':'click', 'linkLabel':'LinkId:PRE_CONTACT_US LinkDest:/web/earth/pre-contactus'});}else{ga('trackerUa2.send','event', 'Internal Link' ,'click','LinkId:PRE_CONTACT_US LinkDest:/web/earth/pre-contactus'); }} catch(err){}}try{setTimeout(function() {}, 100);}catch(err){}window.winHandle = window.open('https://l4dridap1273:8446/web/earth/pre-contactus?linkId=PRE_CONTACT_US&amp;technicalNameForLink=PRE_CONTACT_US&amp;userFriendlyNameForLink=Pre-auth contact us link&amp;domain=null&amp;baseClientIndicator=Base','PRE_CONTACT_US','scrollbars=yes,height=560,titlebar=yes,width=980,resizable=yes');if(typeof XD != 'undefined'){XD.registerWindow('PRE_CONTACT_US',window.winHandle);}try{setSessionTimeOut()}catch(err){};return false;" href="https://l4dridap1273:8446/web/earth/pre-contactus?linkId=PRE_CONTACT_US&amp;technicalNameForLink=PRE_CONTACT_US&amp;userFriendlyNameForLink=Pre-auth contact us link&amp;domain=null&amp;baseClientIndicator=Base">Contact Us</a></li>
+							
+							
+							<li tabindex="-1">
+								
+
+
+	
+		
+		
+			<a href="javascript:void(0);" onclick="openFeedback();" title="Choose this link to give feedback on this page." role="menuitem"> Feedback</a>
+		
+	
+
+
+							</li>
+							
+							
+							
+							<li tabindex="-1" class="ah-aux-nav-persistent"><a role="menuitem" onclick="if(isUACrossEnabled()){try{ga('trackerUa1.send','event', 'Internal Link' ,'click','LinkId:LOG_ON_LINK LinkDest:/web/earth/login'); } catch(err){}} if(isUAClientEnabled()){ try{if(isGTMEnabled()){dataLayer.push({'event':'UPointLinkEvent', 'linkCategory':'Internal Link', 'linkAction':'click', 'linkLabel':'LinkId:LOG_ON_LINK LinkDest:/web/earth/login'});}else{ga('trackerUa2.send','event', 'Internal Link' ,'click','LinkId:LOG_ON_LINK LinkDest:/web/earth/login'); }} catch(err){}}setTimeout(function() {document.location.href = href;}, 100);return false;" href="https://l4dridap1273:8446/web/earth/login?linkId=LOG_ON_LINK&amp;technicalNameForLink=LOG_ON_LINK&amp;userFriendlyNameForLink=Log On&amp;domain=Ben-CM&amp;baseClientIndicator=Base">Log On</a></li>	
+							
+							
+                          
+                        </ul>
+                         
+                      		<div class="ah-secondarynav-bottom-shadow"></div>
+                     	  
+                    </div>
+                    <!-- New Aux nav secondary tier for small view -->
+                    
+                     
+                     
+                    <div id="ah-aux-choose-language-small" class="ah-aux-menu-sub hidden">
+                        <ul role="menubar">
+                            <li class="ah-nav-flex-header ah-simpleDropDown" subject="ah-primary-menu-ul">
+                                <a href="javascript:void(0);" title="Choose a Language Menu">Choose a Language</a>
+                            </li>
+                            
+		                        <li><a href="javascript:void(0);" onclick="window.location.href='/web/earth/login?languageId=en_US'">  
+		                        
+		                        <strong>English</strong> (Current Selection)
+		                        
+		                        </a></li>
+		                    
+		                        <li><a href="javascript:void(0);" onclick="window.location.href='/web/earth/login?languageId=fr_CA'">  
+		                        
+		                                French (Canada)? - français
+	                                
+		                        </a></li>
+		                    
+		                        <li><a href="javascript:void(0);" onclick="window.location.href='/web/earth/login?languageId=fr_FR'">  
+		                        
+		                                French (France)? - français
+	                                
+		                        </a></li>
+		                    
+                            
+                        </ul>
+                        <div class="ah-secondarynav-bottom-shadow"></div>
+                    </div>
+                    
+                    
+                    
+                    
+                </li>
+              </div>  
+                <!-- PFO-8618 : Added div wrapper over ah-primary-menu-link for overlay effect -->
+                
+                
+	                <li id="ah-primary-search-link" subject="ah-primary-search-dropdown" class="ah-primary-icon-menu-item ah-simpleDropDown"><a href="#" onclick="event.returnValue=true;" id="aui_3_4_0_1_1545"><b>Search</b></a>                	                  
+	                </li>
+                
+                <!--
+                <li id="ah-gmc-messages-link"><a href="gmc">
+                <span class="ah-badge-large ah-badge-action" >17</span>Messages</a></li>
+                -->
+                 
+               
+				 
+            </ul>            
+            <div class="clear"></div>
+            <div id="ah-primary-search-dropdown" class="hidden ah-simpleDropDown-subject">               
+               <div class="ah-secondarynav-bottom-shadow"></div>
+            </div>
+        </div> 
+        <!--End ah-primary-nav -->
+ 	</div> <!--end ah-page-wrapper -->
+     
+<!--  Secondary Navigation   -->            
+<!-- ==================================================================================== -->
+<!--                                  Secondary Navigation                                -->
+<!-- ==================================================================================== -->
+<!-- Secondary nav is dependent on the current page -->
+<!-- secondaty nav consists of a menu main list and subsequint menu-sub lists  each group has a nav-head and a ul-->
+
+
+
+
+
+<div class="ah-secondarynav">
+  <div class="ah-page-wrapper">
+    <!---------- List 1 ------------------>
+    
+    
+    
+  </div>
+  
+  <div id="ahNavOverlay" style="height:843px;" class="aui-helper-hidden"></div></div>
+      
+      
+            <div class="ah-secondarynav-bottom-shadow"></div>
+   	  
+
+	
+</nav>
+
+ 
+</div>
+	
+	<!--Page Utility -->
+				
+
+<!-- Style custom for Aon Redesign -->
+<!-- To override css styles of themes, added 'important' with css styles.-->
+<!-- '.NewNavigation' is parent class of AON Redesign -->
+
+<style>
+.aui-view-lt960 .NewNavigation .ah-secondarynav .ah-secondarynav-level-2, 
+.aui-view-lt960 .NewNavigation .ah-secondarynav .ah-secondarynav-level-1{
+	top:0px !important;	
+}
+.aui-view-lt960 .NewNavigation .ah-secondarynav .ah-secondarynav-level-2 li, 
+.aui-view-lt960 .NewNavigation .ah-secondarynav .ah-secondarynav-level-1 li{
+	margin-top:0px !important;
+}
+.visibleClass{visibility: hidden;}
+.aui-view-lt960 .NewNavigation .ah-secondarynav .ah-secondarynav-level-2, 
+.aui-view-lt960 .NewNavigation .ah-secondarynav .ah-secondarynav-level-1,
+.aui-view-lt960 .NewNavigation .mainMenuPostion{
+  background-color: #efefef;
+  position: fixed !important;
+  left: -600px !important;
+  width: 300px !important;
+  z-index: 500 !important;
+  box-shadow: 1px 0 2px rgba(0, 0, 0, 0.2); 
+
+  display: block !important; 
+  visibility:visible !important;
+  border-top:0px;  
+ }
+ .aui-view-gt960 .NewNavigation .mainMenuPostion,
+ .aui-view-gt960 .NewNavigation .ah-secondarynav-level-2{
+	height:auto !important;
+ }
+ 
+ .aui-view-lt960 .NewNavigation .mainMenuPostion.aui-helper-hidden{
+	 z-index:-1 !important;
+ }
+ .aui-view-lt960 .NewNavigation .ah-simpleDropDown-subject.hidden,
+ .aui-view-lt960 .NewNavigation #ah-primary-menu-ul.hidden,
+ .aui-view-lt960  .Expand215.hidden,
+ .aui-view-lt960 .NewNavigation .hidden.show,
+ .aui-view-lt960 .NewNavigation .mobileHome,
+ .aui-view-lt960 .NewNavigation #ah-aux-your-profile-small.Expand260.hidden{
+	 display:block !important;
+	 visibility:visible !important;
+ }
+ .aui-view-lt960 .NewNavigation div#ah-aux-your-profile-small.hidden,
+ .aui-view-lt960 .NewNavigation .mobileHide,
+ .aui-view-lt960 .NewNavigation .ah-secondarynav-page-level .ah-arrow,
+ .mobileHome,
+ .aui-view-lt960 .NewNavigation .hideMobile{
+	  display:none !important;
+	 visibility:hidden !important;
+ }
+ 
+ .aui-view-lt960 .NewNavigation div#ah-aux-your-profile-small{
+	 left:-600px !important;
+	 z-index:1200 !important;
+	 margin-top:0px;
+	 top:0px !important;
+ }
+ 
+.aui-view-lt960 .NewNavigation .show .ah-nav-flex-header a {
+	background-color: rgba(0, 0, 0, 0.1) !important;
+	text-transform: uppercase;
+	font-weight: 100 !important;
+	font-size: 0.8em;
+}
+.aui-view-lt960 .NewNavigation #ah-primary-menu-ul {
+	background-color: #e6e6e6 !important;
+    box-shadow: 1px 0 2px rgba(0,0,0,0.2);
+	left:-300px !important;
+	position:fixed !important;
+	width:300px !important;
+	height:906px;
+}
+.aui-view-lt960 .NewNavigation #ah-primary-search-link, 
+.aui-view-lt960 .NewNavigation .searchNew{
+	display:none!important;
+}
+.aui-view-lt960 .NewNavigation #ah-primary-nav #ah-gmc-messages-link li:hover{
+	background-color:transparent !important;
+	background-image:none;
+}
+.aui-view-lt960 .NewNavigation #ah-primary-nav li:hover{
+	background-color:transparent !important;	
+}
+.aui-view-lt960 .NewNavigation #ah-primary-nav .ah-primary-icon-menu-item.mobileIcon,
+.aui-view-lt960 .NewNavigation #ah-primary-nav .ah-primary-icon-menu-item{
+	width:8%;
+}
+.aui-view-lt960 .NewNavigation .ah-secondarynav-bottom-shadow{
+	display:none;
+}
+/*.aui-view-lt960 .NewNavigation #ah-primary-nav,
+.aui-view-lt960 .NewNavigation #ah-primary-nav li {
+	height: 50px;
+}
+.aui-view-lt960 .NewNavigation #ah-primary-nav li:hover{
+	height:48px;
+}*/
+.aui-view-lt960 .NewNavigation .ah-input-text-small {
+	width:100%;
+}
+.aui-view-lt960 .NewNavigation .mobileHome{height:70px!important;}
+.aui-view-lt960 .NewNavigation #ah-primary-nav .ah-primary-icon-menu-item .mobileHome a, 
+.aui-view-lt960 .NewNavigation #ah-primary-nav .ah-primary-icon-menu-item .mobileHome a:hover{
+		height:60px!important;
+}
+.aui-view-lt960 .NewNavigation .mobileHome a{
+	background-image:none!important;
+	margin: 0!important;
+	padding: 1em!important;
+	color: #3C4144!important;
+	text-shadow: 0 0 1px rgba(0,0,0,0.1)!important;
+	font-weight: 300!important;
+	font-size: 22px!important;
+}
+.aui-view-lt960 .NewNavigation .ah-secondarynav-level-1 ul li:first-child a{
+	color: #3C4144!important;
+	text-shadow: 0 0 1px rgba(0,0,0,0.1)!important;
+	font-weight: 300!important;
+	font-size: 22px!important;
+	height:60px;
+	display: table-cell;
+	vertical-align: middle;
+	padding: 1em!important;
+	width: 298px;
+}
+.aui-view-lt960 .NewNavigation #ah-primary-nav #ah-aux-your-profile-small li.ah-nav-flex-header{
+	border-top: none!important;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.2) !important;
+}
+.aui-view-lt960 .NewNavigation #ah-primary-nav #ah-aux-your-profile-small li.ah-nav-flex-header a{
+	font-size:14px;
+	font-weight:700!important;
+	padding-top: 13px;
+}
+.aui-view-lt960 .NewNavigation #ah-primary-nav .ah-aux-menu-sub li a:hover{
+	background:#d2d3d3;
+}
+.aui-view-lt960 .NewNavigation #ah-primary-nav #ah-primary-menu-ul li.selected a{
+	font-weight:normal!important;
+}
+.aui-view-lt960 .NewNavigation #ah-primary-nav #ah-aux-your-profile-small li.ah-nav-flex-header a:hover{
+	
+}
+.aui-view-lt960 .NewNavigation #ah-primary-nav{
+	height:46px;
+	border-top: none;
+}
+.aui-view-lt960 .NewNavigation #ah-primary-nav .ah-page-wrapper{
+	position: relative;
+}
+.aui-view-lt960 .NewNavigation #ah-primary-nav .ah-aux-menu-sub li:first-child a:hover{
+	background:none;
+}
+.aui-view-lt960 .NewNavigation .ah-secondarynav .ah-secondarynav-level-1 ul li:first-child:hover{
+	background-color: #d2d3d3 !important;
+}
+.aui-view-lt960 .NewNavigation #ah-primary-nav .ah-primary-icon-menu-item a:hover{
+	height:auto;
+}
+.aui-view-lt960 .NewNavigation .ah-secondarynav .ah-secondarynav-flex-dropdown ul li a, 
+.aui-view-lt960 .NewNavigation .ah-secondarynav .ah-secondarynav-flex-dropdown ul li span{
+	display:none;
+}
+.aui-view-lt960 .NewNavigation #ah-primary-nav #ah-primary-search-dropdown form{
+	margin:11px 5px 11px 22px!important;
+}
+.aui-view-lt960 .NewNavigation #ah-primary-nav #ah-primary-menu-ul,
+.aui-view-lt960 .NewNavigation div.ah-secondarynav-level-1,
+.aui-view-lt960 .NewNavigation div.ah-secondarynav-level-2{
+	top: 0px !important;
+	position:fixed !important;
+}
+
+ .aui-view-lt720 .ah-small-logo {
+         display: inline-block;
+}
+.aui-view-gt720 .ah-small-logo {
+         display: none;
+}
+.aui-view-lt720 .ah-normal-logo {
+         display: none;
+}
+.aui-view-gt720 .ah-normal-logo {
+         display: inline-block;
+}
+.ah-small-logo,
+.ah-normal-logo {
+	height: 43px;
+	margin-top: -21px !important;
+}
+.ah-responsive-off .ah-normal-logo{
+	display : inline-block !important;
+}
+
+
+ 
+</style>
+
+	
+	
+
+					
+				
+			
+			
+		
+	
+	
+
+</div>
+
+
+	</div>
+
+				</div>
+
+				
+			
+		
+	
+
+				
+				
+			
+
+		
+
+	
+
+
+
+
+
+			
+		</div>
+	</div>
+
+
+
+
+
+		</div>
+	</header>
+    
+    <div id="content" class="ah-page-wrapper">
+    <div class="portlet-row">
+		<div class="yui3-u-2-2 yui3-u-4-4 yui3-u-4-8 yui3-u-4-16  portlet-column" id="column-3">
+			<div class="portlet-dropzone portlet-column-content" id="layout-column_column-3">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+	
+
+	<div id="p_p_id_ParticipantLogon20_WAR_ahcommonauthportlet_" class="portlet-boundary portlet-boundary_ParticipantLogon20_WAR_ahcommonauthportlet_  portlet-static portlet-static-end portlet-borderless ah-authportlet-wrapper ah-authportlet-pptlogon-wrapper ">
+		<span id="p_ParticipantLogon20_WAR_ahcommonauthportlet"></span>
+
+		<div class="portlet-body">
+
+
+
+	
+	
+	
+	
+
+		
+
+			
+				
+					
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				<div class="portlet-borderless-container" style="">
+
+					
+						
+						
+							
+						
+												
+
+					
+
+
+
+<script type="text/javascript">
+function _ParticipantLogon20_WAR_ahcommonauthportlet_ajaxError(jqXHR,error, errorThrown)
+{   
+    var status=jqXHR.status;	
+	var errorMessage = "";	
+	
+    switch (status) 
+    {
+        case 8800:
+        	errorMessage +=jqXHR.responseText;
+            break;
+        default:
+        	errorMessage += "This session was interrupted and won't continue. If you were submitting a request, it may not have completed successfully.";
+    }   
+    
+   var portletBodyDiv=document.getElementById("_ParticipantLogon20_WAR_ahcommonauthportlet_portlet-body");
+   portletBodyDiv.innerHTML="";
+   portletBodyDiv.innerHTML +="&lt;div  id='_ParticipantLogon20_WAR_ahcommonauthportlet_ajaxError' class='portlet-msg-error' &gt;&lt;/div&gt;";
+       
+   var div = document.getElementById("_ParticipantLogon20_WAR_ahcommonauthportlet_ajaxError");
+   div.innerHTML = "";
+   div.innerHTML = errorMessage; 
+}
+</script>
+
+
+	<div class="portlet-body">
+
+
+<!-- 
+wrap the portlet content in div with _ParticipantLogon20_WAR_ahcommonauthportlet_portlet-body id,
+so that we can hide the content of portlet using the javascript if an exception/error 
+occurs at server side in case of ajax request. 
+-->
+<div id="_ParticipantLogon20_WAR_ahcommonauthportlet_portlet-body">
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+YUI().use('node', function(Y) 
+{
+    var cssWrap = Y.one('.ah-authportlet-pptlogon-wrapper');
+    if ((cssWrap) &amp;&amp; (Y.one('html').hasClass('aui-view-lt720')))
+  	{
+      
+    };
+});    
+</script>
+
+
+	
+
+
+
+	
+	
+
+
+
+	
+	
+
+
+
+	
+	
+
+
+
+	
+	
+
+
+
+	
+
+
+
+
+
+
+<script type="text/javascript">
+	    &lt;!--
+		  var fpString = "";
+		  var andString = "";
+	
+		  if (top != self) top.location.href = location.href;
+
+		  function navigateToUrl(url) {
+			 window.location.href = url;
+		  }
+	    //--&gt;
+</script>
+<script type="text/javascript">
+	    &lt;!--
+		  function navigateToUrl(url) {
+			 window.location.replace(url);
+		  }
+	   //--&gt;
+</script>
+<script>
+	   &lt;!--
+	   		BrowserDetect.init();
+	   	//--&gt;
+</script>
+<script type="text/javascript">
+    	&lt;!--
+    		// -----------------------------------------------------------------------------
+    		// Globals
+    		// Major version of Flash required
+    		var requiredMajorVersion = 6;
+    		// Minor version of Flash required
+    		var requiredMinorVersion = 0;
+    		// Minor version of Flash required
+    		var requiredRevision = 0;
+    		// -----------------------------------------------------------------------------
+    	//--&gt;
+	   </script>
+<script type="text/javascript">
+		&lt;!--
+		// Version check based upon the values defined in globals
+		var hasReqestedVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+		//--&gt;
+</script>
+<script type="text/javascript">
+		&lt;!--
+		if (hasReqestedVersion)
+			{
+				var d = new Date().getTime();
+				var out = "";
+				out = out + "&lt;object tabIndex='-1' role='presentation' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000'" + "\n";
+				out = out + "width='1' height='1'&gt;" + "\n";
+				out = out + "&lt;param name='movie' value='/ah-commonauth-portlet/pmfso.swf?nocache=" + d + "'&gt;" + "\n";
+				out = out + "&lt;param name='quality' value='high'&gt;" + "\n";
+				out = out + "&lt;param name='bgcolor' value=#FFFFFF&gt;" + "\n";
+				out = out + "&lt;param name='FlashVars' value='gotoUrl=&amp;sendUrl=https%3A%2F%2Fl4dridap1273%3A8446%2Fweb%2Fearth%2Flogin%3Fp_auth%3DndpCjFr9%26p_p_id%3DParticipantLogon20_WAR_ahcommonauthportlet%26p_p_lifecycle%3D1%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-3%26p_p_col_count%3D1%26_ParticipantLogon20_WAR_ahcommonauthportlet_execution%3De1s1%26_ParticipantLogon20_WAR_ahcommonauthportlet__eventId%3Dpmfso&amp;browserType=" + BrowserDetect.browser + "'&gt;" + "\n";
+				out = out + "&lt;embed src='/ah-commonauth-portlet/pmfso.swf?nocache=" + d + "'" + "\n";
+				out = out + "FlashVars='gotoUrl=&amp;sendUrl=https%3A%2F%2Fl4dridap1273%3A8446%2Fweb%2Fearth%2Flogin%3Fp_auth%3DndpCjFr9%26p_p_id%3DParticipantLogon20_WAR_ahcommonauthportlet%26p_p_lifecycle%3D1%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-3%26p_p_col_count%3D1%26_ParticipantLogon20_WAR_ahcommonauthportlet_execution%3De1s1%26_ParticipantLogon20_WAR_ahcommonauthportlet__eventId%3Dpmfso&amp;browserType=" + BrowserDetect.browser + "'" + "\n";
+				out = out + "quality='high' bgcolor='#FFFFFF' width='1' height='1'" + "\n";
+				out = out + "type='application/x-shockwave-flash'&gt;" + "\n";
+				out = out + "&lt;noembed&gt;" + "\n";
+				out = out + "&lt;" + "script" + "&gt;/*&lt;![CDATA[*/" + "\n";
+				out = out + "navigateToUrl('');" + "\n";
+				out = out + "/*]]&gt;*/&lt;/" + "script&gt;" + "\n"; 
+				out = out + "&lt;/noembed&gt;" + "\n"; 
+				out = out + "&lt;noobject&gt;&lt;/noobject&gt;" + "\n"; 
+				out = out + "&lt;/embed&gt;" + "\n"; 
+				out = out + "&lt;noobject&gt;&lt;/noobject&gt;" + "\n"; 
+				out = out + "&lt;/object&gt;" + "\n"; 
+				document.write(out); 
+			} 
+		//--&gt;
+</script><object tabindex="-1" role="presentation" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="1" height="1">
+<param name="movie" value="/ah-commonauth-portlet/pmfso.swf?nocache=1473831519292" />
+<param name="quality" value="high" />
+<param name="bgcolor" value="#FFFFFF" />
+<param name="FlashVars" value="gotoUrl=&amp;sendUrl=https%3A%2F%2Fl4dridap1273%3A8446%2Fweb%2Fearth%2Flogin%3Fp_auth%3DndpCjFr9%26p_p_id%3DParticipantLogon20_WAR_ahcommonauthportlet%26p_p_lifecycle%3D1%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-3%26p_p_col_count%3D1%26_ParticipantLogon20_WAR_ahcommonauthportlet_execution%3De1s1%26_ParticipantLogon20_WAR_ahcommonauthportlet__eventId%3Dpmfso&amp;browserType=Chrome" />
+<embed src="/ah-commonauth-portlet/pmfso.swf?nocache=1473831519292" flashvars="gotoUrl=&amp;sendUrl=https%3A%2F%2Fl4dridap1273%3A8446%2Fweb%2Fearth%2Flogin%3Fp_auth%3DndpCjFr9%26p_p_id%3DParticipantLogon20_WAR_ahcommonauthportlet%26p_p_lifecycle%3D1%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-3%26p_p_col_count%3D1%26_ParticipantLogon20_WAR_ahcommonauthportlet_execution%3De1s1%26_ParticipantLogon20_WAR_ahcommonauthportlet__eventId%3Dpmfso&amp;browserType=Chrome" quality="high" bgcolor="#FFFFFF" width="1" height="1" type="application/x-shockwave-flash" />
+<noembed>
+&lt;script&gt;/*&lt;![CDATA[*/
+navigateToUrl('');
+/*]]&gt;*/&lt;/script&gt;
+</noembed>
+<noobject></noobject>
+
+<noobject></noobject>
+</object>
+
+<noscript>
+	&lt;object classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' width='1'
+		height='1'&gt;
+		&lt;param name='movie' value='/ah-commonauth-portlet/pmfso.swf'&gt;
+		&lt;param name='quality' value='high'&gt;
+		&lt;param name='bgcolor' value=#FFFFFF&gt;
+		&lt;param name='FlashVars'
+			value='gotoUrl=&amp;sendUrl=https%3A%2F%2Fl4dridap1273%3A8446%2Fweb%2Fearth%2Flogin%3Fp_auth%3DndpCjFr9%26p_p_id%3DParticipantLogon20_WAR_ahcommonauthportlet%26p_p_lifecycle%3D1%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-3%26p_p_col_count%3D1%26_ParticipantLogon20_WAR_ahcommonauthportlet_execution%3De1s1%26_ParticipantLogon20_WAR_ahcommonauthportlet__eventId%3Dpmfso'&gt;
+		&lt;embed src='/ah-commonauth-portlet/pmfso.swf'
+			FlashVars='gotoUrl=&amp;sendUrl=https%3A%2F%2Fl4dridap1273%3A8446%2Fweb%2Fearth%2Flogin%3Fp_auth%3DndpCjFr9%26p_p_id%3DParticipantLogon20_WAR_ahcommonauthportlet%26p_p_lifecycle%3D1%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-3%26p_p_col_count%3D1%26_ParticipantLogon20_WAR_ahcommonauthportlet_execution%3De1s1%26_ParticipantLogon20_WAR_ahcommonauthportlet__eventId%3Dpmfso'
+			quality='high' bgcolor='#FFFFFF' width='1' height='1'
+			type='application/x-shockwave-flash'&gt;
+			&lt;noembed&gt;&lt;/noembed&gt;
+			&lt;noobject&gt;&lt;/noobject&gt;
+		&lt;/embed&gt;
+		&lt;noobject&gt;&lt;/noobject&gt;
+	&lt;/object&gt;
+</noscript>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+<div class="ah-auth-header">
+	
+	
+	
+	
+	<h3>Log On</h3>
+	
+	
+	
+	
+	
+	
+		<span class="ah-help-popover ah-float-right-lt480">
+			
+			<span class="icon"></span>
+				<script type="text/javascript">AUI().use('get', function(A){A.Get.script('https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/html/js/aonhewitt/coreVisual.js');});</script><span id="_ParticipantLogon20_WAR_ahcommonauthportlet_helpLightbox" style="display:none">
+				
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <div id="top"></div>
+<h3>Log On Help</h3>
+
+
+<script type="text/javascript">
+AUI().use('node', function(A){
+
+	if ('function' === typeof window.actionEvent) {		
+	
+		if(document.getElementById('newUserLinkTxt') != null ){
+		var linkTxt1  = document.getElementById('newUserLinkTxt').innerHTML;		
+			document.getElementById("newUserLinkTxt").innerHTML = '&lt;a href="#" onclick="actionEvent(\'newUser\');submit();return false;"&gt;'+ linkTxt1 + '&lt;/a&gt;';
+				
+				}	
+				if(document.getElementById('newUserLinkTxt1') != null ){
+				var linkTxt2  = document.getElementById('newUserLinkTxt1').innerHTML;		
+					document.getElementById("newUserLinkTxt1").innerHTML = '&lt;a href="#" onclick="actionEvent(\'newUser\');submit();return false;"&gt;'+ linkTxt2 + '&lt;/a&gt;';
+				
+					}
+					if(document.getElementById('forgotUserIdLinkTxt') != null ){
+					var linkTxt3 = document.getElementById('forgotUserIdLinkTxt').innerHTML;		
+						document.getElementById("forgotUserIdLinkTxt").innerHTML = '&lt;a href="#" onclick="actionEvent(\'newUser\');submit();return false;"&gt;'+ linkTxt3 + '&lt;/a&gt;';
+				
+						}	
+						if(document.getElementById('forgotUserIdLinkTxt1') != null ){	
+						var linkTxt4 = document.getElementById('forgotUserIdLinkTxt1').innerHTML;	
+							document.getElementById("forgotUserIdLinkTxt1").innerHTML = '&lt;a href="#" onclick="actionEvent(\'newUser\');submit();return false;"&gt;'+ linkTxt4 + '&lt;/a&gt;';
+				
+							}		
+							if(document.getElementById('newUserLinkTxt2') != null ){
+							var linkTxt5  = document.getElementById('newUserLinkTxt2').innerHTML;		
+								document.getElementById("newUserLinkTxt2").innerHTML = '&lt;a href="#" onclick="actionEvent(\'newUser\');submit();return false;"&gt;'+ linkTxt5 + '&lt;/a&gt;';
+				
+								}		
+		}
+	});
+</script>
+
+<div class="helpText">
+<div>   
+ 	<ul class="anchor-bullet ah-content-space-v">
+		<li><a href="#logn" title="Select this link to skip to the Can't Log On section of this page.">Can't Log On?</a>
+		
+		</li><li><a href="#pswd" title="Select this link to skip to the What is a Password section of this page.">What is a Password?</a>
+		
+			</li><li><a href="#pswdhint" title="Select this link to skip to the What is a Password Hint section of this page.">What is a Password Hint?</a>
+		
+		</li><li><a href="#scrtQuesAns" title="Select this link to skip to the What Are Security Questions and Answers section of this page.">What are Security Questions and Answers?</a>
+		
+	</li></ul>
+	<br />
+	<hr />
+	<br />
+</div>
+
+<h4 class="ah-field-space-v"><a name="logn" id="logn"></a>Can't Log On?</h4>
+<h5 class="ah-field-space-v">Have you logged on to this site before?</h5>
+	<p class="ah-field-space-v">
+		</p><ul>
+			
+				
+				
+					<li>If yes, you already have a password. If you can't remember it, return to the Log On page to access the <span id="forgotUserIdLinkTxt1"><a href="#" onclick="actionEvent('newUser');submit();return false;"> Forgot User ID or Password?</a></span> link.
+				
+			
+			
+			
+					</li><li>If no, return to the Log On page to access the <span id="newUserLinkTxt1"><a href="#" onclick="actionEvent('newUser');submit();return false;"> Are you a new user? </a></span> link.
+				
+				
+			
+		</li></ul>
+	<p></p>
+	
+		<p class="ah-field-space-v">If you've tried these solutions and still can't log on,  call the Premier Benefits Center at 1-800-XXX-XXX between 8:00 a.m. and 4:00 p.m., Central time, Monday through Friday. </p>
+	
+
+	
+	
+	 
+	
+	
+	<a href="#top" title="Select this link to return to the top of this page."> Top </a>
+	
+	
+	<br />
+	<br />
+	<hr />
+	
+
+	<h4 class="ah-content-space-v"><a name="pswd" id="pswd"></a>What is a Password?</h4>
+	
+		
+		
+ 			<p class="ah-field-space-v">A password is a sequence of characters you choose that, when combined with your user ID, allows you to access this site. It also keeps unauthorized users from accessing your account.  The system is not case sensitive; you can enter upper or lower case letters for your password.  </p>
+        
+	
+	
+	<p class="ah-field-space-v">Your password should be kept confidential. If you believe that someone has gained unauthorized access to your password, change it and notify Premier Company  or the Premier Benefits Center  immediately.</p>
+	
+	
+		 
+	
+	
+	<a href="#top" title="Select this link to return to the top of this page."> Top </a>
+	
+	
+			<br />
+			<br />
+			<hr />
+			
+		<h4 class="ah-content-space-v"><a name="pswdhint" id="pswdhint"></a>What is a Password Hint?</h4>
+		<p class="ah-field-space-v">When you create your password, you'll have the opportunity to set up a hint that will help you remember it. If you forget your password, you'll see the hint.</p>
+		
+			
+			
+ 				<p class="ah-field-space-v">If you enter your current password correctly after you see the hint, you can keep the password and immediately access this site.</p>
+            
+		
+	
+	
+	
+	
+	<a href="#top" title="Select this link to return to the top of this page."> Top </a>
+	
+	
+	<br />
+	<br />
+	<hr />
+	
+	<h4 class="ah-content-space-v"><a name="scrtQuesAns" id="scrtQuesAns"></a>What are Security Questions and Answers?</h4>
+	<p class="ah-field-space-v">To get quick access to the site when you've forgotten your password, you can answer 3 security questions that you chose previously. Your answers must match exactly with the answers you entered when you chose the questions.</p>	
+	
+		
+		
+ 			<p class="ah-field-space-v">If you don't set up security questions and answers and later forget your password, you can't access your information through the site  or the Premier Benefits Center  until you request and receive a new password.  If you don't have an email address on file on this site, you must wait until you receive your password via postal mail. </p>
+      	
+	
+	 
+	
+	
+	<a href="#top" title="Select this link to return to the top of this page."> Top </a>
+	
+	
+	<br />
+	<br />
+	<hr />
+	
+		
+</div>
+<style>
+.helpText .pb11 li, .helpText p, .helpText li{color:#000;}
+.helpText a,.helpText a:hover,.helpText a:visited{color:#1C68BF;}
+</style>			
+					
+				 </span><a role="null" aria-haspopup="true" id="_ParticipantLogon20_WAR_ahcommonauthportlet_helpLightbox_LBSimulatorLink" href="javascript:void(0);" title="Help" onclick="if(typeof  lightBoxVersion === 'undefined'){showLightbox('','_ParticipantLogon20_WAR_ahcommonauthportlet_helpLightbox','','null' ,'68.75%' ,'f692b511-fc01-4872-8640-b5abd4c87384','true');}else{showLightboxForTag('','_ParticipantLogon20_WAR_ahcommonauthportlet_helpLightbox','','null' ,'68.75%' ,'f692b511-fc01-4872-8640-b5abd4c87384','true', 'false', '© 2012-16 Aon plc','Feedback','Print','null','true','true','','false','ah-font-change');}">Help</a> 	
+		</span>
+	
+	
+	
+	
+	
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<form action="https://l4dridap1273:8446/web/earth/login?p_auth=ndpCjFr9&amp;p_p_id=ParticipantLogon20_WAR_ahcommonauthportlet&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-3&amp;p_p_col_count=1&amp;_ParticipantLogon20_WAR_ahcommonauthportlet_execution=e1s1" class="aui-form   yui3-widget aui-form-validator aui-form-validator-content" id="_ParticipantLogon20_WAR_ahcommonauthportlet_csPrtlLogn010InptFormBean" method="post" name="_ParticipantLogon20_WAR_ahcommonauthportlet_csPrtlLogn010InptFormBean" autocomplete="off">
+	<input name="_ParticipantLogon20_WAR_ahcommonauthportlet_formDate" type="hidden" value="1473831516339" />
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+				<input class="aui-field-input aui-field-input-text" id="_ParticipantLogon20_WAR_ahcommonauthportlet_pm_fp" name="_ParticipantLogon20_WAR_ahcommonauthportlet_pm_fp" type="hidden" value="version%3D1%26pm%5Ffpua%3Dmozilla%2F5%2E0%20%28windows%20nt%206%2E1%3B%20wow64%29%20applewebkit%2F537%2E36%20%28khtml%2C%20like%20gecko%29%20chrome%2F49%2E0%2E2623%2E110%20safari%2F537%2E36%7C5%2E0%20%28Windows%20NT%206%2E1%3B%20WOW64%29%20AppleWebKit%2F537%2E36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F49%2E0%2E2623%2E110%20Safari%2F537%2E36%7CWin32%26pm%5Ffpsc%3D24%7C1280%7C1024%7C984%26pm%5Ffpsw%3D%26pm%5Ffptz%3D5%2E5%26pm%5Ffpln%3Dlang%3Den%2DUS%7Csyslang%3D%7Cuserlang%3D%26pm%5Ffpjv%3D0%26pm%5Ffpco%3D1" />
+			
+		
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+				<input class="aui-field-input aui-field-input-text" id="_ParticipantLogon20_WAR_ahcommonauthportlet__eventId" name="_ParticipantLogon20_WAR_ahcommonauthportlet__eventId" type="hidden" value="logOn" />
+			
+		
+	
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+				<input class="aui-field-input aui-field-input-text" id="_ParticipantLogon20_WAR_ahcommonauthportlet_userAction" name="_ParticipantLogon20_WAR_ahcommonauthportlet_userAction" type="hidden" value="logOn" />
+			
+		
+	
+
+
+
+
+
+	<script type="text/javascript">
+	    &lt;!--
+		YUI().use('node', function(Y) {
+    		var input = Y.one('input[name=_ParticipantLogon20_WAR_ahcommonauthportlet_pm_fp]');
+    		var deviceprint = encode_deviceprint();
+    		input.set('value', deviceprint);
+		});
+	    
+	    function actionEvent(aEventId){
+	    	YUI().use('node', function(Y) {
+	    		var event = Y.one('input[name=_ParticipantLogon20_WAR_ahcommonauthportlet__eventId]');
+	    		event.set('value', aEventId);
+	    		var action = Y.one('input[name=_ParticipantLogon20_WAR_ahcommonauthportlet_userAction]');
+	    		action.set('value', aEventId);
+	    	});
+	    }
+	    function submit(){
+	    	YUI().use('node', function(Y) {
+	    		var form = Y.one('form[name=_ParticipantLogon20_WAR_ahcommonauthportlet_csPrtlLogn010InptFormBean]');
+	    		form.submit();
+	    	}); 
+		}
+
+	    //--&gt;
+	</script>
+
+	<link rel="stylesheet" href="https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/html/css/aonhewitt/validation/validation.css" type="text/css" />	
+	
+    
+	
+
+	
+    
+	<p class="ah-font-xsmall ah-field-space-v">All fields are required, unless they are noted as optional.</p>	
+	
+	
+	
+		
+	
+	
+    
+	
+		
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<span class="aui-field aui-field-text aui-field-first ah-input-20-char ah-input-320-w100 ah-input-480-w100 ah-field-space-v">
+		<span class="aui-field-content">
+			
+				<label class="aui-field-label" for="_ParticipantLogon20_WAR_ahcommonauthportlet_userId">
+					SSN
+
+					
+
+					
+
+					
+				</label>
+			
+
+			
+
+			<span class="aui-field-element ">
+
+
+
+	
+	
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+				<input class="aui-field-input aui-field-input-text" id="_ParticipantLogon20_WAR_ahcommonauthportlet_userId" name="_ParticipantLogon20_WAR_ahcommonauthportlet_userId" type="password" value="" />
+			
+		
+	
+
+
+
+			</span>
+
+			
+
+			
+		</span>
+	</span>
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<span class="aui-field aui-field-text ah-input-20-char ah-input-320-w100 ah-input-480-w100 ah-field-space-v">
+		<span class="aui-field-content">
+			
+				<label class="aui-field-label" for="_ParticipantLogon20_WAR_ahcommonauthportlet_password">
+					Password<sup><a href="#" onclick="showFootNote(&quot;ah-authFootNoteDialog&quot;)" id="ahPswdFtNtLnk" tabindex="-1" title="Select this link to read the related footnote">1</a></sup>
+
+					
+
+					
+
+					
+				</label>
+			
+
+			
+
+			<span class="aui-field-element ">
+
+
+
+	
+	
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+				<input class="aui-field-input aui-field-input-text" id="_ParticipantLogon20_WAR_ahcommonauthportlet_password" name="_ParticipantLogon20_WAR_ahcommonauthportlet_password" type="password" value="" />
+			
+		
+	
+
+
+
+			</span>
+
+			
+
+			
+		</span>
+	</span>
+
+
+
+	
+	
+		
+	    	
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<span class="aui-field aui-field-text ah-input-4-char ah-input-320-w100 ah-input-480-w100 ah-field-space-v">
+		<span class="aui-field-content">
+			
+				<label class="aui-field-label" for="_ParticipantLogon20_WAR_ahcommonauthportlet_testCfgList[0].cfgValue">
+					TestCfg[19920_1.0]
+
+					
+
+					
+
+					
+				</label>
+			
+
+			
+
+			<span class="aui-field-element ">
+
+
+
+	
+	
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+				<input class="aui-field-input aui-field-input-text" id="_ParticipantLogon20_WAR_ahcommonauthportlet_testCfgList[0].cfgValue" name="_ParticipantLogon20_WAR_ahcommonauthportlet_testCfgList[0].cfgValue" onchange="this.value=this.value.toUpperCase()" type="text" value="" />
+			
+		
+	
+
+
+
+			</span>
+
+			
+
+			
+		</span>
+	</span>
+
+
+
+	    	
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<span class="aui-field aui-field-text ah-input-4-char ah-input-320-w100 ah-input-480-w100 ah-field-space-v">
+		<span class="aui-field-content">
+			
+				<label class="aui-field-label" for="_ParticipantLogon20_WAR_ahcommonauthportlet_testCfgList[1].cfgValue">
+					TestCfg[19971_09754_1.0]
+
+					
+
+					
+
+					
+				</label>
+			
+
+			
+
+			<span class="aui-field-element ">
+
+
+
+	
+	
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+				<input class="aui-field-input aui-field-input-text" id="_ParticipantLogon20_WAR_ahcommonauthportlet_testCfgList[1].cfgValue" name="_ParticipantLogon20_WAR_ahcommonauthportlet_testCfgList[1].cfgValue" onchange="this.value=this.value.toUpperCase()" type="text" value="" />
+			
+		
+	
+
+
+
+			</span>
+
+			
+
+			
+		</span>
+	</span>
+
+
+
+	    	
+	  	  
+		 
+		 
+		 
+	    <div class="aui-datepicker aui-helper-clearfix" id="tbaSystemDatePicker">
+    	   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<span class="aui-field aui-field-text ah-input-10-char ah-input-320-w100 ah-input-480-w100 ah-field-space-v">
+		<span class="aui-field-content">
+			
+				<label class="aui-field-label" for="_ParticipantLogon20_WAR_ahcommonauthportlet_tbaSystemDate">
+					Effective Date Override (Optional) <span class="ah-help-popover ah-float-right-lt480"><span class="icon" id="tbaSysDateToolTipIcon" aria-controls="aui_3_4_0_1_1797"></span></span>
+
+					
+
+					
+
+					
+				</label>
+			
+
+			
+
+			<span class="aui-field-element ">
+
+
+
+	
+	
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+				<input class="aui-field-input aui-field-input-text" id="_ParticipantLogon20_WAR_ahcommonauthportlet_tbaSystemDate" name="_ParticipantLogon20_WAR_ahcommonauthportlet_tbaSystemDate" type="text" value="" aria-controls="aui_3_4_0_1_752" />
+			
+		
+	
+
+
+
+			</span>
+
+			
+
+			
+		</span>
+	</span>
+
+
+
+    	</div>
+
+		
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<span class="aui-field aui-field-choice ah-field-space-v">
+		<span class="aui-field-content">
+			
+
+			
+
+			<span class="aui-field-element aui-field-label-right">
+
+
+
+	
+	
+	
+	
+
+		
+
+		<input id="_ParticipantLogon20_WAR_ahcommonauthportlet_skipAA" name="_ParticipantLogon20_WAR_ahcommonauthportlet_skipAA" type="hidden" value="true" />
+
+		<input checked="" class="aui-field-input aui-field-input-choice" id="_ParticipantLogon20_WAR_ahcommonauthportlet_skipAACheckbox" name="_ParticipantLogon20_WAR_ahcommonauthportlet_skipAACheckbox" onclick="Liferay.Util.updateCheckboxValue(this); " type="checkbox" value="true" />
+	
+	
+	
+	
+
+
+
+			</span>
+
+			
+
+			
+				<label class="aui-field-label-inline-label" for="_ParticipantLogon20_WAR_ahcommonauthportlet_skipAACheckbox">
+					Use this site without RSA Authentication.
+
+					
+
+					
+
+					
+				</label>
+			
+		</span>
+	</span>
+
+
+
+		
+	
+	
+	<script>
+	
+	AUI().ready('node', 'event', function(A){
+    	if(A.one("#_ParticipantLogon20_WAR_ahcommonauthportlet_enableUDPCheckbox")){
+        	A.one("#_ParticipantLogon20_WAR_ahcommonauthportlet_enableUDPCheckbox").on("click", function(){        
+        	    if(A.one(this).get('checked')){
+        	        A.one("#_ParticipantLogon20_WAR_ahcommonauthportlet_udpSchema").removeAttribute("disabled");
+        	        
+        	    }else{
+        	        A.one("#_ParticipantLogon20_WAR_ahcommonauthportlet_udpSchema").setAttribute("disabled", "true");
+        	    }
+        	});	
+        }
+	 });
+	</script>
+
+    
+	<div class="ah-content-space-v">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="aui-button aui-button-submit ah-button-small ah-button-positive">
+	<span class="aui-button-content">
+		<input class="aui-button-input aui-button-input-submit" id="_ParticipantLogon20_WAR_ahcommonauthportlet_logOn" onclick="actionEvent('logOn');" type="submit" value="Log On" />
+	</span>
+</span>
+	</div>
+
+	<hr class="ah-content-space-v" />
+
+	
+		
+		
+		    <div class="ah-content-space-v">
+			    <a href="#" onclick="actionEvent('forgotPass');submit();return false;">Forgot Password?</a>
+			</div>
+		
+	
+	
+	
+		<div class="ah-content-space-v">
+			<a href="#" onclick="actionEvent('newUser');submit();return false;">Are you a new user?</a>
+		</div>
+	
+	
+	
+	
+	
+	<p class="ah-font-xsmall ah-field-space-v">By logging on, you agree to the
+		<script type="text/javascript">AUI().use('get', function(A){A.Get.script('https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/html/js/aonhewitt/coreVisual.js');});</script><a role="null" aria-haspopup="true" id="_ParticipantLogon20_WAR_ahcommonauthportlet_lightbox2_LBSimulatorLink" href="javascript:void(0);" title="Terms of Service" onclick="if(typeof  lightBoxVersion === 'undefined'){showLightbox('https://l4dridap1273:8446/web/earth/login?p_auth=ndpCjFr9&amp;p_p_id=ParticipantLogon20_WAR_ahcommonauthportlet&amp;p_p_lifecycle=1&amp;p_p_state=exclusive&amp;p_p_mode=view&amp;p_p_col_id=column-3&amp;p_p_col_count=1&amp;_ParticipantLogon20_WAR_ahcommonauthportlet_execution=e1s1&amp;_ParticipantLogon20_WAR_ahcommonauthportlet__eventId=trmsSrv','_ParticipantLogon20_WAR_ahcommonauthportlet_lightbox2','null','null' ,'68.75%' ,'f692b511-fc01-4872-8640-b5abd4c87384','true');}else{showLightboxForTag('https://l4dridap1273:8446/web/earth/login?p_auth=ndpCjFr9&amp;p_p_id=ParticipantLogon20_WAR_ahcommonauthportlet&amp;p_p_lifecycle=1&amp;p_p_state=exclusive&amp;p_p_mode=view&amp;p_p_col_id=column-3&amp;p_p_col_count=1&amp;_ParticipantLogon20_WAR_ahcommonauthportlet_execution=e1s1&amp;_ParticipantLogon20_WAR_ahcommonauthportlet__eventId=trmsSrv','_ParticipantLogon20_WAR_ahcommonauthportlet_lightbox2','null','null' ,'68.75%' ,'f692b511-fc01-4872-8640-b5abd4c87384','true', 'false', '© 2012-16 Aon plc','Feedback','Print','null','true','true','','false','ah-font-change');}">Terms of Service</a>, <a class="ah-secondaryWindow" onclick="if(isUACrossEnabled()){try{ga('trackerUa1.send','event', 'External Link' ,'click','LinkId:CsHaPrvcyStmt01en LinkDest:https://cache.hewitt.com/privacy/PrivStat.htm'); } catch(err){}} if(isUAClientEnabled()){ try{if(isGTMEnabled()){dataLayer.push({'event':'UPointLinkEvent', 'linkCategory':'External Link', 'linkAction':'click', 'linkLabel':'LinkId:CsHaPrvcyStmt01en LinkDest:https://cache.hewitt.com/privacy/PrivStat.htm'});}else{ga('trackerUa2.send','event', 'External Link' ,'click','LinkId:CsHaPrvcyStmt01en LinkDest:https://cache.hewitt.com/privacy/PrivStat.htm'); }} catch(err){}}try{setTimeout(function() {}, 100);}catch(err){} doExternalLinkLogging('https://l4dridap1273:8446/delegate/logging?linkTypeNm=New Window With a Scroll, No Information Passed&amp;lnkNm=CsHaPrvcyStmt01en&amp;linkId=CsHaPrvcyStmt01en&amp;lng=19920_1.0&amp;pgNm=Login&amp;technicalNameForLink=CsHaPrvcyStmt01en&amp;userFriendlyNameForLink=Privacy Statement - English&amp;domain=Ben-CM&amp;baseClientIndicator=Base'); window.winHandle = window.open('https://cache.hewitt.com/privacy/PrivStat.htm','CsHaPrvcyStmt01en','scrollbars=yes,height=560,titlebar=yes,width=980,resizable=yes');if(typeof XD != 'undefined'){XD.registerWindow('CsHaPrvcyStmt01en',window.winHandle);}try{setSessionTimeOut()}catch(err){};return false;" href="https://l4dridap1273:8446/delegate/logging?linkTypeNm=New Window With a Scroll, No Information Passed&amp;lnkNm=CsHaPrvcyStmt01en&amp;linkId=CsHaPrvcyStmt01en&amp;lng=19920_1.0&amp;pgNm=Login&amp;technicalNameForLink=CsHaPrvcyStmt01en&amp;userFriendlyNameForLink=Privacy Statement - English&amp;domain=Ben-CM&amp;baseClientIndicator=Base">Privacy Statement</a> and <a class="ah-secondaryWindow" onclick="if(isUACrossEnabled()){try{ga('trackerUa1.send','event', 'External Link' ,'click','LinkId:CookieNotice LinkDest:https://cache.hewitt.com/privacy/AHCookies.htm'); } catch(err){}} if(isUAClientEnabled()){ try{if(isGTMEnabled()){dataLayer.push({'event':'UPointLinkEvent', 'linkCategory':'External Link', 'linkAction':'click', 'linkLabel':'LinkId:CookieNotice LinkDest:https://cache.hewitt.com/privacy/AHCookies.htm'});}else{ga('trackerUa2.send','event', 'External Link' ,'click','LinkId:CookieNotice LinkDest:https://cache.hewitt.com/privacy/AHCookies.htm'); }} catch(err){}}try{setTimeout(function() {}, 100);}catch(err){} doExternalLinkLogging('https://l4dridap1273:8446/delegate/logging?linkTypeNm=New Window With a Scroll, No Information Passed&amp;lnkNm=CookieNotice&amp;linkId=CookieNotice&amp;lng=19920_1.0&amp;pgNm=Login&amp;technicalNameForLink=CookieNotice&amp;userFriendlyNameForLink=Cookie Notice&amp;domain=Ben-CM&amp;baseClientIndicator=Base'); window.winHandle = window.open('https://cache.hewitt.com/privacy/AHCookies.htm','CookieNotice','scrollbars=yes,height=560,titlebar=yes,width=980,resizable=yes');if(typeof XD != 'undefined'){XD.registerWindow('CookieNotice',window.winHandle);}try{setSessionTimeOut()}catch(err){};return false;" href="https://l4dridap1273:8446/delegate/logging?linkTypeNm=New Window With a Scroll, No Information Passed&amp;lnkNm=CookieNotice&amp;linkId=CookieNotice&amp;lng=19920_1.0&amp;pgNm=Login&amp;technicalNameForLink=CookieNotice&amp;userFriendlyNameForLink=Cookie Notice&amp;domain=Ben-CM&amp;baseClientIndicator=Base">Cookie Notice</a>.
+	</p>
+	
+    <hr class="ah-content-space-v" />
+    
+	<div class="ah-field-space-v">
+		<p>
+			<a role="null" aria-haspopup="true" id="_ParticipantLogon20_WAR_ahcommonauthportlet_lightbox3_LBSimulatorLink" href="javascript:void(0);" title="Protect Yourself From Website Fraud" onclick="if(typeof  lightBoxVersion === 'undefined'){showLightbox('https://l4dridap1273:8446/web/earth/login?p_auth=ndpCjFr9&amp;p_p_id=ParticipantLogon20_WAR_ahcommonauthportlet&amp;p_p_lifecycle=1&amp;p_p_state=exclusive&amp;p_p_mode=view&amp;p_p_col_id=column-3&amp;p_p_col_count=1&amp;_ParticipantLogon20_WAR_ahcommonauthportlet_execution=e1s1&amp;_ParticipantLogon20_WAR_ahcommonauthportlet__eventId=fraudAuth','_ParticipantLogon20_WAR_ahcommonauthportlet_lightbox3','null','null' ,'40%' ,'f692b511-fc01-4872-8640-b5abd4c87384','true');}else{showLightboxForTag('https://l4dridap1273:8446/web/earth/login?p_auth=ndpCjFr9&amp;p_p_id=ParticipantLogon20_WAR_ahcommonauthportlet&amp;p_p_lifecycle=1&amp;p_p_state=exclusive&amp;p_p_mode=view&amp;p_p_col_id=column-3&amp;p_p_col_count=1&amp;_ParticipantLogon20_WAR_ahcommonauthportlet_execution=e1s1&amp;_ParticipantLogon20_WAR_ahcommonauthportlet__eventId=fraudAuth','_ParticipantLogon20_WAR_ahcommonauthportlet_lightbox3','null','null' ,'40%' ,'f692b511-fc01-4872-8640-b5abd4c87384','true', 'false', '© 2012-16 Aon plc','Feedback','Print','null','false','true','','false','ah-font-change');}">Protect Yourself From Website Fraud</a>
+		</p>
+	</div>
+		
+	
+	  	<span class="ah-field-space-v">  <a class="ah-font-xsmall" href="#" onclick="showFootNote('ah-authFootNoteDialog')" title="Select this link to read the related footnote">Read Footnote</a></span>    
+		<div class="hidden" id="ah-authFootNoteDialog">
+		    <h3>Footnote</h3>
+			<p class="ah-field-space-v ah-font-xsmall"> 
+			  <sup>1</sup>If you've already created a password through Benefits Express, enter it here.
+			</p>
+		</div>
+	
+
+	
+	
+	
+        <script type="text/javascript">
+			document.getElementById('_ParticipantLogon20_WAR_ahcommonauthportlet_userId').value = "";
+	   </script> 
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</form>
+
+
+
+
+<!--  Hiding Auth Portlet For Pre Auth Page  (only For Mobile View)-->
+<div id="pptAcountLoginBtn" class="hidden">
+   <p class="ah-field-space-v">
+	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="aui-button aui-button-submit ah-button-large ah-button-positive">
+	<span class="aui-button-content">
+		<input class="aui-button-input aui-button-input-submit" id="_ParticipantLogon20_WAR_ahcommonauthportlet_accountLogOn" onclick="window.location.href='https://l4dridap1273:8446/web/earth/login?linkId=PPT_LOGON_BACK&amp;technicalNameForLink=PPT_LOGON_BACK&amp;userFriendlyNameForLink=Log On&amp;domain=Ben-CM&amp;baseClientIndicator=Base'" type="submit" value="Account Log On" />
+	</span>
+</span>
+   </p>
+</div>
+
+
+
+ 
+
+
+
+	
+	
+
+					
+				
+			
+			
+		
+	
+	
+
+</div>
+
+
+	</div>
+
+				</div>
+
+				
+			
+		
+	
+
+				
+				
+			
+
+		
+
+	
+
+
+
+
+
+			
+		</div>
+	</div>
+
+
+
+
+
+	
+	
+</div>
+		</div>
+		<div class="yui3-u-2-2 yui3-u-4-4 yui3-u-4-8 yui3-u-12-16 portlet-column" id="column-4">
+			<div class="portlet-dropzone portlet-column-content" id="layout-column_column-4">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+		
+
+		<div id="p_load_Tile_WAR_ahtilesportlet_INSTANCE_iGyLtuIF6yQc_" class="yui3-widget aui-component aui-spinningloader"><div id="aui_3_4_0_1_687" class="aui-spinningloader-content"></div><div class="aui-basic-w100 aui-helper-hidden" id="aui_3_4_0_1_698"><div class="loading-animation" style="background-image: url(&quot;https://l4dridap1273:8446/base-portal-32-theme/images/progress_bar/loading_animation.gif?ran=1.905426673659345&quot;);"></div><p class="ah-text-align-center">Hold on ...</p></div></div>
+
+		
+	
+</div>
+		</div>
+	</div>
+    </div>
+	
+	<footer id="footer" role="contentinfo" aria-labelledby="footer-section">
+    	<div class="yui3-u-2-2 yui3-u-4-4 yui3-u-8-8 yui3-u-16-16 portlet-column portlet-column-last" id="column-2">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+	
+
+	<div id="p_p_id_ahfooter_WAR_ahfooterportlet_" class="portlet-boundary portlet-boundary_ahfooter_WAR_ahfooterportlet_  portlet-static portlet-static-end portlet-borderless ah-footer-portlet ">
+		<span id="p_ahfooter_WAR_ahfooterportlet"></span>
+
+		<div class="portlet-body">
+
+
+
+	
+	
+	
+	
+
+		
+
+			
+				
+					
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				<div class="portlet-borderless-container" style="">
+
+					
+						
+						
+							
+						
+												
+
+					
+
+
+
+<script type="text/javascript">
+function _ahfooter_WAR_ahfooterportlet_ajaxError(jqXHR,error, errorThrown)
+{   
+    var status=jqXHR.status;	
+	var errorMessage = "";	
+	
+    switch (status) 
+    {
+        case 8800:
+        	errorMessage +=jqXHR.responseText;
+            break;
+        default:
+        	errorMessage += "This session was interrupted and won't continue. If you were submitting a request, it may not have completed successfully.";
+    }   
+    
+   var portletBodyDiv=document.getElementById("_ahfooter_WAR_ahfooterportlet_portlet-body");
+   portletBodyDiv.innerHTML="";
+   portletBodyDiv.innerHTML +="&lt;div  id='_ahfooter_WAR_ahfooterportlet_ajaxError' class='portlet-msg-error' &gt;&lt;/div&gt;";
+       
+   var div = document.getElementById("_ahfooter_WAR_ahfooterportlet_ajaxError");
+   div.innerHTML = "";
+   div.innerHTML = errorMessage; 
+}
+</script>
+
+
+	<div class="portlet-body">
+
+
+<!-- 
+wrap the portlet content in div with _ahfooter_WAR_ahfooterportlet_portlet-body id,
+so that we can hide the content of portlet using the javascript if an exception/error 
+occurs at server side in case of ajax request. 
+-->
+<div id="_ahfooter_WAR_ahfooterportlet_portlet-body">
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!-- div responsible for generating all links in footer start  -->
+
+<div id="ah-footer" class="ah-font-change ah-spacing"><!-- PFO-14344 : added "ah-spacing" class as per Global spacing for Footer -->
+	<span id="footer-section" class="visuallyhidden">Footer Section</span>
+	<div class="ah-footer-content ah-page-wrapper">
+		
+		<div class="ah-footer-delivered ah-font-xsmall">
+				 <a title="Choose this link to access the About Aon Hewitt page." onclick="if(isUACrossEnabled()){try{ga('trackerUa1.send','event', 'Internal Link' ,'click','LinkId:DeliveredInfoPortalPrmWdw LinkDest:/web/earth/about-aon'); } catch(err){}} if(isUAClientEnabled()){ try{if(isGTMEnabled()){dataLayer.push({'event':'UPointLinkEvent', 'linkCategory':'Internal Link', 'linkAction':'click', 'linkLabel':'LinkId:DeliveredInfoPortalPrmWdw LinkDest:/web/earth/about-aon'});}else{ga('trackerUa2.send','event', 'Internal Link' ,'click','LinkId:DeliveredInfoPortalPrmWdw LinkDest:/web/earth/about-aon'); }} catch(err){}}setTimeout(function() {document.location.href = href;}, 100);return false;" href="https://l4dridap1273:8446/web/earth/about-aon?linkId=DeliveredInfoPortalPrmWdw&amp;technicalNameForLink=DeliveredInfoPortalPrmWdw&amp;userFriendlyNameForLink=Delivered by Aon Hewitt&amp;domain=Ben-CM&amp;baseClientIndicator=Base">Delivered by <img alt="AON Logo" src="/ah-footer-portlet/images/aon-logo.png" width="51" height="23" /></a>
+		</div>		
+		
+		<ul class="ah-footer-links ah-font-xsmall">
+		<!-- Adding li for Auth link in footer -->
+		
+		
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Expression for Aon Redesign -->
+
+
+		<!-- Adding <li> for choose a language dropdawn  -->
+		 
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+  
+  
+			
+			 
+
+		  
+
+
+
+		  
+		  
+		
+			 
+			 <!-- choose a language changes for selected language and l to r changes start -->
+				
+            <div id="ah-choose-language" class="aui-helper-hidden">
+				<div class="chooseLanguageContainer xs">
+					<ul>
+						
+						
+							<li tabindex="-1" role="presentation" style="border-bottom: 1px dotted #d2d3d3; list-style: none; display: block;"><a role="menuitem" href="/web/earth/login?languageId=en_US"> 
+							
+							<strong>English</strong> (Current Selection)
+							
+							</a></li>
+						
+						
+							<li tabindex="-1" role="presentation" style="border-bottom: 1px dotted #d2d3d3; list-style: none; display: block;"><a role="menuitem" href="/web/earth/login?languageId=fr_CA"> 
+							
+						   French (Canada)? - français
+							
+							</a></li>
+						
+						
+							<li tabindex="-1" role="presentation" style="border-bottom: 1px dotted #d2d3d3; list-style: none; display: block;"><a role="menuitem" href="/web/earth/login?languageId=fr_FR"> 
+							
+						   French (France)? - français
+							
+							</a></li>
+						
+					</ul>
+				</div>	
+            </div>
+            
+            <!-- choose a language changes for selected language and l to r changes end -->
+            
+            
+
+
+
+<!-- Style custom for Aon Redesign -->
+<!-- To override css styles of themes, added 'important' with css styles.-->
+
+<style>
+a.chooseLanguage{color: #1C68BF; text-decoration: none; border:none!important;}
+a.chooseLanguage:hover{color: #3488E8; text-decoration: underline;}
+.chooseLanguageContainer{margin: -22px; width:220px;}
+.aui-view-lt480 .chooseLanguageContainer{width:auto;}
+.chooseLanguageContainer ul{list-style: none; padding: 0; margin: 0;};
+.chooseLanguageContainer ul li{border-bottom: 1px dotted #d2d3d3; list-style: none;}
+.chooseLanguageContainer ul li a{color: #000000; display: block; padding: 11px;}
+.chooseLanguageContainer ul li a:hover{text-decoration: none;color: #000000;}
+.chooseLanguageContainer ul li:last-child{border-bottom: 0 !important;}
+.chooseLanguageContainer ul li:hover{background-color: #DEEDFD; color: #000000;}
+.pb22 { padding-bottom: 22px; }
+.pb11 { padding-bottom: 11px; }
+.pb5 { padding-bottom: 5px; }
+.pl33 { padding-left: 33px; }
+.fwb { font-weight: bold; }
+.xl {
+	font-size: 24px;
+	line-height: 27px;
+	padding-bottom: 2px;
+	font-weight: normal;
+	margin-top: -3px;
+}
+.s {
+    font-size: 14px;
+    line-height: 22px;
+}
+.m {
+    font-size: 16px;
+    line-height: 22px;
+	
+}
+#footer .ah-footer-links .ah-aux-nav-chat-disabled{color:#86898b;}
+#footer .ah-footer-links a, #footer .ah-footer-links a:visited, #footer .ah-footer-links a:hover{color:#1C68BF!important;}
+/* PFO-14344 : Commented and moved to ah-portlet-footer.css file to fix Global spacing for Footer */
+/* #ah-footer .ah-footer-content div.ah-footer-delivered{margin-bottom: 10px!important;} */
+</style>
+		 
+			
+			<li>
+			<a title="Choose this link to review this site's legal information." onclick="if(isUACrossEnabled()){try{ga('trackerUa1.send','event', 'Internal Link' ,'click','LinkId:LegalInfoPortalSecWdw LinkDest:/web/earth/legal-information'); } catch(err){}} if(isUAClientEnabled()){ try{if(isGTMEnabled()){dataLayer.push({'event':'UPointLinkEvent', 'linkCategory':'Internal Link', 'linkAction':'click', 'linkLabel':'LinkId:LegalInfoPortalSecWdw LinkDest:/web/earth/legal-information'});}else{ga('trackerUa2.send','event', 'Internal Link' ,'click','LinkId:LegalInfoPortalSecWdw LinkDest:/web/earth/legal-information'); }} catch(err){}}setTimeout(function() {document.location.href = href;}, 100);return false;" href="https://l4dridap1273:8446/web/earth/legal-information?linkId=LegalInfoPortalSecWdw&amp;technicalNameForLink=LegalInfoPortalSecWdw&amp;userFriendlyNameForLink=Legal Informationxd&amp;domain=Ben-CM&amp;baseClientIndicator=Client">Legal Information</a>
+			
+			</li>
+			
+			
+			<li>
+			<a title="Choose this link to review this sites's privacy statement." class="ah-secondaryWindow" onclick="if(isUACrossEnabled()){try{ga('trackerUa1.send','event', 'External Link' ,'click','LinkId:PrivacyStmt LinkDest:https://cache.hewitt.com/privacy/PrivStat.htm'); } catch(err){}} if(isUAClientEnabled()){ try{if(isGTMEnabled()){dataLayer.push({'event':'UPointLinkEvent', 'linkCategory':'External Link', 'linkAction':'click', 'linkLabel':'LinkId:PrivacyStmt LinkDest:https://cache.hewitt.com/privacy/PrivStat.htm'});}else{ga('trackerUa2.send','event', 'External Link' ,'click','LinkId:PrivacyStmt LinkDest:https://cache.hewitt.com/privacy/PrivStat.htm'); }} catch(err){}}try{setTimeout(function() {}, 100);}catch(err){} doExternalLinkLogging('https://l4dridap1273:8446/delegate/logging?linkTypeNm=New Window With a Scroll, No Information Passed&amp;lnkNm=PrivacyStmt&amp;linkId=PrivacyStmt&amp;lng=19920_1.0&amp;pgNm=Login&amp;technicalNameForLink=PrivacyStmt&amp;userFriendlyNameForLink=Privacy Statement&amp;domain=Ben-CM&amp;baseClientIndicator=Base'); window.winHandle = window.open('https://cache.hewitt.com/privacy/PrivStat.htm','PrivacyStmt','scrollbars=yes,height=560,titlebar=yes,width=980,resizable=yes');if(typeof XD != 'undefined'){XD.registerWindow('PrivacyStmt',window.winHandle);}try{setSessionTimeOut()}catch(err){};return false;" href="https://l4dridap1273:8446/delegate/logging?linkTypeNm=New Window With a Scroll, No Information Passed&amp;lnkNm=PrivacyStmt&amp;linkId=PrivacyStmt&amp;lng=19920_1.0&amp;pgNm=Login&amp;technicalNameForLink=PrivacyStmt&amp;userFriendlyNameForLink=Privacy Statement&amp;domain=Ben-CM&amp;baseClientIndicator=Base">Privacy Statement</a>
+			
+			</li>
+			
+			
+			<li>
+			<a title="Choose this link to review this site's cookie notice." class="ah-secondaryWindow" onclick="if(isUACrossEnabled()){try{ga('trackerUa1.send','event', 'External Link' ,'click','LinkId:CookieNotice LinkDest:https://cache.hewitt.com/privacy/AHCookies.htm'); } catch(err){}} if(isUAClientEnabled()){ try{if(isGTMEnabled()){dataLayer.push({'event':'UPointLinkEvent', 'linkCategory':'External Link', 'linkAction':'click', 'linkLabel':'LinkId:CookieNotice LinkDest:https://cache.hewitt.com/privacy/AHCookies.htm'});}else{ga('trackerUa2.send','event', 'External Link' ,'click','LinkId:CookieNotice LinkDest:https://cache.hewitt.com/privacy/AHCookies.htm'); }} catch(err){}}try{setTimeout(function() {}, 100);}catch(err){} doExternalLinkLogging('https://l4dridap1273:8446/delegate/logging?linkTypeNm=New Window With a Scroll, No Information Passed&amp;lnkNm=CookieNotice&amp;linkId=CookieNotice&amp;lng=19920_1.0&amp;pgNm=Login&amp;technicalNameForLink=CookieNotice&amp;userFriendlyNameForLink=Cookie Notice&amp;domain=Ben-CM&amp;baseClientIndicator=Base'); window.winHandle = window.open('https://cache.hewitt.com/privacy/AHCookies.htm','CookieNotice','scrollbars=yes,height=560,titlebar=yes,width=980,resizable=yes');if(typeof XD != 'undefined'){XD.registerWindow('CookieNotice',window.winHandle);}try{setSessionTimeOut()}catch(err){};return false;" href="https://l4dridap1273:8446/delegate/logging?linkTypeNm=New Window With a Scroll, No Information Passed&amp;lnkNm=CookieNotice&amp;linkId=CookieNotice&amp;lng=19920_1.0&amp;pgNm=Login&amp;technicalNameForLink=CookieNotice&amp;userFriendlyNameForLink=Cookie Notice&amp;domain=Ben-CM&amp;baseClientIndicator=Base">Cookie Notice</a>
+			
+			</li>
+			
+			
+			<li>
+			<a title="Choose this link to contact us." class="ah-secondaryWindow" onclick="if(isUACrossEnabled()){try{ga('trackerUa1.send','event', 'Internal Link' ,'click','LinkId:PRE_CONTACT_US LinkDest:/web/earth/pre-contactus'); } catch(err){}} if(isUAClientEnabled()){ try{if(isGTMEnabled()){dataLayer.push({'event':'UPointLinkEvent', 'linkCategory':'Internal Link', 'linkAction':'click', 'linkLabel':'LinkId:PRE_CONTACT_US LinkDest:/web/earth/pre-contactus'});}else{ga('trackerUa2.send','event', 'Internal Link' ,'click','LinkId:PRE_CONTACT_US LinkDest:/web/earth/pre-contactus'); }} catch(err){}}try{setTimeout(function() {}, 100);}catch(err){}window.winHandle = window.open('https://l4dridap1273:8446/web/earth/pre-contactus?linkId=PRE_CONTACT_US&amp;technicalNameForLink=PRE_CONTACT_US&amp;userFriendlyNameForLink=Pre-auth contact us link&amp;domain=null&amp;baseClientIndicator=Base','PRE_CONTACT_US','scrollbars=yes,height=560,titlebar=yes,width=980,resizable=yes');if(typeof XD != 'undefined'){XD.registerWindow('PRE_CONTACT_US',window.winHandle);}try{setSessionTimeOut()}catch(err){};return false;" href="https://l4dridap1273:8446/web/earth/pre-contactus?linkId=PRE_CONTACT_US&amp;technicalNameForLink=PRE_CONTACT_US&amp;userFriendlyNameForLink=Pre-auth contact us link&amp;domain=null&amp;baseClientIndicator=Base">Contact Us</a>
+			
+			</li>
+			
+			
+			<li class="ah-secondaryWindow">
+			
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+		<a href="#" onclick="footerOpenFeedback();" title="Choose this link to give feedback on this page."> Feedback </a>
+
+
+
+
+</li>
+			
+			
+			
+			
+			<li>
+			<a title="Choose this link to log on." onclick="if(isUACrossEnabled()){try{ga('trackerUa1.send','event', 'Internal Link' ,'click','LinkId:LOG_ON_LINK LinkDest:/web/earth/login'); } catch(err){}} if(isUAClientEnabled()){ try{if(isGTMEnabled()){dataLayer.push({'event':'UPointLinkEvent', 'linkCategory':'Internal Link', 'linkAction':'click', 'linkLabel':'LinkId:LOG_ON_LINK LinkDest:/web/earth/login'});}else{ga('trackerUa2.send','event', 'Internal Link' ,'click','LinkId:LOG_ON_LINK LinkDest:/web/earth/login'); }} catch(err){}}setTimeout(function() {document.location.href = href;}, 100);return false;" href="https://l4dridap1273:8446/web/earth/login?linkId=LOG_ON_LINK&amp;technicalNameForLink=LOG_ON_LINK&amp;userFriendlyNameForLink=Log On&amp;domain=Ben-CM&amp;baseClientIndicator=Base">Log On</a>
+			
+			</li>
+			
+		</ul>
+	
+	
+	<div class="ah-footer-copyright ah-font-xxsmall">
+		<p>© 2012-16 Aon plc</p>
+	</div>
+		
+	</div><!-- end of ah-footer-content -->
+	
+	
+	
+</div>
+
+				<!-- div responsible for generating all links in footer end  -->
+						
+
+
+							
+            
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="db p22 aui-helper-hidden" id="cookienotice">
+	<h3>Notice</h3>
+
+	
+	<p class="xs mt11">
+		This website stores cookies on your computer or mobile device. Cookies help to enrich your experience. They remember your preferences and help to understand what is most useful on the website. Read this
+		<a class="ah-secondaryWindow" onclick="if(isUACrossEnabled()){try{ga('trackerUa1.send','event', 'External Link' ,'click','LinkId:CookieNotice LinkDest:https://cache.hewitt.com/privacy/AHCookies.htm'); } catch(err){}} if(isUAClientEnabled()){ try{if(isGTMEnabled()){dataLayer.push({'event':'UPointLinkEvent', 'linkCategory':'External Link', 'linkAction':'click', 'linkLabel':'LinkId:CookieNotice LinkDest:https://cache.hewitt.com/privacy/AHCookies.htm'});}else{ga('trackerUa2.send','event', 'External Link' ,'click','LinkId:CookieNotice LinkDest:https://cache.hewitt.com/privacy/AHCookies.htm'); }} catch(err){}}try{setTimeout(function() {}, 100);}catch(err){} doExternalLinkLogging('https://l4dridap1273:8446/delegate/logging?linkTypeNm=New Window With a Scroll, No Information Passed&amp;lnkNm=CookieNotice&amp;linkId=CookieNotice&amp;lng=19920_1.0&amp;pgNm=Login&amp;technicalNameForLink=CookieNotice&amp;userFriendlyNameForLink=Cookie Notice&amp;domain=Ben-CM&amp;baseClientIndicator=Base'); window.winHandle = window.open('https://cache.hewitt.com/privacy/AHCookies.htm','CookieNotice','scrollbars=yes,height=560,titlebar=yes,width=980,resizable=yes');if(typeof XD != 'undefined'){XD.registerWindow('CookieNotice',window.winHandle);}try{setSessionTimeOut()}catch(err){};return false;" href="https://l4dridap1273:8446/delegate/logging?linkTypeNm=New Window With a Scroll, No Information Passed&amp;lnkNm=CookieNotice&amp;linkId=CookieNotice&amp;lng=19920_1.0&amp;pgNm=Login&amp;technicalNameForLink=CookieNotice&amp;userFriendlyNameForLink=Cookie Notice&amp;domain=Ben-CM&amp;baseClientIndicator=Base">Cookie Notice</a>
+		to learn more.
+	</p>
+	<p class="xs mt11">
+		If you keep browsing here, you agree to the use of cookies. If you don't want cookies on  your device, you can change your settings to decline them, but you won't be able to use this website.  If you decline the use of cookies and need help with our services,
+		.
+	</p>
+	
+	</div>
+
+ 
+ 
+<script language="javascript">
+	AUI().ready('ah-lightbox', 'event', 'node-base', 'node-event-simulate',
+			function(A) {
+				var AHLightbox = new A.AHLightbox({
+					id : "cookieNoticeDialog",
+					
+					header :false,
+					
+
+					headerContent : '',
+				
+					draggable : false,
+                     resizable : false,
+                     
+           
+					
+					bodyContent : A.one('#cookienotice').get('innerHTML'),
+
+					width : '50%',
+					
+					destroyOnClose : true,
+					
+
+				buttonsLinks: {
+                    footer: [
+                    {
+                         label : 'Continue',  
+                          isVisible : true,       
+                         classNames: 'aui-button ah-button-small ah-button-positive',
+                         id: 'cookieDialogContinueBtn',
+                         events: {
+                              click: function (e) {
+                            	  AHLightbox.close();
+                                 
+					return false;
+                              }
+                         }
+                    },   
+                    {
+                         label    : 'Find Out More',
+                          isVisible : true,         
+                         classNames: 'aui-button ah-button-small ah-button-neutral',
+                         id: 'cookieDialogFintOutMoreBtn',
+                         events: {
+                              click: function (e) {
+                            	  window.open('https://l4dridap1273:8446/delegate/logging?linkTypeNm=New Window With a Scroll, No Information Passed&amp;lnkNm=CookieNotice&amp;linkId=CookieNotice&amp;lng=19920_1.0&amp;pgNm=Login&amp;technicalNameForLink=CookieNotice&amp;userFriendlyNameForLink=Cookie Notice&amp;domain=Ben-CM&amp;baseClientIndicator=Base','_blank','location=yes,scrollbars=yes');
+                               
+					return false;
+                              }
+                         }
+                    }
+              ]}
+              
+
+
+				}).render();
+				
+
+			});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+
+        var winRef;
+	    function displayDebugPage(url) {
+	    if(typeof(winRef) == 'undefined' || winRef.closed){
+		  winRef = window.open(url,'debugWindow','scrollbars=yes,height=560,titlebar=no,width=980,resizable=yes');
+		} else {
+		 winRef.focus();
+		 winRef.location.reload();
+		} 
+	}
+</script>
+
+
+
+
+
+
+
+
+<div class="ah-page-wrapper debugService" style="margin-bottom: 11px;">	
+ 
+</div>
+
+<div class="hidden" id="accountDetail">
+ 
+
+<div>
+<strong>AHUser is null. Service Account is not created. </strong>
+</div>
+ 
+</div>
+<script>
+
+AUI().use("node", "event", "AHDialog", "event-touch", function(A) {
+	
+
+if(A.one('.accInfo')){
+	A.one('.accInfo').on('click', function(){
+		 var ahConfDialog = null;
+		 var accinfoContent = A.one('#accountDetail').html();
+	      ahConfDialog = new A.AHLightbox({
+	            id: "infoAtricleDialog",
+	            header: false,
+	            width: 'auto',
+	            modal: true,
+	            bodyContent: accinfoContent,
+	            destroyOnClose: true,
+	            draggable: false,
+	            resizable: false,
+	            buttonsLinks: {
+	                footer: [ {
+
+	                    label: 'Cancel',
+	                    isVisible: true,
+	                    classNames: 'aui-button ah-button-small ah-button-neutral',
+	                    id: 'cancDialogBtn',
+	                    title : '',
+	                    events: {
+	                        click: function (
+	                        e) {
+	                            ahConfDialog.close();
+	                            return false;
+	                        }
+	                    }
+	                }]
+	            }
+	      }).render();
+		 
+	});
+	
+}
+
+//.debugService custom class added
+if(A.one('.debugService')){
+	A.all('.debugService').setStyle('margin-bottom','11px');
+	A.all('.debugService .lfr-panel-container').setStyle('background','#fff');
+	A.all('.debugService .lfr-panel-container').setStyle('border','none');
+}
+
+
+});
+</script>
+ 
+
+
+
+			
+
+
+	
+	
+
+					
+				
+			
+			
+		
+	
+	
+
+</div>
+
+
+	</div>
+
+				</div>
+
+				
+			
+		
+	
+
+				
+				
+			
+
+		
+
+	
+
+
+
+
+
+			
+		</div>
+	</div>
+
+
+
+
+
+		</div>
+	</footer>
+
+</div>
+</div>
+
+
+
+
+	
+
+
+
+
+
+
+
+<form action="#" id="hrefFm" method="post" name="hrefFm">
+	<span></span>
+</form>
+		
+	<!-- end layout section -->
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <!-- <script type="text/javascript" src="https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/ah-simple-dropdown.js" charset="utf-8"></script> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+				<script src="/ah-tiles-portlet/js/ah-tile-height.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6110&amp;t=1473817273000" type="text/javascript"></script>
+
+	
+
+				<script src="/ah-tiles-portlet/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6110&amp;t=1473817273000" type="text/javascript"></script>
+
+	
+
+
+
+
+
+	
+
+	
+
+
+
+	
+
+				<link href="/ah-header-portlet/css/main.css?browserId=other&amp;themeId=baseportal32_WAR_baseportal32theme&amp;minifierType=css&amp;languageId=en_US&amp;b=6110&amp;t=1473817905000" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="/ah-footer-portlet/css/main.css?browserId=other&amp;themeId=baseportal32_WAR_baseportal32theme&amp;minifierType=css&amp;languageId=en_US&amp;b=6110&amp;t=1473818162000" rel="stylesheet" type="text/css" />
+
+	
+
+
+	
+
+
+
+	
+
+
+
+	
+
+	
+
+
+
+	
+
+
+	
+
+
+
+	
+
+				<script src="/ah-header-portlet/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6110&amp;t=1473817905000" type="text/javascript"></script>
+
+	
+
+				<script src="/ah-footer-portlet/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6110&amp;t=1473818162000" type="text/javascript"></script>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+// &lt;![CDATA[
+
+	Liferay.Util.addInputFocus();
+
+	
+		Liferay.Portlet.runtimePortletIds = ['ahheader_WAR_ahheaderportlet','103','ahfooter_WAR_ahfooterportlet'];
+	
+
+	
+
+	
+		
+		
+
+			
+
+			
+		
+	
+
+// ]]&gt;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+<script>
+var ahLinkTimeOut= 0;
+var ahPortalTimeOut= 0;
+
+//Add listener to listen an event by calling function 
+if(typeof ListenerManager  != 'undefined'){
+	ListenerManager.addListener("initPage", doInitPage);
+}
+function doInitPage(key, props){
+	if (Liferay.Session._stateCheck) {
+		window.clearTimeout(Liferay.Session._stateCheck);
+        Liferay.Session._stateCheck = null;
+    }
+    Liferay.Session.extend();
+    
+}
+function setSessionTimeOut(){
+	var loginFlag=false;
+	if(loginFlag){
+		
+		Liferay.Session._startTimer(ahLinkTimeOut); 
+	}
+}
+function setYBROrYSATimeOut(timeout){
+	if(timeout&gt;=ahPortalTimeOut){
+		Liferay.Session._startTimer(timeout);
+		
+	}
+	else{
+		Liferay.Session._startTimer(ahPortalTimeOut);
+	}
+}
+//PBPI-2896
+function extendSessionbyAjax(){	
+	Liferay.Session.extend();
+}
+</script>
+
+
+<script type="text/javascript">
+// &lt;![CDATA[
+
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_103_',
+						portletId: '103',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d37570\x26p_p_id\x3d103\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3d\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d0\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fearth\x252Flogin'
+					}
+				);
+			
+
+
+	function search() {
+	
+			var keywords = document.ctem_3_fm._ahheader_WAR_ahheaderportlet_keywords.value; 
+			keywords = keywords.replace(/^\s+|\s+$/, '');		
+			
+			if (keywords != '') {
+			
+				//PFO-9872 : Start
+			    var contentLibraryFlag = "false";			
+			    if(contentLibraryFlag == "true") {
+			        var input1 = document.createElement('input');
+        		    input1.type = 'hidden';
+        		    input1.name = '_3_orderByCol';
+            		input1.value = "score";            		
+            		document.ctem_3_fm.appendChild(input1);
+			    }
+			    //PFO-9872 : End
+			    
+			    document.ctem_3_fm.keywords.value = keywords;				
+				document.ctem_3_fm.submit();
+			}
+		}
+		
+	 function categoryFilter(searchcat,urlCategory) { 
+		     var input1 = document.createElement('input');
+		     input1.type = 'hidden';
+		     input1.name = '_3_searchcategory';
+		     input1.value = searchcat==0?urlCategory:searchcat;
+		     
+		     document.ctem_3_fm.appendChild(input1);
+		     document.ctem_3_fm.submit(); 
+	}
+	
+	AUI().use('aui-node',function(A){
+		
+		if(A.one('#autoComplete99 input[type="text"]')){
+			A.one('#autoComplete99 input[type="text"]').on('click', function(){
+				this.focus();
+			});
+			
+			A.all('#autoComplete99 :button').each(function(node){
+				node.on('click', function(){
+				//PFO-14120 - Unable to search text in content library Start
+					var keywords = document.ctem_3_fm._ahheader_WAR_ahheaderportlet_keywords.value;
+					//PFO-14120 - END
+					keywords = keywords.replace(/^\s+|\s+$/, '');		
+				
+					if (keywords != '') {
+				
+						//PFO-9872 : Start
+					    var contentLibraryFlag = "false";			
+					    if(contentLibraryFlag == "true") {
+					        var input1 = document.createElement('input');
+		        		    input1.type = 'hidden';
+		        		    input1.name = '_3_orderByCol';
+		            		input1.value = "score";            		
+		            		document.ctem_3_fm.appendChild(input1);
+					    }
+					    //PFO-9872 : End
+					    
+					    document.ctem_3_fm.keywords.value = keywords;
+					    node.ancestor('#autoComplete99').one(':input').val(keywords);				
+						node.ancestor('form').submit();
+					}
+					 
+				}); 
+			});
+		}
+	});
+
+/* PFO-13081, PFO-13781 : Search and Content Library Accessibility changes */
+var autoCompleteARIAImpl = (function() {
+
+	var initARIA = function(searchInput) {
+		if(A.one(searchInput)){
+			A.one(searchInput).setAttribute('aria-expanded', 'false');
+		}
+		var acResults = A.all('.aui-autocomplete-results');
+		if(acResults.size() &gt; 0){
+			acResults.each(function(node){
+				node.setAttribute('aria-hidden', 'true');
+				node.one('ul').setAttribute('role', 'listbox');
+				node.all('.aui-autocomplete-list-item').setAttribute('role', 'option');
+			});
+		}
+	};
+	
+	var updateAriaMessage = function(searchInput) {
+		var acResults = A.all('.aui-autocomplete-results:visible');
+		
+		if(acResults.size() &gt; 0){
+			var acResultList = A.all('.aui-autocomplete-results .aui-autocomplete-list-item:visible');
+			var searchForm = searchInput.ancestor('form');
+			
+			if(acResultList &amp;&amp; acResultList.size() &gt; 0) {				
+				if(acResultList.size() &lt; 2) {
+					A.one(searchForm).one('span[role="status"]').setContent(acResultList.size() + " Suggestion is available. use up and down arrow keys to navigate.");
+				}
+				else {
+					A.one(searchForm).one('span[role="status"]').setContent(acResultList.size() + " Suggestions are available. use up and down arrow keys to navigate.");
+				}
+			}
+			else if(acResultList.size() == 0) {
+				A.one(searchForm).one('span[role="status"]').setContent("No Suggestions are available.");
+			}
+		}
+	};
+	
+	var updateAriaProps = function(searchInput, status) {
+		var acResults = A.all('.aui-autocomplete-results');
+		if(acResults.size() &gt; 0){
+			acResults.each(function(node){
+				if(node.hasClass('aui-overlay-hidden')){
+					node.setAttribute('aria-hidden', 'true');					
+				}
+				else{
+					node.setAttribute('aria-hidden', 'false');
+				}
+			});
+		}
+		
+		A.one(searchInput).setAttribute('aria-expanded', status);
+		
+	};
+	
+	return {
+		initARIA : initARIA,
+		updateAriaMessage : updateAriaMessage,
+		updateAriaProps : updateAriaProps
+	};
+})();
+
+	AUI.add(
+		'liferay-search-suggest1',
+		function(A) {
+
+			Liferay.SearchSuggestions1 = {
+
+				LOADING_CSS: 'search-suggestions-loading',
+
+				/**
+			     * Set to true, if you want messages to be logged using console.log();
+				 */
+				debug: false,
+
+				/**
+				* Set to true, if you want suggestions to have highlighted the
+	            * difference between them and the original searched keywords.
+				*/
+				highlightDifferencesInSuggestions: true,
+
+				/**
+				 * Show "Loading..." when AJAX is made to fetch keywords suggestions?
+				 */
+				showSuggestionsLoading: true,
+
+				/**
+				 * Show "Searching..." when search form is submitted?
+	             *
+				 * WARNING: This is not completed yet, so better leave it disabled (set to false).
+				 */
+				showSearchingOverlay: false,
+
+				/**
+				 * Set to true, when you want the search form being submitted when
+				 * an autocompleted item is selected by user.
+				 */
+				submitSearchOnItemSelect: true,
+
+				log: function(objectToLog) {
+					var instance = this;
+
+					if(instance.debug &amp;&amp; console &amp;&amp; console.log) {
+						console.log(objectToLog);
+					}
+				},
+
+				render: function(searchInputSelector){
+
+					var instance = this;
+
+					searchInput = A.one(searchInputSelector);
+					
+					if(searchInput) {
+
+						instance._searchInput = searchInput;
+						instance._searchForm = searchInput.ancestor('form');
+
+					    searchInput.wrap('&lt;span id="' + instance._WRAPPER_ID + '"&gt;&lt;/span&gt;');
+
+						
+						var dataSource = instance._getSuggestionsJsonServiceDataSource();
+
+						var autoComplete = new A.AutoComplete({
+
+	                        /****************
+							* Autocomplete configuration properites
+	                        ****************/
+
+							/**
+							* Automatically highlight the first item in the list when the results are
+							* made visible.
+							*/
+							autoHighlight: false,
+
+							
+							
+							contentBox: '#' + instance._WRAPPER_ID,
+
+							dataSource: dataSource,
+
+							delimChar: '',
+
+							input: searchInput,
+
+                            //matchKey: 'name',
+
+							maxResultsDisplayed: 8,
+
+							// since "delimChar: ''", the whole input is always sent and
+							// this is counted not by words, by by whole input
+							minQueryLength: 2,
+
+							/**
+							* The amount of time in seconds to delay before submitting the query.
+							*/
+							queryDelay: 0.5,
+
+							typeAhead: true,
+
+							/**
+							* If 'typeAhead' is true, number of seconds to delay before updating
+							* the input. In order to prevent certain race conditions, this value
+							* must always be greater than the 'queryDelay'.
+							*/
+							typeAheadDelay: 0.7 ,
+
+							//schema: {
+							//	resultFields: ['key', 'name', 'description']
+							//},
+
+	                        /****************
+							* Autocomplete event listeners
+	                        ****************/
+
+							on: {
+								itemSelect: function(event) {
+
+									instance.log('autoComplete -&gt; on/itemSelect:');
+
+									// once suggested item is selected, search for it?
+									
+									var searchForm = instance._searchForm;
+
+									if(instance.submitSearchOnItemSelect &amp;&amp; searchForm) {
+
+										if(instance.showSearchingOverlay &amp;&amp; searchForm.loadingmask){
+											searchForm.loadingmask.show();
+										}
+
+										//submitForm(searchForm);
+										search();
+									}
+								},
+								containerCollapse : function(e){ /* PFO-13081, PFO-13781 : Search and Content Library Accessibility changes */
+									autoCompleteARIAImpl.updateAriaProps(searchInput, false);
+								},
+								containerExpand: function(e){
+  									var acContainerWidth = A.one(searchInput).get("offsetWidth"); 
+  									A.all('.aui-autocomplete-results').each(function(node){
+   								 if(node.hasClass('aui-overlay-hidden')){
+   								 }else{
+      							node.addClass('headerAutoComplete');
+      							node.setStyles({
+       							 'zIndex': '9999', 
+        						'width': acContainerWidth
+      							});
+   								 }
+ 								 });
+									},
+								render: function(event) {
+									instance.log('autoComplete -&gt; on/render');
+
+									var autocompleteInstance = this;
+
+									
+								},
+
+								dataRequest: function(event) {
+
+									instance.log("autoComplete -&gt; on/dataRequest");
+
+									var autocompleteInstance = this;
+
+									// small loading indicator
+		                            if(instance.showSuggestionsLoading) {
+
+										var autocompleteList = autocompleteInstance.resultList;
+										//instance.log(autocompleteList);
+
+										if(autocompleteList) {
+											autocompleteList.all('li').each(
+												function(node){
+													node.hide();
+												}
+											);
+
+											if(!instance._loadingDiv) {
+
+												autocompleteList.placeAfter('&lt;div class="' + instance.LOADING_CSS + '"&gt;&lt;img src="https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/images/application/loading_indicator.gif" /&gt; Loading&amp;hellip;&lt;/div&gt;');
+
+												var loadingDiv = autocompleteList.siblings('.' + instance.LOADING_CSS);
+
+												instance._loadingDiv = loadingDiv;
+											}
+
+											instance._loadingDiv.show();
+
+											// not necessary
+											// autocompleteList.show();
+										}
+
+										instance._autoComplete._toggleContainer(true);
+									}
+								},
+
+								dataReturn: function(event) {
+									instance.log('autoComplete -&gt; on/dataReturn');
+
+									var autocompleteInstance = this;
+
+									if(instance.showSuggestionsLoading) {
+										var autocompleteList = autocompleteInstance.resultList;
+										var loadingDiv = autocompleteList.siblings('.' + instance.LOADING_CSS);
+
+										if(loadingDiv) {
+											loadingDiv.hide();
+										}
+									}
+
+									// for formatResult, we need the request to be just the keywords,
+									// to do the formatting; we swap the request for richer object
+									// in previous listener
+
+									// for some reason, sometimes comes as object, sometimes as original keywords only
+
+									// WARNING: this does not work well with DataSourceCache
+
+									if (A.Lang.isObject(event.request)) {
+
+										instance.log('Replacing query object back with plain keywords: ' + event.request.keywords);
+
+										event.request = event.request.keywords;
+									}
+								},
+
+								// TODO only fired, when there are some results returned,
+								// not reliable to use to hide the loading animation
+								containerPopulate: function(query, allResults) {
+									instance.log('autoComplete -&gt; on/containerPopulate');
+									
+									/* PFO-13081, PFO-13781 : Search and Content Library Accessibility changes */
+									autoCompleteARIAImpl.updateAriaMessage(searchInput);
+									autoCompleteARIAImpl.updateAriaProps(searchInput, true);
+								}
+							}
+						})
+
+						/****************
+						* Autocomplete overridden methods
+                        ****************/
+
+						autoComplete.doBeforeLoadData = function(event) {
+							instance.log("autoComplete -&gt; doBeforeLoadData");
+							autoCompleteARIAImpl.updateAriaMessage(searchInput); /* PFO-13081, PFO-13781 : Search and Content Library Accessibility changes */
+
+							return true;
+						};
+
+						/**
+						* An overridable method that is executed before the result container is shown.
+						* The method can return false to prevent the container from being shown.
+						*
+						* @method doBeforeExpandContainer
+						* @param {String} query The query that was submitted to the data source
+						* @param {Object} allResults The parsed results
+						* @return {Boolean}
+						*/
+						autoComplete.doBeforeExpandContainer = function(query, allResults) {
+							instance.log("autoComplete -&gt; doBeforeExpandContainer");
+
+							
+
+							return true;
+						};
+
+						/**
+						* An overridable method for formatting the result of the query before it's displayed in the overlay.
+						*
+						* @method formatResult
+						* @param {Object} result The result data object
+						* @param {String} request The current query string
+						* @param {String} resultMatch The string from the results that matches the query
+						* @return {String}
+						*/
+						autoComplete.formatResult = function(result, request, resultMatch) {
+							instance.log("autoComplete -&gt; formatResult");
+
+							instance.log(result);
+							instance.log(request);
+							instance.log(resultMatch);
+
+							if (instance.highlightDifferencesInSuggestions) {
+
+								var formatted = resultMatch || ''
+
+								if (request === "[object Object]") {
+									instance.log("WARN: " + request);
+
+									var searchForm = instance._searchForm;
+
+									if (searchForm) {
+										var keywordsInput = searchForm.one('[name=_ahheader_WAR_ahheaderportlet_keywords]');
+
+										if (keywordsInput) {
+											var keywords = keywordsInput.val()
+
+											instance.log('Replacing query object back with plain keywords: ' + keywords);
+
+											request = keywords;
+		                                }
+									}
+								}
+
+								formatted =  resultMatch.replace(request,  request ) ;
+
+								return formatted;
+							}
+							else {
+							    // original return
+
+								return resultMatch || '';
+							}
+						};
+
+						autoComplete.render();
+
+						instance._autoComplete = autoComplete;
+
+						if(instance.showSearchingOverlay) {
+
+							var searchForm = instance._searchForm;
+							var searchInput = instance._searchInput;
+
+							if(searchForm) {
+
+								// TODO use loading mask?
+
+								searchForm.plug(
+									A.LoadingMask,
+									{
+										background: '#000',
+										opacity: 0.2,
+										strings: {
+											loading: 'Searching&amp;hellip;'
+										},
+									}
+								);
+
+								searchForm.on(
+									'submit',
+									function(event) {
+										if(searchForm.loadingmask &amp;&amp;
+												instance.showSearchingOverlay &amp;&amp;
+												instance._areFormKeywordsNotEmpty(searchInput)) {
+
+											searchForm.loadingmask.show();
+										}
+									}
+								);
+							}
+						}
+					}
+				},
+
+				_WRAPPER_ID: '_ahheader_WAR_ahheaderportlet_autoComplete99',
+
+				_autoComplete: null,
+
+				_searchInput: null,
+
+				_searchForm: null,
+
+				_areFormKeywordsNotEmpty: function(searchInput) {
+
+					// instance.log(searchInput);
+
+					var keywords = searchInput.val();
+
+					keywords = keywords.replace(/^\s+|\s+$/, '');
+
+					return keywords != '';
+				},
+
+				_getSuggestionsJsonServiceDataSource: function() {
+
+					var instance = this;
+
+					var SearchSuggestAutocompleteGetSuggestions = Liferay.Service.SearchSuggest.Autocomplete.getSuggestions;
+
+					SearchSuggestAutocompleteGetSuggestions._serviceQueryCache = {};
+
+					var serviceQueryCache = SearchSuggestAutocompleteGetSuggestions._serviceQueryCache;
+
+					var dataSource = new Liferay.Service.DataSource(
+						{
+							on: {
+
+								error: function(event) {
+
+									instance.log('dataSource -&gt; on/error');
+								},
+
+								request: function(event) {
+
+									instance.log('dataSource -&gt; on/request');
+
+									var dataSourceInstance = this;
+
+									// event.request is just the last typed word (when delimChar == ' '),
+									// but it also has URL-escaped special chars, which we don't want
+
+									var term = decodeURIComponent(event.request);
+
+									// remove leading and trailing whitespaces
+
+									var term = A.Lang.trim(term);
+									term=term.replace(/[\\+\-\\)\\(\\"^&lt;{}\[\]!~:%/]/g," ");
+									
+									
+									
+									
+
+									// groupId is always the current site's groupId
+
+									var groupId = 37365;
+
+									var key = term + '#' + groupId;
+
+									var serviceQueryObj = serviceQueryCache[key];
+
+									instance.log(serviceQueryObj);
+
+									if (!serviceQueryObj) {
+
+										serviceQueryObj = {
+											keywords: term,
+											searchEngineId: 'SYSTEM_ENGINE',
+											companyId: '10154',
+											groupId: groupId,
+											languageId: 'en_US',
+											max: 8
+										};
+
+										serviceQueryCache[key] = serviceQueryObj;
+									}
+
+									event.request = serviceQueryObj;
+								},
+
+								response: function(event) {
+									instance.log('dataSource -&gt; on/response');
+
+								}
+							},
+							source: SearchSuggestAutocompleteGetSuggestions
+						}
+					).plug(
+						A.Plugin.DataSourceCache,
+						{
+							max: 500
+						}
+					);
+
+					return dataSource;
+				},
+
+				_getSuggestionsJsonWebServiceDataSource: function() {
+
+				},
+
+				_STATES: [
+					['AL', 'Alabama', 'The Heart of Dixie'],
+					['AK', 'Alaska', 'The Land of the Midnight Sun'],
+					['AZ', 'Arizona', 'The Grand Canyon State'],
+					['AR', 'Arkansas', 'The Natural State'],
+					['CA', 'California', 'The Golden State'],
+					['CO', 'Colorado', 'The Mountain State'],
+					['CT', 'Connecticut', 'The Constitution State'],
+					['DE', 'Delaware', 'The First State'],
+					['DC', 'District of Columbia', "The Nation's Capital"],
+					['FL', 'Florida', 'The Sunshine State'],
+					['GA', 'Georgia', 'The Peach State'],
+					['HI', 'Hawaii', 'The Aloha State'],
+					['ID', 'Idaho', 'Famous Potatoes'],
+					['IL', 'Illinois', 'The Prairie State'],
+					['IN', 'Indiana', 'The Hospitality State'],
+					['IA', 'Iowa', 'The Corn State'],
+					['KS', 'Kansas', 'The Sunflower State'],
+					['KY', 'Kentucky', 'The Bluegrass State'],
+					['LA', 'Louisiana', 'The Bayou State'],
+					['ME', 'Maine', 'The Pine Tree State'],
+					['MD', 'Maryland', 'Chesapeake State'],
+					['MA', 'Massachusetts', 'The Spirit of America'],
+					['MI', 'Michigan', 'Great Lakes State'],
+					['MN', 'Minnesota', 'North Star State'],
+					['MS', 'Mississippi', 'Magnolia State'],
+					['MO', 'Missouri', 'Show Me State'],
+					['MT', 'Montana', 'Big Sky Country'],
+					['NE', 'Nebraska', 'Beef State'],
+					['NV', 'Nevada', 'Silver State'],
+					['NH', 'New Hampshire', 'Granite State'],
+					['NJ', 'New Jersey', 'Garden State'],
+					['NM', 'New Mexico', 'Land of Enchantment'],
+					['NY', 'New York', 'Empire State'],
+					['NC', 'North Carolina', 'First in Freedom'],
+					['ND', 'North Dakota', 'Peace Garden State'],
+					['OH', 'Ohio', 'The Heart of it All'],
+					['OK', 'Oklahoma', 'Oklahoma is OK'],
+					['OR', 'Oregon', 'Pacific Wonderland'],
+					['PA', 'Pennsylvania', 'Keystone State'],
+					['RI', 'Rhode Island', 'Ocean State'],
+					['SC', 'South Carolina', 'Nothing Could be Finer'],
+					['SD', 'South Dakota', 'Great Faces, Great Places'],
+					['TN', 'Tennessee', 'Volunteer State'],
+					['TX', 'Texas', 'Lone Star State'],
+					['UT', 'Utah', 'Salt Lake State'],
+					['VT', 'Vermont', 'Green Mountain State'],
+					['VA', 'Virginia', 'Mother of States'],
+					['WA', 'Washington', 'Green Tree State'],
+					['WV', 'West Virginia', 'Mountain State'],
+					['WI', 'Wisconsin', "America's Dairyland"],
+					['WY', 'Wyoming', 'Like No Place on Earth']
+				]
+			};
+		},
+		'',
+		{
+			requires: ['aui-base', 'aui-autocomplete', 'aui-io-request', 'aui-loading-mask', 'datasource-cache', 'node-event-simulate', 'liferay-service-datasource']
+		}
+	);
+
+AUI().ready('aui-node','event', function(A){
+
+(function(){
+   A.all('input[type="text"]').on('keypress', function(node){
+                if(A.one('.aui-autocomplete-content')){
+                               
+                                A.all('.aui-autocomplete-results').setStyle('z-index',9999);
+                }
+  });
+                
+}());
+
+});
+
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_ahheader_WAR_ahheaderportlet_',
+						portletId: 'ahheader_WAR_ahheaderportlet',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d37570\x26p_p_id\x3dahheader_WAR_ahheaderportlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3d\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d0\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fearth\x252Flogin'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_ahfooter_WAR_ahfooterportlet_',
+						portletId: 'ahfooter_WAR_ahfooterportlet',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d37570\x26p_p_id\x3dahfooter_WAR_ahfooterportlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3d\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d0\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fearth\x252Flogin'
+					}
+				);
+			
+				Liferay.Portlet.onLoad(
+					{
+						canEditTitle: false,
+						columnPos: 0,
+						isStatic: 'end',
+						namespacedId: 'p_p_id_ParticipantLogon20_WAR_ahcommonauthportlet_',
+						portletId: 'ParticipantLogon20_WAR_ahcommonauthportlet',
+						refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d37570\x26p_p_id\x3dParticipantLogon20_WAR_ahcommonauthportlet\x26p_p_lifecycle\x3d0\x26p_p_col_id\x3dcolumn-3\x26p_p_col_count\x3d1\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-3\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fearth\x252Flogin'
+					}
+				);
+			AUI().use('ah-spinning-loader', 'aui-base', 'aui-datepicker', 'aui-io-request', 'liferay-form', 'liferay-menu', 'liferay-notice', 'liferay-poller', 'liferay-search-suggest1', function(A) {(function() {
+Liferay.provide(window,'openFeedback',function() {	
+	var urlS = 'https://l4dridap1273:8446/web/earth/login?p_p_auth=Mq4n2V6Z&amp;p_p_id=viewfeedbackportlet_WAR_ahcommunityportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_cacheability=cacheLevelPage'+'&amp;pageName='+feedbackViewPage+'&amp;Version='+feedbackVersion+'&amp;uuid=f692b511-fc01-4872-8640-b5abd4c87384'+
+	'&amp;groupId=37365'+'&amp;languageId=en_US'+
+	'&amp;time1='+new Date().getTime()+'&amp;time2='+new Date().getTime()+'&amp;height='+window.screen.height+'&amp;width='+window.screen.width+'&amp;prev='+escape(window.document.referrer);
+	
+	A.io.request(urlS, { 
+		cache: true, 
+		sync: true, 
+		dataType: 'json',
+		timeout: 1000, 
+		method: 'get', 
+		on: { 
+			success: function() { 
+				window.open(this.get('responseData').feedbackURL,'feedbackWindow', 
+				'width=545, height=331, left=400, top=200, scrollbars=yes, menubar=no, toolbar=no, resizable=yes');
+				}, 
+			failure: function() {
+				alert('failure'); 
+			} 
+		} 
+	}); 
+},['liferay-util-list-fields']);
+
+ AUI().ready('node','event','event-key',function (A) {
+ A.all(".ah-simpleDropDown-subject a").on("key",ah_addclass_hidden,"tab");
+         function ah_addclass_hidden(){
+              A.all(".ah-simpleDropDown-subject").addClass("hidden");
+         }	
+        A.all("#ah-aux-nav .ah-simpleDropDown, .ah-secondarynav-level-1 .ah-simpleDropDown").each(function(node){
+	  	node.siblings("li").on("focus",function(event){
+		if(A.one('html').hasClass('aui-view-gt720')){			
+			A.all(".ah-simpleDropDown-subject").addClass("hidden");
+		}
+	  });
+	});
+	A.one('#ah-aux-nav').on('touchstart', function(e){ 
+		e.stopImmediatePropagation(); 
+	});
+	
+	A.on('windowresize', function() { 
+ if (A.one('html').hasClass('aui-view-lt720')){
+		A.one('.ah-header-welcome-statement p').removeClass('ah-font-xsmall');
+   }
+   else{
+   A.one('.ah-header-welcome-statement p').addClass('ah-font-xsmall');
+   }
+	});
+	
+	
+	});
+
+// Create a new YUI instance and populate it with the required modules.
+
+
+})();(function() {
+	Liferay.SearchSuggestions1.render('#_ahheader_WAR_ahheaderportlet_keywords');
+	autoCompleteARIAImpl.initARIA('[name=_ahheader_WAR_ahheaderportlet_keywords]'); /* PFO-13081, PFO-13781 : Search and Content Library Accessibility changes */
+})();(function() {
+			var ns = '_Tile_WAR_ahtilesportlet_INSTANCE_iGyLtuIF6yQc_';
+			 var portletWrapper = "#p_load"+ns;
+			if(A.SpinningLoader){
+ 				new A.SpinningLoader({
+	            	boundingBox: portletWrapper,
+	            	messages:getSpinnerMessage()
+	        	}).render(); 
+	        }
+	        
+			Liferay.Portlet.addHTML(
+				{
+					onComplete: function(portlet, portletId) {
+						portlet.refreshURL = '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d37570\x26p_p_id\x3dTile_WAR_ahtilesportlet_INSTANCE_iGyLtuIF6yQc\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-4\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fearth\x252Flogin';
+					},
+					placeHolder: A.one('#p_load' + ns),
+					url: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d37570\x26p_p_id\x3dTile_WAR_ahtilesportlet_INSTANCE_iGyLtuIF6yQc\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-4\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d1\x26p_p_isolated\x3d1\x26currentURL\x3d\x252Fweb\x252Fearth\x252Flogin'
+				}
+			);
+		})();(function() {
+AUI().ready('aui-tooltip', 'aui-io-plugin','node','event','event-key',function (A) {
+		var languageContents=A.one('#ah-choose-language').html();
+		var t1 = new A.Tooltip({ 
+				trigger: '#chooseLanguage', 
+				showOn: 'click',
+				cancelHideOnInteraction: false, 
+				align: {points: ['bc', 'bc']},
+				bodyContent: languageContents,
+				destroy:{destroyAllNodes:true},
+				destroyed: true,
+				cssClass:'aui-helper-hidden',
+				hideClass:'aui-helper-hidden'
+			 }).render();
+			 
+					   
+		
+});
+})();(function() {
+Liferay.provide(window,'footerOpenFeedback',function() {	
+	var urlS = 'https://l4dridap1273:8446/web/earth/login?p_p_auth=Mq4n2V6Z&amp;p_p_id=viewfeedbackportlet_WAR_ahcommunityportlet&amp;p_p_lifecycle=2&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_cacheability=cacheLevelPage'+'&amp;pageName='+feedbackViewPage+'&amp;Version='+feedbackVersion+'&amp;uuid=f692b511-fc01-4872-8640-b5abd4c87384'+
+	'&amp;groupId=37365'+'&amp;languageId=en_US'+
+	'&amp;time1='+new Date().getTime()+'&amp;time2='+new Date().getTime()+'&amp;height='+window.screen.height+'&amp;width='+window.screen.width+'&amp;prev='+escape(window.document.referrer);
+	
+	A.io.request(urlS, { 
+		cache: true, 
+		sync: true, 
+		dataType: 'json',
+		timeout: 1000, 
+		method: 'get', 
+		on: { 
+			success: function() { 
+				window.open(this.get('responseData').feedbackURL,'feedbackWindow', 
+				'width=545, height=331, left=400, top=200, scrollbars=yes, menubar=no, toolbar=no, resizable=yes');
+				}, 
+			failure: function() {
+				alert('failure'); 
+			} 
+		} 
+	}); 
+},['liferay-util-list-fields']);
+
+
+})();(function() {
+		AUI().ready('aui-tooltip', 'aui-io-plugin', function(A) 
+		{ 
+		    var t1 = new A.Tooltip(
+			{ 
+			    trigger: '#tbaSysDateToolTipIcon', 
+			    cancelHideOnInteraction: false, 
+			    bodyContent: '&lt;p&gt;This is an optional input that will override the UPoint effective date for the participant\'s session. If the field is left blank, the UPoint effective date will default to the current date.&lt;/p&gt;', 
+			    align: { points: [ 'tc', 'bc' ] } 
+			}).render();
+        });
+			 
+		var simpleDatepicker = new A.DatePicker(
+		{
+       	    trigger: '#_ParticipantLogon20_WAR_ahcommonauthportlet_tbaSystemDate',
+       		calendar: 
+       		{
+       			selectMultipleDates:false,
+       		    dateFormat: "%m-%d-%Y"
+       		},
+           	cssClass:"ah-datepicker"
+      	}).render('##_ParticipantLogon20_WAR_ahcommonauthportlet_tbaSystemDatePicker');
+		
+		new A.one('#_ParticipantLogon20_WAR_ahcommonauthportlet_tbaSystemDate').val('');
+		})();(function() {
+	Liferay.Form.register(
+		{
+			id: '_ParticipantLogon20_WAR_ahcommonauthportlet_csPrtlLogn010InptFormBean'
+
+			
+				, fieldRules: [
+
+					
+
+				]
+			
+
+			
+		}
+	);
+})();(function() {
+	Liferay.Util.addInputType();
+
+	Liferay.Portlet.ready(
+		function(portletId, node) {
+			Liferay.Util.addInputType(node);
+		}
+	);
+})();(function() {
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 1; i &lt; liferayNotices.length; i++) {
+		new Liferay.Notice(liferayNotices[i]);
+	}
+
+	
+})();});
+// ]]&gt;
+</script>
+
+
+
+
+
+
+
+
+
+<script src="https://hislb01.hrbpo.hewitt.com/myHRStatic/UPoint/CL106/base-portal-32-theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6110&amp;t=1473679706000" type="text/javascript"></script>
+
+
+
+	
+
+	
+
+	<script type="text/javascript">
+		// &lt;![CDATA[
+			
+
+			
+		// ]]&gt;
+	</script>
+
+
+
+
+
+
+
+
+
+		      
+		  
+
+
+</body></html>
