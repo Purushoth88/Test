@@ -1,0 +1,251 @@
+{
+   "Data": [
+      {
+         "ConfLoc": "446-LEGALINFOPORTALSECWDW",
+         "PageName": "legal-information",
+         "objName": "Page_Body",
+         "locator": {
+            "type": "xpath",
+            "value": "//div[@class='journal-content-article']//h4|//div[@class='journal-content-article']//h3|//div[@class='journal-content-article']//p/text()|//div[@class='journal-content-article']//a|//div[@class='journal-content-article']//h5|//div[@class='journal-content-article']//li"
+         },
+         "Relation": "Parent_LegalInfo",
+         "objList": [
+            {
+               "Sid": 1,
+               "Expvalue": "Legal Information||Heading",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 2,
+               "Expvalue": "Terms of Use||Heading",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 3,
+               "Expvalue": "Your access to and use of this site, Premier Company Benefits Site, are subject to the terms and conditions contained herein. By accessing and using this site, you accept these Terms of Use without limitation or qualification.||BodyText",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 4,
+               "Expvalue": "\n                                                                        This site and its contents are provided \"as is.\" While we have made every attempt to ensure that the information provided is complete and accurate, we make no representation or warranty of any kind with respect to this site and information provided herein. We may change the information at any time without notice and will not be liable for errors or omissions in the content.\n                                                ||BodyText",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 5,
+               "Expvalue": "\n                                                                        You acknowledge that this site contains copyrighted materials as well as trademarks and service marks that are owned by Aon Corporation, Hewitt Associates LLC, Premier Company,  their related entities and affiliates, and third parties. Nothing contained on this site shall be construed as conferring any right to any copyright, trademark, or other proprietary interest of Aon Corporation, Hewitt Associates LLC, Premier Company,  their related entities and affiliates, and any third party. You are prohibited from modifying, copying, distributing, transmitting, displaying, publishing, selling, licensing, creating derivative works, or using any content available on or through the site other than as specifically permitted by this site. You agree not to infringe upon any copyright, trademark, or service mark. You also agree that you will not alter or remove any copyright, trademark, or any other notice from any authorized copy of the content on this site.\n                                                ||BodyText",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 6,
+               "Expvalue": "\n           The entry of your worker ID, user ID, password, personal identification number (PIN), Social Security Number (SSN) or other national ID, and/or other identifier serves as verification of your identity. Any instructions, choices, acknowledgements, consents, or requests you make on this site will be considered your written permission to Premier Company and the Premier Benefits Center  to provide information or conduct transactions on your behalf, in accordance with Premier Company’s employee policies, programs, or employee benefit plans. The entry of your telephone number will be considered your written permission to Premier Company and the Premier Benefits Center  to contact you at that number (and at any other telephone number we have on file for you) regarding your eligibility for and/or participation in Premier Company’s employee benefit plans and programs. Contact at that number can include automated voice messages and text messaging. You understand that your personal information may be shared, via secured connections only, with third parties with whom Premier Company has contracted to provide content on this site, but only to the extent necessary for the third party to perform its services to Premier Company.\n        ||BodyText",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 7,
+               "Expvalue": "\n            You are responsible for reviewing any written confirmation statements provided to you (on paper or in electronic form) regarding any instructions, choices, acknowledgements, consents, or requests that you make through this site. You are also responsible for reviewing all of the information transmitted to you. If there are inaccuracies, you are responsible for correcting them using the tools available to you on this site or by contacting the Premier Benefits Center to point them out.\n        ||BodyText",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 8,
+               "Expvalue": "\n             The functionality of this site permits you to request or provide personal information—for example, contact information, plan balance information, pay, etc. You are solely responsible for any loss of privacy or confidentiality of this personal information if you move this information outside this site or disclose your worker ID, user ID, password, PIN, SSN or other national ID, and/or other identifiers to any other party. You agree to contact Premier Company or the Premier Benefits Center immediately if you have reason to believe that someone has gained unauthorized access to your worker ID, user ID, password, PIN, SSN or other national ID, or any other identifier.\n        ||BodyText",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 9,
+               "Expvalue": "\n\t         \n\t\t\t \t\t\t\tSome material contained on this site is based on official plan documents. The legal plan document, the summary plan description, and any contract between the company and any employee or contractor will supersede any plan materials contained on this site. In addition, there may be situations where the plan provides different benefits to different employee groups. In general, this site displays only those benefits that are applicable to an individual, based on his or her employee group. Every effort has been made to ensure the accuracy of this material. In the unlikely event that there is a discrepancy between this site and the official plan documents, the official plan documents will control. Premier Company reserves the right to amend or terminate the plan(s) or program(s) at any time. If you believe the benefits do not describe those available to you, please ||BodyText",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 10,
+               "Expvalue": "contact us||Link",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 11,
+               "Expvalue": ".\n\t\t\t \t\t\t  \n        ||BodyText",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 12,
+               "Expvalue": "  \n            Certain pages or links on this site provide direct access, and sometimes authenticated access, to other sites maintained by third parties. We make no representations or warranties as to the content of these third-party sites and take no responsibility for such sites. A link to another site is not an endorsement of that site. We encourage you to review any third-party site's policies before providing any personal information.\n        ||BodyText",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 13,
+               "Expvalue": "\n            This site may not perform as intended at all times. You agree that Aon Corporation, Hewitt Associates LLC and their subsidiaries or affiliates, Premier Company, and/or the Premier Benefits Center are not responsible for any error, omission, interruption, or delay in operation of or transmission through this site, communication line failure, system failure, or other circumstance beyond their control. Aon Corporation and Hewitt Associates LLC are wholly owned subsidiaries of Aon plc. References to affiliates of Aon Corporation or Hewitt Associates LLC include Aon plc and its subsidiaries.\n        ||BodyText",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 14,
+               "Expvalue": "Copyright and Trademark Information||Heading",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 15,
+               "Expvalue": "\n          Other copyrights, trademarks, service marks, logos, and trade names that may appear on this site but are not specifically mentioned in this section are the property of their respective owners.\n        ||BodyText",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 16,
+               "Expvalue": "Hewitt Associates LLC, a wholly owned subsidiary of Aon plc||Heading",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 17,
+               "Expvalue": "Benefits Express™||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 18,
+               "Expvalue": "Quick Enrollment™||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 19,
+               "Expvalue": "UPoint®||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 20,
+               "Expvalue": "Your Benefits Resources™||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 21,
+               "Expvalue": "Your Pension Resources™||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 22,
+               "Expvalue": "Third Parties||Heading",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 23,
+               "Expvalue": "Browsers and Related Systems||Heading",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 24,
+               "Expvalue": "Adobe®, Adobe Flash®, and Adobe Reader® are registered trademarks of Adobe Systems Incorporated in the United States and other countries.||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 25,
+               "Expvalue": "Firefox® is a registered trademark of the Mozilla Foundation.||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 26,
+               "Expvalue": "Google Chrome™ is a trademark of Google Inc.||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 27,
+               "Expvalue": "Macintosh® and Safari® are registered trademarks of Apple Inc.||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 28,
+               "Expvalue": "Microsoft®, Internet Explorer®, Microsoft Edge™, Microsoft Excel®, Microsoft Money™, and Windows® are registered trademarks or trademarks of Microsoft Corporation in the United States and other countries.||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 29,
+               "Expvalue": "Netscape Navigator® is a registered trademark of Netscape Communication Corporation in the United States and other countries.||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 30,
+               "Expvalue": "Oracle® and Java® are registered trademarks of Oracle International Corporation or its affiliates.||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 31,
+               "Expvalue": "The WorkNumber® and Talx® are registered trademarks of Talx Corporation.||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 32,
+               "Expvalue": "Financial Services||Heading",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 33,
+               "Expvalue": "Financial Engines® and Retirement Help for Life® are registered trademarks or service marks of Financial Engines, Inc.||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 34,
+               "Expvalue": "HelloWallet® is a registered trademark of HelloWallet, LLC.||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 35,
+               "Expvalue": "Income Solutions® is a registered trademark of Hueler Investment Services, Inc.||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 36,
+               "Expvalue": "LEAF is a service mark of LEAF College Savings, LLC.||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 37,
+               "Expvalue": "Lipper® is a registered trademark of Thomson Reuters Global Resources.||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 38,
+               "Expvalue": "Mint® is a trademark of Intuit Inc., in the United States and other countries.||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 39,
+               "Expvalue": "Morningstar® and Morningstar® Retirement ManagerSM are registered trademarks or service marks of Morningstar, Inc.||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 40,
+               "Expvalue": "NYSE® and New York Stock Exchange® are registered trademarks of the NYSE Group, Inc.||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 41,
+               "Expvalue": "Prudential, the Prudential logo, and the Rock symbol are service marks of Prudential Financial, Inc. and its related entities, registered in many jurisdictions worldwide.||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 42,
+               "Expvalue": "Quicken® is a registered trademark of Intuit Inc. in the United States and other countries. ||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 43,
+               "Expvalue": "Other||Heading",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 44,
+               "Expvalue": "Healthy Paws Pet Insurance® is a registered trademark of Healthy Paws Pet Insurance, LLC.||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 45,
+               "Expvalue": "Some images copyright © Getty Images (Seattle), Inc., ©iStockphoto, LP, or © Veer Inc.||TabList",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 46,
+               "Expvalue": "What You Should Know||Heading",
+               "Actvalue": ""
+            },
+            {
+               "Sid": 47,
+               "Expvalue": "\n             While every effort is made to present accurate information based on the data collected, errors can occur. This site and its content are provided \"as is\" without any warranties of any kind, express or implied.\n        ||BodyText",
+               "Actvalue": ""
+            }
+         ]
+      }
+   ]
+}

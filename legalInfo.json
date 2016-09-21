@@ -1,0 +1,32 @@
+{
+  "type": "script",
+  "seleniumVersion": "2",
+  "formatVersion": 2,
+  "steps": [
+    {
+      "type": "get",
+      "url": "https://l4dridap1273:8446/web/earth/login"
+    },
+    {
+      "type": "clickElement",
+      "locator": {
+        "type": "link text",
+        "value": "Legal Information"
+      }
+    },
+    {
+      "type": "verifyTextPresent",
+      "text": "Legal Information"
+    }
+  ],
+  "data": {
+    "configs": {},
+    "source": "none"
+  },
+  "inputs": [
+    {
+      "ResultPath": "C:\\JsonFiles\\Result\\RS2092016_142433.json"
+    }
+  ],
+  "timeoutSeconds": 60
+}
