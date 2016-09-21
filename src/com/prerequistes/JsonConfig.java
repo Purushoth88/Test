@@ -1,9 +1,11 @@
 package prerequistes;
+import io.appium.java_client.android.AndroidDriver;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -21,22 +23,21 @@ import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.junit.rules.Verifier;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.remote.DesiredCapabilities;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
+import com.google.common.base.Verify;
 import com.jayway.jsonpath.JsonPath;
 
-public class BuilderExecution {
+public class JsonConfig {
 	static String fileName = "";
 	static String fileParentPath = "";
 	static Workbook wb = new XSSFWorkbook();
@@ -46,7 +47,7 @@ public class BuilderExecution {
 	static HashMap<Integer, List<String>> pageObjList = new HashMap<Integer, List<String>>();
 	static String jsonFilePath = "C:\\Users\\A0717585\\Documents\\My Received Files\\recording.json";
 
-	public static void readAndCompareJson(String pathFirstJson, WebDriver wd) {
+	 public static void readAndCompareJson(String pathFirstJson, WebDriver wd) {
 
 		File jsonFile = new File(pathFirstJson);
 		fileName = jsonFile.getName().replaceAll(".json", "");
@@ -94,8 +95,9 @@ public class BuilderExecution {
 			for (String resultXpath : resultXpathListArray) {
 
 				resultXpathObjList = JsonPath.parse(new File(pathResultJson))
-						.read("$.Data[?(@.ConfLoc==" + resultConfLocArray[j]
-								+ ")].objList.Expvalue");
+						.read(
+								"$.Data[?(@.ConfLoc==" + resultConfLocArray[j]
+										+ ")].objList.Expvalue");
 
 				resultObjList = JsonPath.parse(new File(pathResultJson)).read(
 						"$.Data[?(@.ConfLoc==" + resultConfLocArray[j]
@@ -109,15 +111,7 @@ public class BuilderExecution {
 				pageNameArray = pageNameList.toArray(new String[0]);
 
 				resultPathObjArray = resultXpathObjList.toArray(new String[0]);
-				
-				try{
-					resultXpath=resultXpath.replaceAll("/text\\(\\)", "");
-                    System.out.println(resultXpath);
-					
-				}catch(Exception e)
-				{}
-				
-				
+
 				List<WebElement> elements = wd.findElements(By
 						.xpath(resultXpath));
 				flag = flag + 1;
@@ -188,21 +182,17 @@ public class BuilderExecution {
 
 	public static void main(String[] aa) throws InvalidFormatException,
 			InterruptedException, IOException {
-		DesiredCapabilities capabilities = DesiredCapabilities.chrome();
-		WebDriver wd = new ChromeDriver(capabilities);
-		WebDriverWait wait = new WebDriverWait(wd, 20);
-		wd.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-		wd.get("https://vision-dev.aon.com/Pages/Home.aspx");
-		wd.findElement(By.id("Email")).sendKeys("priya.diwan08@gmail.com");
-		wd.findElement(By.id("Password")).sendKeys("Summer@2016");
-		wd.findElement(By.className("submit")).click();
 
-		Thread.sleep(10000);
-		Actions action = new Actions(wd);
-		WebElement we = wd.findElement(By
-				.xpath("//*[@class='highcharts-button']"));
-		action.moveToElement(we).click().build().perform();
-		Thread.sleep(10000);
+		createExcel();
+
+		try {
+			//recordingScript();
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		closeExcel();
+
 	}
 
 	// static SoftAssert softAssert= new SoftAssert();
@@ -284,117 +274,26 @@ public class BuilderExecution {
 
 	}
 
-	public static void recordingScript() throws InterruptedException {
+	public static AndroidDriver androidMobileChromeLauncher(String deviceName, String deviceSerialNumber) throws InterruptedException, IOException {
+		/**DesiredCapabilities capabilities = DesiredCapabilities.chrome();
+		WebDriver wd = new ChromeDriver(capabilities);**/
+		
+		DesiredCapabilities caps = new DesiredCapabilities();
+            caps.setCapability("automationName","Appium");
+            caps.setCapability("platformName", "Android");
+            caps.setCapability("deviceName", deviceName);
+            caps.setCapability("newCommandTimeout", "120");
+            caps.setCapability("browserName", "Chrome");
+            caps.setCapability("udid", deviceSerialNumber);
 
-		DesiredCapabilities capabilities = DesiredCapabilities.chrome();
-		WebDriver wd = new ChromeDriver(capabilities);
-		WebDriverWait wait = new WebDriverWait(wd, 20);
-		wd.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-		wd.get("https://l4dridap1273:8446/web/earth/login");
-		String url = wd.getCurrentUrl();
-		readAndCompareJson(jsonFilePath, wd);
-		try {
-			wd.get("https://l4dridap1273:8446/web/earth/login");
-			if (!wd.findElement(By.tagName("html")).getText()
-					.contains("Log On")) {
-				System.out.println("verifyTextPresent failed");
-			}
-			wd.findElement(
-					By.id("_ParticipantLogon20_WAR_ahcommonauthportlet_userId"))
-					.click();
-			wd.findElement(
-					By.id("_ParticipantLogon20_WAR_ahcommonauthportlet_userId"))
-					.clear();
-			wd.findElement(
-					By.id("_ParticipantLogon20_WAR_ahcommonauthportlet_userId"))
-					.sendKeys("789789789");
-			wd.findElement(
-					By.id("_ParticipantLogon20_WAR_ahcommonauthportlet_password"))
-					.click();
-			wd.findElement(
-					By.id("_ParticipantLogon20_WAR_ahcommonauthportlet_password"))
-					.clear();
-			wd.findElement(
-					By.id("_ParticipantLogon20_WAR_ahcommonauthportlet_password"))
-					.sendKeys("12345678");
-			wd.findElement(
-					By.id("_ParticipantLogon20_WAR_ahcommonauthportlet_testCfgList[0].cfgValue"))
-					.click();
-			wd.findElement(
-					By.id("_ParticipantLogon20_WAR_ahcommonauthportlet_testCfgList[0].cfgValue"))
-					.clear();
-			wd.findElement(
-					By.id("_ParticipantLogon20_WAR_ahcommonauthportlet_testCfgList[0].cfgValue"))
-					.sendKeys("z$jb");
-			wd.findElement(
-					By.id("_ParticipantLogon20_WAR_ahcommonauthportlet_testCfgList[1].cfgValue"))
-					.click();
-			wd.findElement(
-					By.id("_ParticipantLogon20_WAR_ahcommonauthportlet_testCfgList[1].cfgValue"))
-					.clear();
-			wd.findElement(
-					By.id("_ParticipantLogon20_WAR_ahcommonauthportlet_testCfgList[1].cfgValue"))
-					.sendKeys("z$jb");
-			wait.until(
-					ExpectedConditions.elementToBeClickable(By
-							.id("_ParticipantLogon20_WAR_ahcommonauthportlet_logOn")))
-					.click();
-
-		} catch (Exception e) {
-			System.out.println("Handle Exception  " + flag);
-			handleExceptionInResult(e.getMessage());
-		}
-		try {
-			Thread.sleep(5000);
-			WebElement elem = wait.until(ExpectedConditions
-					.elementToBeClickable(By.id("ahDialogCloseBtn")));
-			String url1 = wd.getCurrentUrl();
-			readAndCompareJson(jsonFilePath, wd);
-			if (!wd.findElement(By.tagName("html")).getText()
-					.contains("Messages")) {
-				System.out.println("verifyTextPresent failed");
-			}
-			if (!wd.findElement(By.tagName("html")).getText().contains("Close")) {
-				System.out.println("verifyTextPresent failed");
-			}
-			elem.click();
-
-		} catch (Exception e) {
-			System.out.println("Handle Exception  " + flag);
-			handleExceptionInResult(e.getMessage());
-		}
-		String url21 = wd.getCurrentUrl();
-		readAndCompareJson(jsonFilePath, wd);
-
-		try {
-			Thread.sleep(5000);
-			wait.until(
-					ExpectedConditions.elementToBeClickable(By
-							.linkText("Log Off"))).click();
-			wait.until(ExpectedConditions.elementToBeClickable(By
-					.id("ahDialogCloseBtn")));
-		} catch (Exception e) {
-			handleExceptionInResult(e.getMessage());
-
-		}
-
-		wd.quit();
-
-	}
-
-	public static void handleExceptionInResult(String message) {
-		flag = flag + 1;
-		Row row1 = ws.createRow(flag);
-		String lines[] = message.split("\\r?\\n");
-		String str[] = lines[0].split(":");
-		CellStyle style = wb.createCellStyle();
-		style.setFillForegroundColor(IndexedColors.RED.getIndex());
-		row1.createCell(1).setCellValue(str[1]);
-		row1.createCell(2).setCellValue(str[2]);
-		row1.createCell(3).setCellValue(message);
-		style.setFillPattern(CellStyle.SOLID_FOREGROUND);
-		row1.createCell(4).setCellValue("Exception Occured");
-		row1.getCell(4).setCellStyle(style);
+       AndroidDriver wd = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"), caps);
+       System.out.println("session open" + wd);
+          //  wd.get("https://l4dridap1273:8446/web/earth/login");
+		//wd.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
+		//wd.get("https://l4dridap1273:8446/web/earth/login");
+		
+        return wd;
+     
 	}
 
 }
